@@ -1,27 +1,32 @@
 # ==========================================
 # All
-*                               @long7872
+*                                   @long7872
 
 # ==========================================
 # FEATURE OWNERS
-/lib/features/map/              @map-owner
-/lib/features/events/            @events-owner
-/lib/features/report/            @report-owner
-/lib/features/community/         @community-owner
-/lib/features/profile/           @profile-owner
-/lib/features/notifications/     @notifications-owner
-/lib/features/settings/          @settings-owner
-/lib/features/donate/            @donate-owner
-/lib/features/dashboard/         @dashboard-owner
-/lib/features/admin/              @admin-owner
-/lib/features/knowledge/          @knowledge-owner
+# Khánh - Report Flow
+/lib/features/report/               @BuiQuocKhanh-VKU
+/lib/features/notifications/        @BuiQuocKhanh-VKU
+# Quỳnh - Map Lead
+/lib/features/map/                  @LeonieQuitterie
+/lib/features/admin/                @LeonieQuitterie
+# Hoàn - Community & Gamification
+/lib/features/community/            @HOAN_GITHUB_USERNAME
+/lib/features/profile/              @HOAN_GITHUB_USERNAME
+/lib/features/knowledge/            @HOAN_GITHUB_USERNAME
+# Long - Data & Donate
+/lib/features/dashboard/            @long7872
+/lib/features/donate/               @long7872
+# Hòa - Event Flow
+/lib/features/events/               @thislinkplease
+/lib/features/settings/             @thislinkplease
 
 # ==========================================
 # SHARED / CORE FILES
-/lib/core/                       @long7872
-/lib/shared/                     @long7872
-/lib/app/                        @long7872
-/pubspec.yaml                    @long7872
+/lib/core/                          @long7872
+/lib/shared/                        @long7872
+/lib/app/                           @long7872
+/pubspec.yaml                       @long7872
 
 # CODEOWNERS FILE
-/.github/CODEOWNERS              @long7872
+/.github/CODEOWNERS                 @long7872
