@@ -74,13 +74,13 @@ lib/
 ### Rules every AI-generated change must follow
 
 1. **No feature-to-feature imports.** A feature must not import files from another feature. Put reusable code in `core/` or `shared/`, or request an architectural change.
-2. **Never hardcode UI colors.** Use the existing `AppColors` tokens. Do not add raw hex values or arbitrary `Colors.*` values in feature screens.
-3. **Use existing text styles.** Use `AppTextStyles` instead of creating ad-hoc font sizes, weights, or text themes.
+2. **Colors must match Figma exactly.** Express every Figma color through the existing `AppColors` tokens when the hex value matches exactly (apply Figma opacity with `withAlpha`). Never replace a Figma color with the nearest token. If no token matches, define the exact Figma value in the feature's `<feature>_design_overrides.dart`, log it in the feature's `DESIGN_NOTES.md`, and add a `REQUEST`. Do not use raw hex values or `Colors.*` in feature screens (except `Colors.transparent`). See `.github/instructions/figma-fidelity.instructions.md`.
+3. **Typography must match Figma exactly.** Use `AppTextStyles` as the base. When a Figma text style differs in size, weight, line height, letter spacing, or color, or is off-scale, define a named style with the exact Figma values (built with `copyWith` from `AppTextStyles`) in the feature's `<feature>_design_overrides.dart`, log it in `DESIGN_NOTES.md`, and add a `REQUEST`. Never round to the nearest existing style, and never set the font family manually. See `.github/instructions/figma-fidelity.instructions.md`.
 4. **Use Core Widgets.** Prefer reusable widgets from `lib/core/widgets/` over rebuilding buttons, cards, chips, top bars, loading, empty, and error states.
 5. **Do not duplicate models or mock data.** Reuse classes in `lib/shared/models/` and state exposed through `lib/shared/mock/mock_store.dart`.
 6. **Use Riverpod for shared state.** Read state with `ref.watch(...)` / `ref.read(...)` according to the existing provider implementation. Do not create local duplicate data that should come from a shared provider.
 7. **Navigate through `AppRoutes` and the existing GoRouter setup.** Do not hardcode route strings in feature widgets and do not create a second router.
-8. **Only edit the assigned feature folder.** Do not modify `core/`, `shared/`, `app/`, router files, `pubspec.yaml`, or another feature unless the team has approved the change.
+8. **Only edit the assigned feature folder and your own route file.** Do not modify `core/`, `shared/`, `app/`, `pubspec.yaml`, or another feature unless the team has approved the change. The only file under `lib/app/` you may edit is your own route file `lib/app/router/features/<feature>_routes.dart`.
 9. **Do not modify shared files autonomously.** If a shared change is necessary, leave the feature implementation untouched where appropriate and add a clearly labelled `REQUEST` section explaining the requested change, reason, and affected files.
 10. **Do not invent APIs.** Inspect existing source declarations before using a constructor, model field, provider method, or route constant. If the declaration is unavailable, state the assumption or add a `REQUEST` rather than fabricating an API.
 11. **Preserve existing project conventions.** Keep the existing naming, file locations, null-safety, Riverpod style, routing pattern, and widget composition.
@@ -88,9 +88,11 @@ lib/
 
 ### Ownership boundaries
 
-- Each member works inside their assigned `lib/features/<feature>/` folder.
-- `lib/core/`, `lib/shared/`, `lib/app/`, router files, and `pubspec.yaml` are shared areas.
+- Each member works inside their assigned `lib/features/<feature>/` folder. This includes that feature's own `<feature>_design_overrides.dart`, `<feature>_paths.dart`, and `DESIGN_NOTES.md`.
+- Each member also owns the route file of their feature: `lib/app/router/features/<feature>_routes.dart` (see `.github/CODEOWNERS`).
+- `lib/core/`, `lib/shared/`, the rest of `lib/app/` (`app.dart`, `app_shell.dart`, `app_router.dart`, `app_routes.dart`, the router README), and `pubspec.yaml` are shared areas. AI must not edit them during a feature task; it adds a `REQUEST` instead.
 - Changes to shared areas must be coordinated with Long and reviewed according to `.github/CODEOWNERS`.
+- The only exceptions are tasks whose prompt starts with `PROMOTION TASK` or `MIGRATION TASK`, run as described in `.github/instructions/figma-fidelity.instructions.md`.
 
 ---
 
@@ -266,7 +268,7 @@ The exact `AppRoutes` constant identifiers, parameter types, and generated path 
 - Use the existing `GoRouter` navigation pattern used by the feature.
 - Main tabs are managed by `StatefulNavigationShell`; switching tabs should use the existing shell/branch navigation pattern.
 - Push detail or full-screen flows using the route API already established by the feature router.
-- Do not register routes or modify `app_router.dart`, `app_routes.dart`, or files under `lib/app/router/` unless explicitly authorized.
+- Register routes only in your own route file `lib/app/router/features/<feature>_routes.dart`. Never edit `app_router.dart`, `app_routes.dart`, or another feature's route file. Cross-feature entry points (routes other features call) are added to `AppRoutes` by the shared-code owner through a `REQUEST`.
 
 ---
 
@@ -309,8 +311,8 @@ Then use this prompt:
 > - Use the existing shared model(s): **`<MODEL_NAMES>`**.
 > - Read data and perform actions through the existing provider(s): **`<PROVIDER_NAMES>`**. Do not create duplicate mock data or providers.
 > - Navigate only through the existing `AppRoutes` members/helpers. Do not hardcode route strings.
-> - Do not import another feature. Do not modify files outside my assigned folder: **`lib/features/<MY_FEATURE>/`**.
-> - Do not modify `core/`, `shared/`, `app/`, router files, `.github/`, or `pubspec.yaml`.
+> - Do not modify files outside my assigned folder **`lib/features/<MY_FEATURE>/`** and my own route file **`lib/app/router/features/<MY_FEATURE>_routes.dart`**.
+> - Do not modify `core/`, `shared/`, the rest of `app/`, `.github/`, or `pubspec.yaml`.
 > - Inspect the actual Dart declarations before using constructors, fields, provider methods, or route identifiers. Do not invent APIs.
 > - Preserve existing naming and architecture conventions.
 > - Return the complete updated Dart file and briefly explain the implementation.
@@ -350,3 +352,12 @@ When in doubt:
 - Stay inside your assigned feature folder.
 - Ask the relevant owner for shared changes.
 - Put the requested shared change under **`REQUEST`** instead of editing it yourself.
+
+---
+
+## 12. Design Memory and Token Promotion
+
+- Figma values that have no shared token live in `lib/features/<feature>/<feature>_design_overrides.dart` and are logged in `lib/features/<feature>/DESIGN_NOTES.md` (append-only table).
+- Status flow: `Open` -> `Requested` -> `Promoted` -> `Migrated`.
+- Only the shared-code owner promotes entries into `lib/core/theme/` (`PROMOTION TASK`). Feature owners then switch to the shared token (`MIGRATION TASK`) and remove the override.
+- Every promotion is recorded in `docs/DESIGN_TOKENS_CHANGELOG.md`.

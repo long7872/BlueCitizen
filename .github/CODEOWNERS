@@ -1,32 +1,57 @@
-# ==========================================
-# All
-*                                   @long7872
+# Last matching pattern wins: general rules first, specific rules after.
 
 # ==========================================
-# FEATURE OWNERS
+# DEFAULT / GLOBAL FALLBACK
+# ==========================================
+*                                       @long7872
+
+# ==========================================
+# SHARED / CORE AREAS
+# ==========================================
+/lib/core/                              @long7872
+/lib/shared/                            @long7872
+/lib/app/                               @long7872
+/pubspec.yaml                           @long7872
+/.github/                               @long7872
+/.github/CODEOWNERS                     @long7872
+/docs/                                  @long7872
+
+# ==========================================
+# FEATURE FOLDERS
+# ==========================================
 # Khánh - Report Flow
-/lib/features/report/               @BuiQuocKhanh-VKU
-/lib/features/notifications/        @BuiQuocKhanh-VKU
+/lib/features/report/                  @BuiQuocKhanh-VKU
+/lib/features/notifications/           @BuiQuocKhanh-VKU
+
 # Quỳnh - Map Lead
-/lib/features/map/                  @LeonieQuitterie
-/lib/features/admin/                @LeonieQuitterie
+/lib/features/map/                      @LeonieQuitterie
+/lib/features/admin/                    @LeonieQuitterie
+
 # Hoàn - Community & Gamification
-/lib/features/community/            @HOAN_GITHUB_USERNAME
-/lib/features/profile/              @HOAN_GITHUB_USERNAME
-/lib/features/knowledge/            @HOAN_GITHUB_USERNAME
+/lib/features/community/                @HOAN_GITHUB_USERNAME
+/lib/features/profile/                  @HOAN_GITHUB_USERNAME
+/lib/features/knowledge/                @HOAN_GITHUB_USERNAME
+
 # Long - Data & Donate
-/lib/features/dashboard/            @long7872
-/lib/features/donate/               @long7872
+/lib/features/dashboard/                @long7872
+/lib/features/donate/                   @long7872
+
 # Hòa - Event Flow
-/lib/features/events/               @thislinkplease
-/lib/features/settings/             @thislinkplease
+/lib/features/events/                   @thislinkplease
+/lib/features/settings/                 @thislinkplease
 
 # ==========================================
-# SHARED / CORE FILES
-/lib/core/                          @long7872
-/lib/shared/                        @long7872
-/lib/app/                           @long7872
-/pubspec.yaml                       @long7872
-
-# CODEOWNERS FILE
-/.github/CODEOWNERS                 @long7872
+# ROUTE FILES
+# The feature owner edits, the shared-code owner (@long7872) approves
+# ==========================================
+/lib/app/router/features/report_routes.dart         @BuiQuocKhanh-VKU @long7872
+/lib/app/router/features/notifications_routes.dart  @BuiQuocKhanh-VKU @long7872
+/lib/app/router/features/map_routes.dart            @LeonieQuitterie @long7872
+/lib/app/router/features/admin_routes.dart          @LeonieQuitterie @long7872
+/lib/app/router/features/community_routes.dart      @HOAN_GITHUB_USERNAME @long7872
+/lib/app/router/features/profile_routes.dart        @HOAN_GITHUB_USERNAME @long7872
+/lib/app/router/features/knowledge_routes.dart      @HOAN_GITHUB_USERNAME @long7872
+/lib/app/router/features/dashboard_routes.dart      @long7872
+/lib/app/router/features/donate_routes.dart         @long7872
+/lib/app/router/features/events_routes.dart         @thislinkplease @long7872
+/lib/app/router/features/settings_routes.dart       @thislinkplease @long7872

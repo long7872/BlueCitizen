@@ -204,7 +204,7 @@ These rules apply to every feature and every contributor.
 9. **Do not invent API signatures.** Check the actual Dart declarations for widget constructors, model fields, provider methods, and route identifiers.
 10. **Do not add packages without approval.** Changes to `pubspec.yaml` must be discussed with the shared-code owners.
 
-If a feature requires a shared widget, model, provider, token, route, dependency, or architecture change, describe it in the PR and coordinate with Quỳnh and Long. Do not silently modify shared code.
+If a feature requires a shared widget, model, provider, token, route, dependency, or architecture change, describe it in the PR and coordinate with Long. Do not silently modify shared code.
 
 ---
 
@@ -338,7 +338,7 @@ Navigation is configured with GoRouter.
 
 The supporting destinations include Notifications, Settings, Donate, Dashboard, Admin, and Knowledge. Detail route helpers include event, report, and area details; check `app_routes.dart` for exact identifiers and parameter types.
 
-**Do not add duplicate route files under `lib/features/`.** If a screen stub is added, update/import it from the existing route file for that feature. Changes to router composition or shared path definitions require approval from Quỳnh and Long.
+**Do not add duplicate route files under `lib/features/`.** If a screen stub is added, update/import it from the existing route file for that feature. Changes to router composition or shared path definitions require approval from Long.
 
 ---
 
@@ -415,7 +415,7 @@ In addition to the common reading above:
 - Use the Figma frame assigned to your task.
 - Do not edit other feature folders or shared files without approval.
 
-### Required for Quỳnh and Long – shared-code owners
+### Required for Long – shared-code owners
 
 In addition to the common reading above, read and maintain:
 
@@ -427,7 +427,7 @@ In addition to the common reading above, read and maintain:
 - `.github/CODEOWNERS` and the repository branch-protection settings.
 - `pubspec.yaml` when reviewing dependency changes.
 
-Quỳnh and Long coordinate changes to `lib/core/`, `lib/shared/`, `lib/app/`, router files, and `pubspec.yaml`. A line in CODEOWNERS naming both people means GitHub can request review from the owners; check the repository's actual review rules to determine how many approvals are required.
+Long coordinate changes to `lib/core/`, `lib/shared/`, `lib/app/`, router files, and `pubspec.yaml`. A line in CODEOWNERS naming both people means GitHub can request review from the owners; check the repository's actual review rules to determine how many approvals are required.
 
 ### Required for the repository maintainer
 
