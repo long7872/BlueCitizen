@@ -1,8 +1,11 @@
 import 'package:blue_citizen/features/report/screens/report_screen.dart';
+import 'package:blue_citizen/features/report/screens/report_capture_screen.dart';
+import 'package:blue_citizen/features/report/screens/species_capture_screen.dart';
 import 'package:go_router/go_router.dart';
 
-import 'package:blue_citizen/core/widgets/placeholder_screen.dart';
 import 'package:blue_citizen/app/router/app_routes.dart';
+import 'package:blue_citizen/core/widgets/placeholder_screen.dart';
+import 'package:blue_citizen/features/report/report_paths.dart';
 
 // ==========================================
 // REPORT TAB - HOME
@@ -24,16 +27,10 @@ final List<RouteBase> reportRoutes = [
   // ------------------------------------------
 
   GoRoute(
-    path: '/report/new/pollution',
+    path: ReportPaths.pollutionCapture,
     name: 'pollutionReport',
     parentNavigatorKey: rootNavigatorKey,
-    builder: (context, state) {
-      return const PlaceholderScreen(
-        title: 'Pollution & Waste',
-        owner: 'Khanh',
-        links: [],
-      );
-    },
+    builder: (context, state) => const ReportCaptureScreen(),
   ),
 
   GoRoute(
@@ -53,16 +50,10 @@ final List<RouteBase> reportRoutes = [
   // RARE MARINE SPECIES
   // ------------------------------------------
   GoRoute(
-    path: '/report/new/species',
+    path: ReportPaths.speciesCapture,
     name: 'speciesReport',
     parentNavigatorKey: rootNavigatorKey,
-    builder: (context, state) {
-      return const PlaceholderScreen(
-        title: 'Rare Marine Species',
-        owner: 'Khanh',
-        links: [],
-      );
-    },
+    builder: (context, state) => const SpeciesCaptureScreen(),
   ),
 
   GoRoute(
