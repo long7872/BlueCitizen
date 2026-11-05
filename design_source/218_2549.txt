@@ -1,0 +1,320 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/57d085db-5cc4-4468-bdbd-5bd3372be643";
+const img20261014914422 = `${assetPathPrefix}/073f8.png`;
+const img20261014927491 = `${assetPathPrefix}/71453.png`;
+const img20261014942121 = `${assetPathPrefix}/059a6.png`;
+const img20261014936051 = `${assetPathPrefix}/b527b.png`;
+const img20261014922461 = `${assetPathPrefix}/29744.png`;
+const imgGroup10276 = `${assetPathPrefix}/b0dc5.svg`;
+const imgVector = `${assetPathPrefix}/f678f.svg`;
+const imgGroup11108 = `${assetPathPrefix}/2d12f.svg`;
+const imgVector1 = `${assetPathPrefix}/9c9f0.svg`;
+const imgVector2 = `${assetPathPrefix}/659e6.svg`;
+const imgVector3 = `${assetPathPrefix}/cc560.svg`;
+const imgVector4 = `${assetPathPrefix}/d9b78.svg`;
+const imgVector5 = `${assetPathPrefix}/0bc99.svg`;
+const imgVector6 = `${assetPathPrefix}/d132e.svg`;
+const imgVector7 = `${assetPathPrefix}/aee99.svg`;
+const imgVector8 = `${assetPathPrefix}/34eee.svg`;
+const imgVector9 = `${assetPathPrefix}/cb9dc.svg`;
+const imgVector10 = `${assetPathPrefix}/9bfcc.svg`;
+const imgGroup = `${assetPathPrefix}/5cb9a.svg`;
+const imgGroup1 = `${assetPathPrefix}/09bc9.svg`;
+const imgVector11 = `${assetPathPrefix}/86969.svg`;
+const imgVector12 = `${assetPathPrefix}/87f88.svg`;
+const imgVector13 = `${assetPathPrefix}/0e985.svg`;
+const img20261014914421 = `${assetPathPrefix}/13127.svg`;
+const imgGroup10796 = `${assetPathPrefix}/1886a.svg`;
+const imgTime = `${assetPathPrefix}/ea77a.svg`;
+const imgReception = `${assetPathPrefix}/50e69.svg`;
+const imgWiFi = `${assetPathPrefix}/0be8d.svg`;
+const imgBattery = `${assetPathPrefix}/55081.svg`;
+
+export default function Component12UiAchievementsBadges() {
+  return (
+    <div className="bg-white overflow-clip relative rounded-[24px] size-full" data-node-id="218:2549" data-name="12_UI_Achievements_Badges">
+      <div className="absolute contents left-[23px] top-[69px]" data-node-id="218:2550" data-name="TopAppBar">
+        <div className="-translate-x-1/2 absolute contents left-1/2 top-[69px]" data-node-id="1230:492">
+          <div className="-translate-x-1/2 absolute bg-[#a5e0f2] h-[43px] left-1/2 rounded-[20px] top-[69px] w-[151px]" data-node-id="218:2551" />
+          <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-1/2 not-italic text-[#3f596b] text-[20px] text-center top-[calc(50%-349px)] whitespace-nowrap" data-node-id="218:2558">
+            Achievements
+          </p>
+        </div>
+        <button className="absolute block cursor-pointer left-[23px] size-[43px] top-[69px]" data-node-id="218:2552">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10276} />
+        </button>
+      </div>
+      <div className="absolute inset-[13.73%_6.36%_71.71%_3.82%]" data-node-id="218:2559" data-name="Vector">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+      </div>
+      <div className="absolute inset-[11.5%_6.62%_76.76%_67.94%]" data-node-id="1278:234">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup11108} />
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[15.85%_66.41%_82.28%_8.4%] leading-[normal] not-italic text-[#a5e0f2] text-[12px] whitespace-nowrap" data-node-id="218:2562">
+        YOUR ECO JOURNEY
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[18.66%_57.25%_78.05%_8.4%] leading-[normal] not-italic text-[21px] text-white whitespace-nowrap" data-node-id="218:2563">
+        12 of 24 badges
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[22.48%_47.33%_75.65%_8.4%] leading-[normal] not-italic text-[12px] text-white whitespace-nowrap" data-node-id="218:2564">
+        You’re halfway to the next milestone.
+      </p>
+      <div className="absolute inset-[25.12%_22.9%_74.06%_8.4%]" data-node-id="218:2565" data-name="Vector">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+      </div>
+      <div className="absolute inset-[25.12%_57.25%_74.06%_8.4%]" data-node-id="218:2566" data-name="Vector">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector2} />
+      </div>
+      <div className="absolute contents left-[15px] top-[255px]" data-node-id="1230:493">
+        <div className="absolute inset-[29.93%_83.72%_66.78%_3.82%]" data-node-id="218:2567" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector3} />
+        </div>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%-156.5px)] not-italic text-[12px] text-center text-white top-[calc(50%-165px)] whitespace-nowrap" data-node-id="218:2568">
+          All
+        </p>
+      </div>
+      <div className="absolute contents left-[71px] top-[255px]" data-node-id="1230:494">
+        <div className="absolute inset-[29.93%_57%_66.78%_18.07%]" data-node-id="218:2569" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector4} />
+        </div>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%-76.5px)] not-italic text-[#0186a8] text-[12px] text-center top-[calc(50%-165px)] whitespace-nowrap" data-node-id="218:2570">
+          Community
+        </p>
+      </div>
+      <div className="absolute contents left-[176px] top-[255px]" data-node-id="1230:495">
+        <div className="absolute inset-[29.93%_35.62%_66.78%_44.78%]" data-node-id="218:2571" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector5} />
+        </div>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%+18.5px)] not-italic text-[#3f596b] text-[12px] text-center top-[calc(50%-165px)] whitespace-nowrap" data-node-id="218:2572">
+          Cleanup
+        </p>
+      </div>
+      <div className="absolute contents left-[260px] top-[255px]" data-node-id="1230:496">
+        <div className="absolute inset-[29.93%_10.94%_66.78%_66.16%]" data-node-id="218:2573" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector6} />
+        </div>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%+108.5px)] not-italic text-[#3f596b] text-[12px] text-center top-[calc(50%-165px)] whitespace-nowrap" data-node-id="218:2574">
+          Knowledge
+        </p>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[34.62%_75.06%_62.68%_3.82%] leading-[normal] not-italic text-[#091727] text-[17px] whitespace-nowrap" data-node-id="218:2575">
+        Your badges
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[35.15%_6.36%_62.97%_80.92%] leading-[normal] not-italic text-[#7b92a1] text-[12px] text-right whitespace-nowrap" data-node-id="218:2576">
+        12 earned
+      </p>
+      <div className="absolute inset-[38.15%_52.42%_49.41%_3.82%]" data-node-id="218:2577" data-name="Vector">
+        <div className="absolute inset-[-0.42%_-0.26%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector7} />
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[40.34%_67.43%_57.43%_19.59%] leading-[normal] not-italic text-[#091727] text-[14px] whitespace-nowrap" data-node-id="218:2578">
+        First Step
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[42.84%_57.76%_55.28%_19.59%] leading-[normal] not-italic text-[#7b92a1] text-[12px] whitespace-nowrap" data-node-id="218:2579">
+        Complete 1 action
+      </p>
+      <div className="absolute contents left-[28px] top-[399px]" data-node-id="1230:497">
+        <div className="absolute inset-[46.83%_76.59%_50.82%_7.12%]" data-node-id="218:2580" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector8} />
+        </div>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%-136.5px)] not-italic text-[#178b72] text-[12px] text-center top-[calc(50%-25px)] whitespace-nowrap" data-node-id="218:2581">
+          EARNED
+        </p>
+      </div>
+      <div className="absolute inset-[38.15%_6.36%_49.41%_49.87%]" data-node-id="218:2582" data-name="Vector">
+        <div className="absolute inset-[-0.42%_-0.26%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector7} />
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[40.34%_13.23%_57.43%_65.65%] leading-[normal] not-italic text-[#091727] text-[14px] whitespace-nowrap" data-node-id="218:2583">
+        Hero of the sea
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[42.84%_18.32%_55.28%_65.65%] leading-[normal] not-italic text-[#7b92a1] text-[12px] whitespace-nowrap" data-node-id="218:2584">
+        Collect 10 kg
+      </p>
+      <div className="absolute contents left-[209px] top-[399px]" data-node-id="1230:498">
+        <div className="absolute inset-[46.83%_30.53%_50.82%_53.18%]" data-node-id="218:2585" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector8} />
+        </div>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%+44.5px)] not-italic text-[#178b72] text-[12px] text-center top-[calc(50%-25px)] whitespace-nowrap" data-node-id="218:2586">
+          EARNED
+        </p>
+      </div>
+      <a className="absolute contents cursor-pointer left-[15px] top-[441px]" data-node-id="759:535">
+        <div className="absolute inset-[51.76%_52.42%_35.8%_3.82%]" data-node-id="218:2587" data-name="Vector">
+          <div className="absolute inset-[-0.42%_-0.26%]">
+            <img alt="" className="block max-w-none size-full" src={imgVector7} />
+          </div>
+        </div>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[53.96%_62.85%_43.81%_19.59%] leading-[normal] not-italic text-[#091727] text-[14px] whitespace-nowrap" data-node-id="218:2588">
+          Team Player
+        </p>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[56.46%_64.89%_41.67%_19.59%] leading-[normal] not-italic text-[#7b92a1] text-[12px] whitespace-nowrap" data-node-id="218:2589">
+          Join 3 events
+        </p>
+        <div className="absolute contents left-[28px] top-[515px]" data-node-id="1230:499">
+          <div className="absolute inset-[60.45%_76.59%_37.21%_7.12%]" data-node-id="218:2590" data-name="Vector">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector8} />
+          </div>
+          <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%-136.5px)] not-italic text-[#178b72] text-[12px] text-center top-[calc(50%+91px)] whitespace-nowrap" data-node-id="218:2591">
+            EARNED
+          </p>
+        </div>
+      </a>
+      <div className="absolute inset-[51.76%_6.36%_35.8%_49.87%]" data-node-id="218:2592" data-name="Vector">
+        <div className="absolute inset-[-0.42%_-0.26%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector7} />
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[53.96%_15.52%_43.81%_65.65%] leading-[normal] not-italic text-[#091727] text-[14px] whitespace-nowrap" data-node-id="218:2593">
+        Nature Guide
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[56.46%_17.05%_41.67%_65.65%] leading-[normal] not-italic text-[#7b92a1] text-[12px] whitespace-nowrap" data-node-id="218:2594">
+        Read 5 guides
+      </p>
+      <div className="absolute contents left-[209px] top-[515px]" data-node-id="1230:500">
+        <div className="absolute inset-[60.45%_30.53%_37.21%_53.18%]" data-node-id="218:2595" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector8} />
+        </div>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%+44.5px)] not-italic text-[#178b72] text-[12px] text-center top-[calc(50%+91px)] whitespace-nowrap" data-node-id="218:2596">
+          EARNED
+        </p>
+      </div>
+      <div className="absolute inset-[65.38%_52.42%_22.18%_3.82%]" data-node-id="218:2597" data-name="Vector">
+        <div className="absolute inset-[-0.42%_-0.26%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector7} />
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[67.57%_61.83%_30.2%_19.59%] leading-[normal] not-italic text-[#091727] text-[14px] whitespace-nowrap" data-node-id="218:2598">
+        7-Day Streak
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[70.07%_57.51%_28.05%_19.59%] leading-[normal] not-italic text-[#7b92a1] text-[12px] whitespace-nowrap" data-node-id="218:2599">
+        Act 7 days in a row
+      </p>
+      <div className="absolute contents left-[28px] top-[631px]" data-node-id="1230:501">
+        <div className="absolute inset-[74.06%_76.59%_23.59%_7.12%]" data-node-id="218:2600" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector8} />
+        </div>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%-136.5px)] not-italic text-[#178b72] text-[12px] text-center top-[calc(50%+207px)] whitespace-nowrap" data-node-id="218:2601">
+          EARNED
+        </p>
+      </div>
+      <div className="absolute inset-[65.38%_6.36%_22.18%_49.87%]" data-node-id="218:2602" data-name="Vector">
+        <div className="absolute inset-[-0.42%_-0.26%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector7} />
+        </div>
+      </div>
+      <div className="absolute inset-[66.67%_36.64%_28.4%_52.67%]" data-node-id="218:2603" data-name="Vector">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector9} />
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[67.57%_18.83%_30.2%_65.65%] leading-[normal] not-italic text-[#091727] text-[14px] whitespace-nowrap" data-node-id="218:2604">
+        Eco Mentor
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[70.07%_17.56%_28.05%_65.65%] leading-[normal] not-italic text-[#7b92a1] text-[12px] whitespace-nowrap" data-node-id="218:2605">
+        Help 5 people
+      </p>
+      <div className="absolute contents left-[209px] top-[631px]" data-node-id="1230:502">
+        <div className="absolute inset-[74.06%_31.3%_23.59%_53.18%]" data-node-id="218:2606" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector10} />
+        </div>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%+43px)] not-italic text-[#7b92a1] text-[12px] text-center top-[calc(50%+207px)] whitespace-nowrap" data-node-id="218:2607">
+          LOCKED
+        </p>
+      </div>
+      <div className="absolute inset-[74.52%_10.05%_24.16%_87.4%]" data-node-id="218:2608" data-name="Group">
+        <div className="absolute inset-[-4.44%_-5%]">
+          <img alt="" className="block max-w-none size-full" src={imgGroup} />
+        </div>
+      </div>
+      <div className="absolute inset-[67.72%_39.69%_29.77%_55.47%]" data-node-id="218:2611" data-name="Group">
+        <div className="absolute inset-[-2.34%_-2.63%]">
+          <img alt="" className="block max-w-none size-full" src={imgGroup1} />
+        </div>
+      </div>
+      <div className="absolute inset-[79.81%_6.36%_8.1%_3.82%]" data-node-id="218:2614" data-name="Vector">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector11} />
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[80.87%_52.93%_16.9%_7.38%] leading-[normal] not-italic text-[#091727] text-[14px] whitespace-nowrap" data-node-id="218:2615">
+        Next up: Community Builder
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[83.45%_41.73%_14.67%_7.38%] leading-[normal] not-italic text-[#3f596b] text-[12px] whitespace-nowrap" data-node-id="218:2616">
+        Share 3 helpful posts to unlock this badge.
+      </p>
+      <div className="absolute inset-[86.38%_9.92%_12.91%_7.38%]" data-node-id="218:2617" data-name="Vector">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector12} />
+      </div>
+      <div className="absolute inset-[86.38%_55.47%_12.91%_7.38%]" data-node-id="218:2618" data-name="Vector">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector13} />
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[88.64%_82.19%_9.48%_7.38%] leading-[normal] not-italic text-[#7b92a1] text-[12px] whitespace-nowrap" data-node-id="218:2619">
+        Progress
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[88.64%_9.92%_9.48%_77.35%] leading-[normal] not-italic text-[#0186a8] text-[12px] text-right whitespace-nowrap" data-node-id="218:2620">
+        2 / 5 posts
+      </p>
+      <div className="absolute contents left-[6.62%] right-[82.7%] top-[335px]" data-node-id="218:2621" data-name="Mask group">
+        <div className="absolute aspect-[476/472] left-[6.35%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[1.05px_2.1px] mask-size-[42px_42px] right-[82.43%] top-[332.9px]" data-node-id="218:2623" style={{ maskImage: `url("${img20261014914421}")` }} data-name="スクリーンショット 2026-10-14 9.14.42 1">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img20261014914422} />
+        </div>
+      </div>
+      <div className="absolute contents left-[6.62%] right-[82.7%] top-[453px]" data-node-id="218:2624" data-name="Mask group">
+        <div className="absolute left-[10px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[16px_12px] mask-size-[42px_42px] size-[73px] top-[441px]" data-node-id="218:2626" style={{ maskImage: `url("${img20261014914421}")` }} data-name="スクリーンショット 2026-10-14 9.27.49 1">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img20261014927491} />
+        </div>
+      </div>
+      <div className="absolute contents left-[52.67%] right-[36.64%] top-[453px]" data-node-id="218:2627" data-name="Mask group">
+        <div className="absolute h-[85px] left-[187px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[20px_20px] mask-size-[42px_42px] top-[433px] w-[88px]" data-node-id="218:2629" style={{ maskImage: `url("${img20261014914421}")` }} data-name="スクリーンショット 2026-10-14 9.42.12 1">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img20261014942121} />
+        </div>
+      </div>
+      <div className="absolute contents left-[6.62%] right-[82.7%] top-[569px]" data-node-id="218:2630" data-name="Mask group">
+        <div className="absolute left-[25px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[1px_1px] mask-size-[42px_42px] size-[44px] top-[568px]" data-node-id="218:2632" style={{ maskImage: `url("${img20261014914421}")` }} data-name="スクリーンショット 2026-10-14 9.36.05 1">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img20261014936051} />
+        </div>
+      </div>
+      <div className="absolute contents left-[52.67%] right-[36.64%] top-[335px]" data-node-id="218:2633" data-name="Mask group">
+        <div className="absolute left-[204px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[3px_0px] mask-size-[42px_42px] size-[45px] top-[335px]" data-node-id="218:2635" style={{ maskImage: `url("${img20261014914421}")` }} data-name="スクリーンショット 2026-10-14 9.22.46 1">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img20261014922461} />
+        </div>
+      </div>
+      <div className="absolute left-[284px] size-[74px] top-[126px]" data-node-id="1278:253">
+        <div className="absolute inset-[-5.41%]">
+          <img alt="" className="block max-w-none size-full" src={imgGroup10796} />
+        </div>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0.8)] content-stretch flex h-[59px] items-center justify-center left-0 overflow-clip right-0 top-0" data-node-id="218:2649" data-name="Status Bar">
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="218:2650" data-name="Time">
+          <div className="h-[13px] relative shrink-0 w-[40px]" data-node-id="218:2651" data-name="Time">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgTime} />
+          </div>
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="218:2653" data-name="Dynamic Island Frame">
+          <div className="bg-black h-[37px] relative rounded-[20px] shrink-0 w-[125px]" data-node-id="218:2654" data-name="Dynamic Island" />
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] gap-[8px] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="218:2655" data-name="Icons">
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="218:2656" data-name="Reception">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgReception} />
+          </div>
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="218:2661" data-name="Wi-fi">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWiFi} />
+          </div>
+          <div className="h-[13px] relative shrink-0 w-[28px]" data-node-id="218:2663" data-name="Battery">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgBattery} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0)] content-stretch flex h-[34px] items-center justify-center left-0 overflow-clip pt-[13px] right-0 top-[818px]" data-node-id="218:2667" data-name="Home Bar">
+        <div className="bg-black h-[5px] relative rounded-[3px] shrink-0 w-[134px]" data-node-id="218:2668" data-name="Rectangle" />
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+The generated code contains image and SVG URL constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

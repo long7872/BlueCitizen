@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="28" height="13" viewBox="0 0 28 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Battery" clip-path="url(#clip0_0_37)">
+<path id="Vector" opacity="0.35" d="M4.04938 0.5H21.0494C22.9824 0.5 24.5494 2.067 24.5494 4V9C24.5494 10.933 22.9824 12.5 21.0494 12.5H4.04938C2.11638 12.5 0.549377 10.933 0.549377 9V4C0.549377 2.067 2.11638 0.5 4.04938 0.5Z" stroke="black"/>
+<path id="Vector_2" opacity="0.4" d="M26.0494 5V9.22034C26.8984 8.86291 27.4506 8.0314 27.4506 7.11017C27.4506 6.18894 26.8984 5.35744 26.0494 5Z" fill="black"/>
+<path id="Vector_3" d="M2.04938 4C2.04938 2.89543 2.94481 2 4.04938 2H21.0494C22.1539 2 23.0494 2.89543 23.0494 4V9C23.0494 10.1046 22.1539 11 21.0494 11H4.04938C2.94481 11 2.04938 10.1046 2.04938 9V4Z" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0_0_37">
+<rect width="28" height="13" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,276 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/e19db9eb-0f9b-4726-8ee9-94328893a106";
+const imgEllipse78 = `${assetPathPrefix}/4cb21.png`;
+const imgEllipse79 = `${assetPathPrefix}/09179.png`;
+const imgEllipse80 = `${assetPathPrefix}/8fed9.png`;
+const imgEllipse81 = `${assetPathPrefix}/ded17.png`;
+const imgImage19 = `${assetPathPrefix}/abf1d.png`;
+const imgGroup10276 = `${assetPathPrefix}/a3c75.svg`;
+const imgLine30 = `${assetPathPrefix}/0eab3.svg`;
+const imgLine31 = `${assetPathPrefix}/196fa.svg`;
+const imgUserInterfaceResearch = `${assetPathPrefix}/821b4.svg`;
+const imgVector = `${assetPathPrefix}/243a4.svg`;
+const imgVector1 = `${assetPathPrefix}/25e8c.svg`;
+const imgVector2 = `${assetPathPrefix}/cbbe6.svg`;
+const imgTime = `${assetPathPrefix}/ea77a.svg`;
+const imgReception = `${assetPathPrefix}/50e69.svg`;
+const imgWiFi = `${assetPathPrefix}/0be8d.svg`;
+const imgBattery = `${assetPathPrefix}/55081.svg`;
+
+export default function Q34() {
+  return (
+    <div className="bg-white overflow-clip relative rounded-[24px] size-full" data-node-id="605:523" data-name="Q - 34">
+      <div className="absolute contents inset-[8.1%_22.9%_86.85%_5.85%]" data-node-id="605:597" data-name="TopAppBar">
+        <a className="absolute block cursor-pointer inset-[8.1%_83.21%_86.85%_5.85%]" data-node-id="605:599">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10276} />
+        </a>
+        <div className="absolute bottom-[86.85%] contents left-[97px] top-[8.1%]" data-node-id="605:625">
+          <div className="absolute bg-[#a5e0f2] inset-[8.1%_22.9%_86.85%_24.68%] rounded-[20px]" data-node-id="605:598" />
+          <p className="[word-break:break-word] absolute bottom-[87.91%] font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%-44.5px)] not-italic text-[#3f596b] text-[20px] top-[8.92%] whitespace-nowrap" data-node-id="605:602">
+            Applications
+          </p>
+        </div>
+      </div>
+      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Bold'] font-bold justify-center leading-[0] left-[23px] not-italic text-[#43c4d6] text-[16px] top-[147.5px] whitespace-nowrap" data-node-id="606:626">
+        <p className="leading-[22.8px]">Pending (12)</p>
+      </div>
+      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[314px] not-italic text-[16px] text-[rgba(0,0,0,0.6)] top-[147.5px] whitespace-nowrap" data-node-id="606:636">
+        <p className="leading-[22.8px]">Rejected</p>
+      </div>
+      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[164px] not-italic text-[16px] text-[rgba(0,0,0,0.6)] top-[147.5px] whitespace-nowrap" data-node-id="606:638">
+        <p className="leading-[22.8px]">Approved</p>
+      </div>
+      <div className="absolute h-0 left-0 top-[168.47px] w-[393.001px]" data-node-id="606:640">
+        <div className="absolute inset-[-0.7px_0_0_0]">
+          <img alt="" className="block max-w-none size-full" src={imgLine30} />
+        </div>
+      </div>
+      <div className="absolute flex h-[0.463px] items-center justify-center left-0 top-[169.01px] w-[131.001px]" data-node-id="606:642">
+        <div className="flex-none rotate-[-0.2deg]">
+          <div className="h-0 relative w-[131.002px]">
+            <div className="absolute inset-[-2px_0_0_0]">
+              <img alt="" className="block max-w-none size-full" src={imgLine31} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute contents left-[25px] top-[188px]" data-node-id="606:648">
+        <div className="absolute bg-white border-[0.5px] border-[rgba(0,0,0,0.3)] border-solid h-[32px] left-[25px] rounded-[18px] top-[188px] w-[193px]" data-node-id="606:649" />
+        <div className="absolute left-[48.37px] size-[17.253px] top-[196.49px]" data-node-id="606:650" data-name="User Interface / Research">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUserInterfaceResearch} />
+        </div>
+        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal h-[14.14px] justify-center leading-[0] left-[75px] not-italic text-[#666] text-[14px] top-[204px] w-[245px]" data-node-id="606:651">
+          <p className="leading-[normal]">Search ...</p>
+        </div>
+      </div>
+      <div className="absolute contents left-[237px] top-[189px]" data-node-id="606:665">
+        <div className="absolute bg-[rgba(255,255,255,0.8)] border-[0.5px] border-[rgba(0,0,0,0.3)] border-solid h-[32px] left-[237px] rounded-[8px] top-[189px] w-[133px]" data-node-id="606:657" />
+        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[247px] not-italic text-[#666] text-[14px] top-[204.5px] whitespace-nowrap" data-node-id="606:661">
+          <p className="leading-[normal]">Ngu Hanh Son</p>
+        </div>
+        <div className="absolute inset-[23.71%_9.02%_75.56%_88.3%]" data-node-id="606:663" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+        </div>
+      </div>
+      <div className="absolute contents left-[23px] top-[239px]" data-node-id="606:709">
+        <div className="absolute bg-white border-[0.5px] border-[rgba(0,0,0,0.2)] border-solid h-[123px] left-[23px] rounded-[16px] top-[239px] w-[347px]" data-node-id="606:668" />
+        <div className="absolute contents left-[283px] top-[256px]" data-node-id="606:680">
+          <div className="absolute contents left-[283px] top-[256px]" data-node-id="606:707">
+            <div className="absolute bg-[rgba(254,201,104,0.5)] border border-[#fec968] border-solid h-[20px] left-[283px] rounded-[18px] top-[256px] w-[69px]" data-node-id="606:681" />
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Bold'] font-bold h-[11px] justify-center leading-[0] left-[calc(50%+102.5px)] not-italic text-[10px] text-black top-[calc(50%-159.5px)] w-[38px]" data-node-id="606:683">
+              <p className="leading-[22.8px]">PENDING</p>
+            </div>
+          </div>
+        </div>
+        <div className="[word-break:break-word] absolute contents leading-[0] left-[142px] not-italic top-[259px] whitespace-nowrap" data-node-id="606:708">
+          <div className="-translate-y-1/2 absolute flex flex-col font-['Afacad_Flux:Bold'] font-bold justify-center left-[142px] text-[#0f172a] text-[16px] top-[266px]" data-node-id="606:675">
+            <p className="leading-[14px]">Nguyen Minh Anh</p>
+          </div>
+          <div className="-translate-y-1/2 absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center left-[142px] text-[#2b2b2b] text-[14px] top-[287.5px]" data-node-id="606:676">
+            <p className="leading-[22.8px]">Son Tra</p>
+          </div>
+        </div>
+        <div className="absolute left-[39px] size-[77px] top-[256px]" data-node-id="606:679">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" height="77" src={imgEllipse78} width="77" />
+        </div>
+        <div className="absolute contents left-[142px] top-[301px]" data-node-id="606:703">
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[142px] not-italic text-[12px] text-[rgba(43,43,43,0.8)] top-[312.5px] whitespace-nowrap" data-node-id="606:693">
+            <p className="leading-[22.8px]">5 reports · 90% accuracy</p>
+          </div>
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[142px] not-italic text-[12px] text-[rgba(43,43,43,0.8)] top-[337.5px] whitespace-nowrap" data-node-id="606:699">
+            <p className="leading-[22.8px]">2 days ago</p>
+          </div>
+          <div className="-translate-x-1/2 absolute contents left-[calc(50%+20.5px)] top-[323px]" data-node-id="606:695">
+            <div className="-translate-x-1/2 absolute bg-[#76d0c1] h-[5px] left-[calc(50%+20.5px)] rounded-[10px] top-[323px] w-[150px]" data-node-id="606:696" />
+            <div className="-translate-x-1/2 absolute bg-[#178b72] h-[5px] left-[calc(50%+8.34px)] rounded-[10px] top-[323px] w-[125.69px]" data-node-id="606:697" />
+          </div>
+        </div>
+        <div className="absolute flex inset-[39.02%_10.37%_59.74%_88.04%] items-center justify-center" data-node-id="606:701" style={{ containerType: "size" }}>
+          <div className="-rotate-90 flex-none h-[100cqw] w-[100cqh]">
+            <a className="block cursor-pointer relative size-full" data-name="Vector">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+            </a>
+          </div>
+        </div>
+      </div>
+      <div className="absolute contents left-[23px] top-[377px]" data-node-id="606:710">
+        <div className="absolute bg-white border-[0.5px] border-[rgba(0,0,0,0.2)] border-solid h-[123px] left-[23px] rounded-[16px] top-[377px] w-[347px]" data-node-id="606:711" />
+        <div className="absolute contents left-[283px] top-[394px]" data-node-id="606:712">
+          <div className="absolute contents left-[283px] top-[394px]" data-node-id="606:713">
+            <div className="absolute bg-[rgba(254,201,104,0.5)] border border-[#fec968] border-solid h-[20px] left-[283px] rounded-[18px] top-[394px] w-[69px]" data-node-id="606:714" />
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Bold'] font-bold h-[11px] justify-center leading-[0] left-[calc(50%+102.5px)] not-italic text-[10px] text-black top-[calc(50%-21.5px)] w-[38px]" data-node-id="606:715">
+              <p className="leading-[22.8px]">PENDING</p>
+            </div>
+          </div>
+        </div>
+        <div className="[word-break:break-word] absolute contents leading-[0] left-[142px] not-italic top-[397px] whitespace-nowrap" data-node-id="606:716">
+          <div className="-translate-y-1/2 absolute flex flex-col font-['Afacad_Flux:Bold'] font-bold justify-center left-[142px] text-[#0f172a] text-[16px] top-[404px]" data-node-id="606:717">
+            <p className="leading-[14px]">Au Thanh Anh</p>
+          </div>
+          <div className="-translate-y-1/2 absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center left-[142px] text-[#2b2b2b] text-[14px] top-[425.5px]" data-node-id="606:718">
+            <p className="leading-[22.8px]">Son Tra</p>
+          </div>
+        </div>
+        <div className="absolute left-[39px] size-[77px] top-[394px]" data-node-id="606:719">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" height="77" src={imgEllipse79} width="77" />
+        </div>
+        <div className="absolute contents left-[142px] top-[439px]" data-node-id="606:720">
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[142px] not-italic text-[12px] text-[rgba(43,43,43,0.8)] top-[450.5px] whitespace-nowrap" data-node-id="606:721">
+            <p className="leading-[22.8px]">5 reports · 50% accuracy</p>
+          </div>
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[142px] not-italic text-[12px] text-[rgba(43,43,43,0.8)] top-[475.5px] whitespace-nowrap" data-node-id="606:722">
+            <p className="leading-[22.8px]">2 days ago</p>
+          </div>
+          <div className="-translate-x-1/2 absolute contents left-[calc(50%+20.5px)] top-[461px]" data-node-id="606:723">
+            <div className="-translate-x-1/2 absolute bg-[#76d0c1] h-[5px] left-[calc(50%+20.5px)] rounded-[10px] top-[461px] w-[150px]" data-node-id="606:724" />
+            <div className="-translate-x-1/2 absolute bg-[#178b72] h-[5px] left-[calc(50%-20px)] rounded-[10px] top-[461px] w-[69px]" data-node-id="606:725" />
+          </div>
+        </div>
+        <div className="absolute flex inset-[55.22%_10.37%_43.54%_88.04%] items-center justify-center" data-node-id="606:726" style={{ containerType: "size" }}>
+          <div className="-rotate-90 flex-none h-[100cqw] w-[100cqh]">
+            <div className="relative size-full" data-name="Vector">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector2} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute contents left-[23px] top-[515px]" data-node-id="606:728">
+        <div className="absolute bg-white border-[0.5px] border-[rgba(0,0,0,0.2)] border-solid h-[123px] left-[23px] rounded-[16px] top-[515px] w-[347px]" data-node-id="606:729" />
+        <div className="absolute contents left-[283px] top-[532px]" data-node-id="606:730">
+          <div className="absolute contents left-[283px] top-[532px]" data-node-id="606:731">
+            <div className="absolute bg-[rgba(254,201,104,0.5)] border border-[#fec968] border-solid h-[20px] left-[283px] rounded-[18px] top-[532px] w-[69px]" data-node-id="606:732" />
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Bold'] font-bold h-[11px] justify-center leading-[0] left-[calc(50%+102.5px)] not-italic text-[10px] text-black top-[calc(50%+116.5px)] w-[38px]" data-node-id="606:733">
+              <p className="leading-[22.8px]">PENDING</p>
+            </div>
+          </div>
+        </div>
+        <div className="[word-break:break-word] absolute contents leading-[0] left-[142px] not-italic top-[535px] whitespace-nowrap" data-node-id="606:734">
+          <div className="-translate-y-1/2 absolute flex flex-col font-['Afacad_Flux:Bold'] font-bold justify-center left-[142px] text-[#0f172a] text-[16px] top-[542px]" data-node-id="606:735">
+            <p className="leading-[14px]">Duong Nguyen</p>
+          </div>
+          <div className="-translate-y-1/2 absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center left-[142px] text-[#2b2b2b] text-[14px] top-[563.5px]" data-node-id="606:736">
+            <p className="leading-[22.8px]">Son Tra</p>
+          </div>
+        </div>
+        <div className="absolute left-[39px] size-[77px] top-[532px]" data-node-id="606:737">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" height="77" src={imgEllipse80} width="77" />
+        </div>
+        <div className="absolute contents left-[142px] top-[577px]" data-node-id="606:738">
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[142px] not-italic text-[12px] text-[rgba(43,43,43,0.8)] top-[588.5px] whitespace-nowrap" data-node-id="606:739">
+            <p className="leading-[22.8px]">5 reports · 90% accuracy</p>
+          </div>
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[142px] not-italic text-[12px] text-[rgba(43,43,43,0.8)] top-[613.5px] whitespace-nowrap" data-node-id="606:740">
+            <p className="leading-[22.8px]">2 days ago</p>
+          </div>
+          <div className="-translate-x-1/2 absolute contents left-[calc(50%+20.5px)] top-[599px]" data-node-id="606:741">
+            <div className="-translate-x-1/2 absolute bg-[#76d0c1] h-[5px] left-[calc(50%+20.5px)] rounded-[10px] top-[599px] w-[150px]" data-node-id="606:742" />
+            <div className="-translate-x-1/2 absolute bg-[#178b72] h-[5px] left-[calc(50%+13px)] rounded-[10px] top-[599px] w-[135px]" data-node-id="606:743" />
+          </div>
+        </div>
+        <div className="absolute flex inset-[71.42%_10.37%_27.35%_88.04%] items-center justify-center" data-node-id="606:744" style={{ containerType: "size" }}>
+          <div className="-rotate-90 flex-none h-[100cqw] w-[100cqh]">
+            <div className="relative size-full" data-name="Vector">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector2} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute contents left-[23px] top-[653px]" data-node-id="606:746">
+        <div className="absolute bg-white border-[0.5px] border-[rgba(0,0,0,0.2)] border-solid h-[123px] left-[23px] rounded-[16px] top-[653px] w-[347px]" data-node-id="606:747" />
+        <div className="absolute contents left-[283px] top-[670px]" data-node-id="606:748">
+          <div className="absolute contents left-[283px] top-[670px]" data-node-id="606:749">
+            <div className="absolute bg-[rgba(254,201,104,0.5)] border border-[#fec968] border-solid h-[20px] left-[283px] rounded-[18px] top-[670px] w-[69px]" data-node-id="606:750" />
+            <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Bold'] font-bold h-[11px] justify-center leading-[0] left-[calc(50%+102.5px)] not-italic text-[10px] text-black top-[calc(50%+254.5px)] w-[38px]" data-node-id="606:751">
+              <p className="leading-[22.8px]">PENDING</p>
+            </div>
+          </div>
+        </div>
+        <div className="[word-break:break-word] absolute contents leading-[0] left-[142px] not-italic top-[673px] whitespace-nowrap" data-node-id="606:752">
+          <div className="-translate-y-1/2 absolute flex flex-col font-['Afacad_Flux:Bold'] font-bold justify-center left-[142px] text-[#0f172a] text-[16px] top-[680px]" data-node-id="606:753">
+            <p className="leading-[14px]">Le Anh</p>
+          </div>
+          <div className="-translate-y-1/2 absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center left-[142px] text-[#2b2b2b] text-[14px] top-[701.5px]" data-node-id="606:754">
+            <p className="leading-[22.8px]">Son Tra</p>
+          </div>
+        </div>
+        <div className="absolute left-[39px] size-[77px] top-[670px]" data-node-id="606:755">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" height="77" src={imgEllipse81} width="77" />
+        </div>
+        <div className="absolute contents left-[142px] top-[715px]" data-node-id="606:756">
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[142px] not-italic text-[12px] text-[rgba(43,43,43,0.8)] top-[726.5px] whitespace-nowrap" data-node-id="606:757">
+            <p className="leading-[22.8px]">5 reports · 90% accuracy</p>
+          </div>
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[142px] not-italic text-[12px] text-[rgba(43,43,43,0.8)] top-[751.5px] whitespace-nowrap" data-node-id="606:758">
+            <p className="leading-[22.8px]">2 days ago</p>
+          </div>
+          <div className="-translate-x-1/2 absolute contents left-[calc(50%+20.5px)] top-[737px]" data-node-id="606:759">
+            <div className="-translate-x-1/2 absolute bg-[#76d0c1] h-[5px] left-[calc(50%+20.5px)] rounded-[10px] top-[737px] w-[150px]" data-node-id="606:760" />
+            <div className="-translate-x-1/2 absolute bg-[#178b72] h-[5px] left-[calc(50%+13px)] rounded-[10px] top-[737px] w-[135px]" data-node-id="606:761" />
+          </div>
+        </div>
+        <div className="absolute flex inset-[87.61%_10.37%_11.15%_88.04%] items-center justify-center" data-node-id="606:762" style={{ containerType: "size" }}>
+          <div className="-rotate-90 flex-none h-[100cqw] w-[100cqh]">
+            <div className="relative size-full" data-name="Vector">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector2} />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute h-[118px] left-[404px] top-[30px] w-[171px]" data-node-id="1309:2845" data-name="image 19">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage19} />
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0.8)] content-stretch flex h-[59px] items-center justify-center left-0 overflow-clip right-0 top-0" data-node-id="605:603" data-name="Status Bar">
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="605:604" data-name="Time">
+          <div className="h-[13px] relative shrink-0 w-[40px]" data-node-id="605:605" data-name="Time">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgTime} />
+          </div>
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="605:607" data-name="Dynamic Island Frame">
+          <div className="bg-black h-[37px] relative rounded-[20px] shrink-0 w-[125px]" data-node-id="605:608" data-name="Dynamic Island" />
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] gap-[8px] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="605:609" data-name="Icons">
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="605:610" data-name="Reception">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgReception} />
+          </div>
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="605:615" data-name="Wi-fi">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWiFi} />
+          </div>
+          <div className="h-[13px] relative shrink-0 w-[28px]" data-node-id="605:617" data-name="Battery">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgBattery} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0)] content-stretch flex h-[34px] items-center justify-center left-0 overflow-clip pt-[13px] right-0 top-[818px]" data-node-id="605:621" data-name="Home Bar">
+        <div className="bg-black h-[5px] relative rounded-[3px] shrink-0 w-[134px]" data-node-id="605:622" data-name="Rectangle" />
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+The generated code contains image and SVG URL constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

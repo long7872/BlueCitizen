@@ -40,6 +40,8 @@ dependencies:
   flutter_map: ^8.3.2
   latlong2: ^0.10.1
   image_picker: ^1.2.3
+  flutter_svg: ^2.3.2
+  shared_preferences: ^2.5.6
 
 dev_dependencies:
   flutter_test:
@@ -110,6 +112,27 @@ flutter:
     - family: AfacadFlux
       fonts:
         - asset: assets/fonts/AfacadFlux/AfacadFlux-VariableFont_slnt,wght.ttf
+          weight: 400
+        - asset: assets/fonts/AfacadFlux/AfacadFlux-VariableFont_slnt,wght.ttf
+          weight: 500
+        - asset: assets/fonts/AfacadFlux/AfacadFlux-VariableFont_slnt,wght.ttf
+          weight: 600
+        - asset: assets/fonts/AfacadFlux/AfacadFlux-VariableFont_slnt,wght.ttf
+          weight: 700
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+
+    - family: PatrickHand
+      fonts:
+        - asset: assets/fonts/PatrickHand/PatrickHand-Regular.ttf
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter/Inter-Variable.ttf
+          weight: 400
+        - asset: assets/fonts/Inter/Inter-Variable.ttf
+          weight: 500
+        - asset: assets/fonts/Inter/Inter-Variable.ttf
+          weight: 600
+        - asset: assets/fonts/Inter/Inter-Variable.ttf
+          weight: 700

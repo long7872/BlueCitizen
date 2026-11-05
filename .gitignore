@@ -43,3 +43,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Figma reference tooling (not part of the Flutter runtime)
+tools/figma/node_modules/
+design_source/preview/

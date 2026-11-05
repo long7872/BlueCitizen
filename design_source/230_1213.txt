@@ -1,0 +1,145 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/bb9995cf-0f13-4e83-b331-13a8622bf5bd";
+const imgRectangle26 = `${assetPathPrefix}/9d210.png`;
+const imgRectangle27 = `${assetPathPrefix}/d45a0.png`;
+const imgRectangle28 = `${assetPathPrefix}/3651f.png`;
+const imgRectangle29 = `${assetPathPrefix}/e95d4.png`;
+const img2PollutionAddPhoto = `${assetPathPrefix}/58c51.svg`;
+const imgIcon = `${assetPathPrefix}/507ae.svg`;
+const imgIcon1 = `${assetPathPrefix}/81b42.svg`;
+const imgIcon2 = `${assetPathPrefix}/1412c.svg`;
+const imgIcon3 = `${assetPathPrefix}/8d3ba.svg`;
+const imgGroup10276 = `${assetPathPrefix}/7330f.svg`;
+const imgGroup10277 = `${assetPathPrefix}/9fd81.svg`;
+const imgUserInterfaceMenu = `${assetPathPrefix}/c9b94.svg`;
+const imgTime = `${assetPathPrefix}/ea77a.svg`;
+const imgReception = `${assetPathPrefix}/50e69.svg`;
+const imgWiFi = `${assetPathPrefix}/0be8d.svg`;
+const imgBattery = `${assetPathPrefix}/55081.svg`;
+
+export default function Component2PollutionAddPhoto() {
+  return (
+    <div className="overflow-clip relative rounded-[24px] size-full" data-node-id="230:1213" data-name="2. Pollution Add Photo">
+      <img alt="" className="absolute block inset-0 max-w-none size-full" src={img2PollutionAddPhoto} />
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[46.95%_85.37%_51.29%_11.83%] leading-[normal] not-italic text-[11px] text-center text-white whitespace-nowrap" data-node-id="230:1215">
+        All
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[20px] leading-[15px] left-[27px] not-italic text-[#3f596b] text-[12px] top-[124px] w-[71px]" data-node-id="230:4579">
+        STEP 1 / 6
+      </p>
+      <p className="-translate-x-full [word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[20px] leading-[15px] left-[372px] not-italic text-[#3f596b] text-[12px] text-right top-[124px] w-[70px]" data-node-id="230:4596">
+        POLLUTION
+      </p>
+      <div className="absolute bg-[#e6f3f8] h-[5px] left-[26px] rounded-[3px] top-[150px] w-[345px]" data-node-id="230:4610" data-name="Container">
+        <div className="absolute bg-[#43c4d6] h-[5px] left-0 rounded-[3px] top-0 w-[57.5px]" data-node-id="230:4612" data-name="Container" />
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold h-[35px] leading-[29px] left-[23px] not-italic text-[#091727] text-[23px] top-[165px] w-[345px]" data-node-id="230:4614">
+        Add photo evidence
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[24px] leading-[18px] left-[22px] not-italic text-[#3f596b] text-[14px] top-[196px] w-[264px]" data-node-id="230:4616">
+        Clear photos help reviewers assess the issue.
+      </p>
+      <div className="absolute h-[201px] left-[27px] rounded-[12px] top-[225px] w-[345px]" data-node-id="230:4618">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[12px] size-full" src={imgRectangle26} />
+      </div>
+      <div className="absolute bg-[#eaf8fb] border border-[#d8e5ec] border-solid h-[42px] left-[24px] rounded-[23px] top-[443px] w-[165px]" data-node-id="242:4619" data-name="Take photo">
+        <div className="absolute left-[33px] size-[22px] top-[9px]" data-node-id="242:4620" data-name="Icon">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon} />
+        </div>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[20px] leading-[19px] left-[68px] not-italic text-[#0186a8] text-[15px] top-[10px] w-[79px]" data-node-id="242:4623">
+          Camera
+        </p>
+      </div>
+      <div className="absolute bg-[#eaf8fb] border border-[#d8e5ec] border-solid h-[42px] left-[201px] rounded-[23px] top-[443px] w-[168px]" data-node-id="242:4625" data-name="Photo gallery">
+        <div className="absolute left-[36px] size-[22px] top-[9px]" data-node-id="242:4626" data-name="Icon">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon1} />
+        </div>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[20px] leading-[19px] left-[71px] not-italic text-[#0186a8] text-[15px] top-[10px] w-[79px]" data-node-id="242:4630">
+          Gallery
+        </p>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[16px] leading-[15px] left-[24px] not-italic text-[#3f596b] text-[12px] top-[499px] w-[121px]" data-node-id="242:4633">
+        PHOTOS ATTACHED (3)
+      </p>
+      <div className="absolute bg-white border border-[#d8e5ec] border-solid h-[72px] left-[292px] rounded-[10px] top-[523px] w-[81px]" data-node-id="242:4635" data-name="Container">
+        <div className="absolute left-[28px] size-[25px] top-[23px]" data-node-id="242:4636" data-name="Icon">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon2} />
+        </div>
+      </div>
+      <div className="absolute h-[72px] left-[22px] rounded-[9px] top-[523px] w-[78px]" data-node-id="242:4655">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[9px] size-full" src={imgRectangle27} />
+      </div>
+      <div className="absolute h-[72px] left-[205px] rounded-[9px] top-[523px] w-[78px]" data-node-id="242:4656">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[9px] size-full" src={imgRectangle28} />
+      </div>
+      <div className="absolute h-[72px] left-[115px] rounded-[9px] top-[523px] w-[78px]" data-node-id="242:4658">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[9px] size-full" src={imgRectangle29} />
+      </div>
+      <div className="absolute bg-[#fff2ec] h-[68px] left-[24px] rounded-[14px] top-[613px] w-[345px]" data-node-id="242:4660" data-name="Container">
+        <div className="absolute bg-[#ffe3d6] left-[12px] rounded-[21px] size-[42px] top-[11px]" data-node-id="242:4661" data-name="Container">
+          <div className="absolute left-[11px] size-[20px] top-[10px]" data-node-id="242:4662" data-name="Icon">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon3} />
+          </div>
+        </div>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[29px] leading-[19px] left-[65px] not-italic text-[#091727] text-[15px] top-[10px] w-[265px]" data-node-id="242:4665">
+          Safety first
+        </p>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[35px] leading-[15px] left-[65px] not-italic text-[#3f596b] text-[12px] top-[31px] w-[263px]" data-node-id="242:4666">
+          Avoid hazardous waste and restricted areas.
+        </p>
+      </div>
+      <a className="absolute bg-[#43c4d6] block cursor-pointer h-[47px] left-[22px] rounded-[23px] top-[736px] w-[345px]" data-node-id="242:4668" data-name="Container">
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[28px] leading-[20px] left-[172.5px] not-italic text-[16px] text-center text-white top-[12px] w-[321px]" data-node-id="242:4669">
+          Continue to location
+        </p>
+      </a>
+      <div className="absolute contents left-[23px] top-[66px]" data-node-id="892:3031" data-name="TopAppBar">
+        <div className="-translate-x-1/2 absolute bg-[#a5e0f2] h-[43px] left-[calc(50%+4px)] rounded-[20px] top-[67px] w-[175px]" data-node-id="892:3032" />
+        <button className="absolute block cursor-pointer left-[23px] size-[43.303px] top-[66px]" data-node-id="892:3033">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10276} />
+        </button>
+        <div className="absolute left-[332px] size-[43.303px] top-[66px]" data-node-id="892:3036">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10277} />
+        </div>
+        <div className="absolute h-[24px] left-[340px] top-[75px] w-[26.272px]" data-node-id="892:3038" data-name="User Interface / Menu">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUserInterfaceMenu} />
+        </div>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%+2px)] not-italic text-[#3f596b] text-[20px] text-center top-[calc(50%-351px)] w-[139px]" data-node-id="892:3039">
+          Report Pollution
+        </p>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0.8)] content-stretch flex h-[59px] items-center justify-center left-0 overflow-clip right-0 top-0" data-node-id="230:1216" data-name="Status Bar">
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="230:1217" data-name="Time">
+          <div className="h-[13px] relative shrink-0 w-[40px]" data-node-id="230:1218" data-name="Time">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgTime} />
+          </div>
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="230:1220" data-name="Dynamic Island Frame">
+          <div className="bg-black h-[37px] relative rounded-[20px] shrink-0 w-[125px]" data-node-id="230:1221" data-name="Dynamic Island" />
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] gap-[8px] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="230:1222" data-name="Icons">
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="230:1223" data-name="Reception">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgReception} />
+          </div>
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="230:1228" data-name="Wi-fi">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWiFi} />
+          </div>
+          <div className="h-[13px] relative shrink-0 w-[28px]" data-node-id="230:1230" data-name="Battery">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgBattery} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0)] content-stretch flex h-[34px] items-center justify-center left-0 overflow-clip pt-[13px] right-0 top-[818px]" data-node-id="230:1234" data-name="Home Bar">
+        <div className="bg-black h-[5px] relative rounded-[3px] shrink-0 w-[134px]" data-node-id="230:1235" data-name="Rectangle" />
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+The generated code contains image and SVG URL constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

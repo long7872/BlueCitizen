@@ -1,0 +1,317 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/6ff12120-7ec3-42f1-8f66-971353a799b7";
+const imgRectangle2 = `${assetPathPrefix}/7e54a.png`;
+const imgEllipse12 = `${assetPathPrefix}/3f647.png`;
+const imgEllipse13 = `${assetPathPrefix}/3c4aa.png`;
+const imgEllipse14 = `${assetPathPrefix}/e18a7.png`;
+const imgEllipse15 = `${assetPathPrefix}/8377c.png`;
+const imgEllipse113 = `${assetPathPrefix}/9cd26.svg`;
+const imgEllipse114 = `${assetPathPrefix}/3d67f.svg`;
+const imgSolidMultiply = `${assetPathPrefix}/f7a99.svg`;
+const imgVector = `${assetPathPrefix}/946db.svg`;
+const imgGroup10276 = `${assetPathPrefix}/ecd92.svg`;
+const imgGroup10277 = `${assetPathPrefix}/acbd8.svg`;
+const imgUserInterfaceMenu = `${assetPathPrefix}/57e4f.svg`;
+const imgTime = `${assetPathPrefix}/ea77a.svg`;
+const imgReception = `${assetPathPrefix}/50e69.svg`;
+const imgWiFi = `${assetPathPrefix}/0be8d.svg`;
+const imgBattery = `${assetPathPrefix}/55081.svg`;
+
+export default function ApproveParticipants() {
+  return (
+    <div className="bg-white relative size-full" data-node-id="1356:347" data-name="Approve Participants">
+      <div className="-translate-x-1/2 absolute contents left-1/2 top-[818px]" data-node-id="1356:2697">
+        <div className="-translate-x-1/2 absolute bg-white h-[281px] left-1/2 top-[818px] w-[393px]" data-node-id="1356:2698" />
+      </div>
+      <p className="[word-break:break-word] absolute bottom-[57.75%] font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%-126.5px)] not-italic text-[#202326] text-[28px] top-[37.91%] whitespace-nowrap" data-node-id="1356:392">
+        My Khe Beach Cleanup
+      </p>
+      <p className="[word-break:break-word] absolute bottom-[55.4%] font-['Afacad_Flux:Regular'] font-normal leading-[normal] left-[calc(50%-54.5px)] not-italic text-[#73787d] text-[16px] top-[42.14%] whitespace-nowrap" data-node-id="1356:393">{`Oct 20 · 6:30 AM `}</p>
+      <div className="absolute contents inset-[15.02%_5.09%_63.15%_5.09%]" data-node-id="1356:395">
+        <div className="absolute inset-[15.02%_5.09%_63.15%_5.09%] rounded-[10px]" data-node-id="1356:396">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[10px] size-full" src={imgRectangle2} />
+        </div>
+      </div>
+      <div className="absolute bg-[#43c4d6] h-[35px] left-[25px] rounded-[10px] top-[396px] w-[111px]" data-node-id="1356:407" />
+      <div className="absolute bg-[#ebebeb] h-[35px] left-[141px] rounded-[10px] top-[396px] w-[111px]" data-node-id="1356:412" />
+      <div className="absolute bg-[#ebebeb] h-[35px] left-[257px] rounded-[10px] top-[396px] w-[111px]" data-node-id="1356:414" />
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold inset-[47.18%_41.98%_50.35%_42.24%] leading-[normal] not-italic text-[#696969] text-[16px] whitespace-nowrap" data-node-id="1356:416">
+        Approved
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold inset-[47.18%_72.52%_50.35%_14.25%] leading-[normal] not-italic text-[16px] text-white whitespace-nowrap" data-node-id="1356:420">
+        Pending
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold inset-[47.18%_13.23%_50.35%_72.77%] leading-[normal] not-italic text-[#696969] text-[16px] whitespace-nowrap" data-node-id="1356:418">
+        Rejected
+      </p>
+      <div className="absolute contents left-[20px] top-[447px]" data-node-id="1356:2612">
+        <div className="-translate-x-1/2 absolute bg-white border border-[#d9d9d9] border-solid h-[64px] left-1/2 rounded-[20px] top-[447px] w-[353px]" data-node-id="1356:401" />
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Medium'] font-medium inset-[53.99%_48.85%_43.19%_23.41%] leading-[normal] not-italic text-[#202326] text-[18px] whitespace-nowrap" data-node-id="1356:402">
+          Trinh Xuan Hoa
+        </p>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[56.57%_53.94%_41.2%_23.41%] leading-[normal] not-italic text-[#73787d] text-[14px] whitespace-nowrap" data-node-id="1356:403">
+          Collected waste
+        </p>
+        <div className="absolute contents left-[43px] top-[462px]" data-node-id="1356:404">
+          <div className="absolute left-[43px] size-[34px] top-[462px]" data-node-id="1356:405">
+            <div className="absolute inset-[-5.88%]">
+              <img alt="" className="block max-w-none size-full" height="38" src={imgEllipse12} width="38" />
+            </div>
+          </div>
+        </div>
+        <div className="absolute left-[280px] size-[33px] top-[462px]" data-node-id="1356:2609">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse113} />
+        </div>
+        <div className="absolute left-[324px] size-[33px] top-[462px]" data-node-id="1356:2610">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse114} />
+        </div>
+        <div className="absolute left-[288px] size-[18px] top-[470px]" data-node-id="1356:2605" data-name="Solid / multiply">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSolidMultiply} />
+        </div>
+        <div className="absolute inset-[55.63%_11.45%_43.17%_84.99%]" data-node-id="1356:2606" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+        </div>
+      </div>
+      <div className="absolute contents left-[20px] top-[521px]" data-node-id="1356:2613">
+        <div className="-translate-x-1/2 absolute bg-white border border-[#d9d9d9] border-solid h-[64px] left-1/2 rounded-[20px] top-[521px] w-[353px]" data-node-id="1356:2614" />
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Medium'] font-medium inset-[62.68%_46.56%_34.51%_23.41%] leading-[normal] not-italic text-[#202326] text-[18px] whitespace-nowrap" data-node-id="1356:2615">
+          Nguyen Van Anh
+        </p>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[65.26%_57%_32.51%_23.41%] leading-[normal] not-italic text-[#73787d] text-[14px] whitespace-nowrap" data-node-id="1356:2616">
+          Taking photos
+        </p>
+        <div className="absolute contents left-[43px] top-[536px]" data-node-id="1356:2617">
+          <div className="absolute left-[43px] size-[34px] top-[536px]" data-node-id="1356:2618">
+            <div className="absolute inset-[-5.88%]">
+              <img alt="" className="block max-w-none size-full" height="38" src={imgEllipse13} width="38" />
+            </div>
+          </div>
+        </div>
+        <div className="absolute left-[280px] size-[33px] top-[536px]" data-node-id="1356:2619">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse113} />
+        </div>
+        <div className="absolute left-[324px] size-[33px] top-[536px]" data-node-id="1356:2620">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse114} />
+        </div>
+        <div className="absolute left-[288px] size-[18px] top-[544px]" data-node-id="1356:2621" data-name="Solid / multiply">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSolidMultiply} />
+        </div>
+        <div className="absolute inset-[64.32%_11.45%_34.48%_84.99%]" data-node-id="1356:2622" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+        </div>
+      </div>
+      <div className="absolute contents left-[20px] top-[595px]" data-node-id="1356:2625">
+        <div className="-translate-x-1/2 absolute bg-white border border-[#d9d9d9] border-solid h-[64px] left-1/2 rounded-[20px] top-[595px] w-[353px]" data-node-id="1356:2626" />
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Medium'] font-medium inset-[71.36%_47.33%_25.82%_23.41%] leading-[normal] not-italic text-[#202326] text-[18px] whitespace-nowrap" data-node-id="1356:2627">
+          Bui Quoc Khanh
+        </p>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[73.94%_53.94%_23.83%_23.41%] leading-[normal] not-italic text-[#73787d] text-[14px] whitespace-nowrap" data-node-id="1356:2628">
+          Collected waste
+        </p>
+        <div className="absolute contents left-[43px] top-[610px]" data-node-id="1356:2629">
+          <div className="absolute left-[43px] size-[34px] top-[610px]" data-node-id="1356:2630">
+            <div className="absolute inset-[-5.88%]">
+              <img alt="" className="block max-w-none size-full" height="38" src={imgEllipse14} width="38" />
+            </div>
+          </div>
+        </div>
+        <div className="absolute left-[280px] size-[33px] top-[610px]" data-node-id="1356:2631">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse113} />
+        </div>
+        <div className="absolute left-[324px] size-[33px] top-[610px]" data-node-id="1356:2632">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse114} />
+        </div>
+        <div className="absolute left-[288px] size-[18px] top-[618px]" data-node-id="1356:2633" data-name="Solid / multiply">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSolidMultiply} />
+        </div>
+        <div className="absolute inset-[73%_11.45%_25.8%_84.99%]" data-node-id="1356:2634" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+        </div>
+      </div>
+      <div className="absolute contents left-[20px] top-[669px]" data-node-id="1356:2637">
+        <div className="-translate-x-1/2 absolute bg-white border border-[#d9d9d9] border-solid h-[64px] left-1/2 rounded-[20px] top-[669px] w-[353px]" data-node-id="1356:2638" />
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Medium'] font-medium inset-[80.05%_46.31%_17.14%_23.41%] leading-[normal] not-italic text-[#202326] text-[18px] whitespace-nowrap" data-node-id="1356:2639">
+          Nguyen Thi Cam
+        </p>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[82.63%_53.94%_15.14%_23.41%] leading-[normal] not-italic text-[#73787d] text-[14px] whitespace-nowrap" data-node-id="1356:2640">
+          Collected waste
+        </p>
+        <div className="absolute contents left-[43px] top-[684px]" data-node-id="1356:2641">
+          <div className="absolute left-[43px] size-[34px] top-[684px]" data-node-id="1356:2642">
+            <div className="absolute inset-[-5.88%]">
+              <img alt="" className="block max-w-none size-full" height="38" src={imgEllipse15} width="38" />
+            </div>
+          </div>
+        </div>
+        <div className="absolute left-[280px] size-[33px] top-[684px]" data-node-id="1356:2643">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse113} />
+        </div>
+        <div className="absolute left-[324px] size-[33px] top-[684px]" data-node-id="1356:2644">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse114} />
+        </div>
+        <div className="absolute left-[288px] size-[18px] top-[692px]" data-node-id="1356:2645" data-name="Solid / multiply">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSolidMultiply} />
+        </div>
+        <div className="absolute inset-[81.69%_11.45%_17.11%_84.99%]" data-node-id="1356:2646" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+        </div>
+      </div>
+      <div className="absolute contents left-[20px] top-[743px]" data-node-id="1356:2649">
+        <div className="-translate-x-1/2 absolute bg-white border border-[#d9d9d9] border-solid h-[64px] left-1/2 rounded-[20px] top-[743px] w-[353px]" data-node-id="1356:2650" />
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Medium'] font-medium inset-[88.73%_48.85%_8.45%_23.41%] leading-[normal] not-italic text-[#202326] text-[18px] whitespace-nowrap" data-node-id="1356:2651">
+          Trinh Xuan Hoa
+        </p>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[91.31%_53.94%_6.46%_23.41%] leading-[normal] not-italic text-[#73787d] text-[14px] whitespace-nowrap" data-node-id="1356:2652">
+          Collected waste
+        </p>
+        <div className="absolute contents left-[43px] top-[758px]" data-node-id="1356:2653">
+          <div className="absolute left-[43px] size-[34px] top-[758px]" data-node-id="1356:2654">
+            <div className="absolute inset-[-5.88%]">
+              <img alt="" className="block max-w-none size-full" height="38" src={imgEllipse12} width="38" />
+            </div>
+          </div>
+        </div>
+        <div className="absolute left-[280px] size-[33px] top-[758px]" data-node-id="1356:2655">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse113} />
+        </div>
+        <div className="absolute left-[324px] size-[33px] top-[758px]" data-node-id="1356:2656">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse114} />
+        </div>
+        <div className="absolute left-[288px] size-[18px] top-[766px]" data-node-id="1356:2657" data-name="Solid / multiply">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSolidMultiply} />
+        </div>
+        <div className="absolute inset-[90.38%_11.45%_8.43%_84.99%]" data-node-id="1356:2658" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+        </div>
+      </div>
+      <div className="absolute contents left-[20px] top-[817px]" data-node-id="1356:2661">
+        <div className="-translate-x-1/2 absolute bg-white border border-[#d9d9d9] border-solid h-[64px] left-1/2 rounded-[20px] top-[817px] w-[353px]" data-node-id="1356:2662" />
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Medium'] font-medium inset-[97.42%_48.85%_-0.23%_23.41%] leading-[normal] not-italic text-[#202326] text-[18px] whitespace-nowrap" data-node-id="1356:2663">
+          Trinh Xuan Hoa
+        </p>
+        <p className="[word-break:break-word] absolute bottom-[-2.23%] font-['Afacad_Flux:Regular'] font-normal leading-[normal] left-[23.41%] not-italic right-[53.94%] text-[#73787d] text-[14px] top-full whitespace-nowrap" data-node-id="1356:2664">
+          Collected waste
+        </p>
+        <div className="absolute contents left-[43px] top-[832px]" data-node-id="1356:2665">
+          <div className="absolute left-[43px] size-[34px] top-[832px]" data-node-id="1356:2666">
+            <div className="absolute inset-[-5.88%]">
+              <img alt="" className="block max-w-none size-full" height="38" src={imgEllipse12} width="38" />
+            </div>
+          </div>
+        </div>
+        <div className="absolute left-[280px] size-[33px] top-[832px]" data-node-id="1356:2667">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse113} />
+        </div>
+        <div className="absolute left-[324px] size-[33px] top-[832px]" data-node-id="1356:2668">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse114} />
+        </div>
+        <div className="absolute left-[288px] size-[18px] top-[840px]" data-node-id="1356:2669" data-name="Solid / multiply">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSolidMultiply} />
+        </div>
+        <div className="absolute inset-[99.06%_11.45%_-0.26%_84.99%]" data-node-id="1356:2670" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+        </div>
+      </div>
+      <div className="absolute contents left-[20px] top-[965px]" data-node-id="1356:2673">
+        <div className="-translate-x-1/2 absolute bg-white border border-[#d9d9d9] border-solid h-[64px] left-1/2 rounded-[20px] top-[965px] w-[353px]" data-node-id="1356:2674" />
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Medium'] font-medium inset-[114.79%_48.85%_-17.61%_23.41%] leading-[normal] not-italic text-[#202326] text-[18px] whitespace-nowrap" data-node-id="1356:2675">
+          Trinh Xuan Hoa
+        </p>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[117.37%_53.94%_-19.6%_23.41%] leading-[normal] not-italic text-[#73787d] text-[14px] whitespace-nowrap" data-node-id="1356:2676">
+          Collected waste
+        </p>
+        <div className="absolute contents left-[43px] top-[980px]" data-node-id="1356:2677">
+          <div className="absolute left-[43px] size-[34px] top-[980px]" data-node-id="1356:2678">
+            <div className="absolute inset-[-5.88%]">
+              <img alt="" className="block max-w-none size-full" height="38" src={imgEllipse12} width="38" />
+            </div>
+          </div>
+        </div>
+        <div className="absolute left-[280px] size-[33px] top-[980px]" data-node-id="1356:2679">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse113} />
+        </div>
+        <div className="absolute left-[324px] size-[33px] top-[980px]" data-node-id="1356:2680">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse114} />
+        </div>
+        <div className="absolute left-[288px] size-[18px] top-[988px]" data-node-id="1356:2681" data-name="Solid / multiply">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSolidMultiply} />
+        </div>
+        <div className="absolute inset-[116.43%_11.45%_-17.63%_84.99%]" data-node-id="1356:2682" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+        </div>
+      </div>
+      <div className="absolute contents left-[20px] top-[891px]" data-node-id="1356:2685">
+        <div className="-translate-x-1/2 absolute bg-white border border-[#d9d9d9] border-solid h-[64px] left-1/2 rounded-[20px] top-[891px] w-[353px]" data-node-id="1356:2686" />
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Medium'] font-medium inset-[106.1%_48.85%_-8.92%_23.41%] leading-[normal] not-italic text-[#202326] text-[18px] whitespace-nowrap" data-node-id="1356:2687">
+          Trinh Xuan Hoa
+        </p>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[108.69%_53.94%_-10.92%_23.41%] leading-[normal] not-italic text-[#73787d] text-[14px] whitespace-nowrap" data-node-id="1356:2688">
+          Collected waste
+        </p>
+        <div className="absolute contents left-[43px] top-[906px]" data-node-id="1356:2689">
+          <div className="absolute left-[43px] size-[34px] top-[906px]" data-node-id="1356:2690">
+            <div className="absolute inset-[-5.88%]">
+              <img alt="" className="block max-w-none size-full" height="38" src={imgEllipse12} width="38" />
+            </div>
+          </div>
+        </div>
+        <div className="absolute left-[280px] size-[33px] top-[906px]" data-node-id="1356:2691">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse113} />
+        </div>
+        <div className="absolute left-[324px] size-[33px] top-[906px]" data-node-id="1356:2692">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse114} />
+        </div>
+        <div className="absolute left-[288px] size-[18px] top-[914px]" data-node-id="1356:2693" data-name="Solid / multiply">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSolidMultiply} />
+        </div>
+        <div className="absolute inset-[107.75%_11.45%_-8.94%_84.99%]" data-node-id="1356:2694" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+        </div>
+      </div>
+      <div className="absolute contents inset-[8.1%_6.62%_86.85%_5.85%]" data-node-id="1356:379" data-name="TopAppBar">
+        <div className="absolute bg-[#a5e0f2] inset-[8.1%_24.94%_86.85%_25.19%] rounded-[20px]" data-node-id="1356:380" />
+        <button className="absolute block cursor-pointer inset-[8.1%_83.21%_86.85%_5.85%]" data-node-id="1356:381">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10276} />
+        </button>
+        <div className="absolute h-[43px] left-[82.44%] right-[6.62%] top-[69px]" data-node-id="1356:384">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10277} />
+        </div>
+        <div className="absolute inset-[9.27%_8.91%_87.91%_84.99%]" data-node-id="1356:386" data-name="User Interface / Menu">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUserInterfaceMenu} />
+        </div>
+        <p className="[word-break:break-word] absolute bottom-[87.91%] font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%-79.5px)] not-italic text-[#3f596b] text-[20px] top-[8.92%] whitespace-nowrap" data-node-id="1356:387">
+          Approve Participants
+        </p>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0.8)] content-stretch flex h-[59px] items-center justify-center left-0 overflow-clip right-0 top-0" data-node-id="1356:356" data-name="Status Bar">
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="1356:357" data-name="Time">
+          <div className="h-[13px] relative shrink-0 w-[40px]" data-node-id="1356:358" data-name="Time">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgTime} />
+          </div>
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="1356:360" data-name="Dynamic Island Frame">
+          <div className="bg-black h-[37px] relative rounded-[20px] shrink-0 w-[125px]" data-node-id="1356:361" data-name="Dynamic Island" />
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] gap-[8px] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="1356:362" data-name="Icons">
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="1356:363" data-name="Reception">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgReception} />
+          </div>
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="1356:368" data-name="Wi-fi">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWiFi} />
+          </div>
+          <div className="h-[13px] relative shrink-0 w-[28px]" data-node-id="1356:370" data-name="Battery">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgBattery} />
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+The generated code contains image and SVG URL constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

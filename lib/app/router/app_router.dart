@@ -1,4 +1,6 @@
 import 'package:go_router/go_router.dart';
+import '../../core/design/design_screen.dart';
+import '../../core/design/screen_catalog.dart';
 
 import 'package:blue_citizen/app/router/app_routes.dart';
 import 'package:blue_citizen/app/app_shell.dart';
@@ -26,6 +28,15 @@ final GoRouter appRouter = GoRouter(
   debugLogDiagnostics: true,
 
   routes: [
+    GoRoute(
+      path: AppRoutes.screenCatalog,
+      builder: (context, state) => const ScreenCatalog(),
+    ),
+    GoRoute(
+      path: '/design/:frame',
+      builder: (context, state) =>
+          DesignScreen(frameId: state.pathParameters['frame']!),
+    ),
     // ==========================================
     // MAIN SHELL - 5 TABS
     StatefulShellRoute.indexedStack(

@@ -1,0 +1,185 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/388f56ed-95bf-48d2-b4c5-4f4d09daade5";
+const imgEventManage = `${assetPathPrefix}/58c51.svg`;
+const imgVector = `${assetPathPrefix}/4498f.svg`;
+const imgVector1 = `${assetPathPrefix}/734e0.svg`;
+const imgVector2 = `${assetPathPrefix}/44e2f.svg`;
+const imgVector3 = `${assetPathPrefix}/873d8.svg`;
+const imgUserInterfaceApproveTick = `${assetPathPrefix}/ba571.svg`;
+const imgVector4 = `${assetPathPrefix}/2b450.svg`;
+const imgVector5 = `${assetPathPrefix}/dcc67.svg`;
+const imgArrowsRightArrow = `${assetPathPrefix}/8621e.svg`;
+const imgVector6 = `${assetPathPrefix}/f283e.svg`;
+const imgVector7 = `${assetPathPrefix}/8d4af.svg`;
+const imgGroup10276 = `${assetPathPrefix}/15b6b.svg`;
+const imgGroup10277 = `${assetPathPrefix}/0656d.svg`;
+const imgChatChat = `${assetPathPrefix}/34086.svg`;
+const imgTime = `${assetPathPrefix}/ea77a.svg`;
+const imgReception = `${assetPathPrefix}/50e69.svg`;
+const imgWiFi = `${assetPathPrefix}/0be8d.svg`;
+const imgBattery = `${assetPathPrefix}/55081.svg`;
+
+export default function EventManage() {
+  return (
+    <div className="relative size-full" data-node-id="258:1389" data-name="Event Manage">
+      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEventManage} />
+      <p className="[word-break:break-word] absolute bottom-[78.64%] font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%-126.5px)] not-italic text-[#202326] text-[28px] top-[17.02%] whitespace-nowrap" data-node-id="258:1391">
+        My Khe Beach Cleanup
+      </p>
+      <p className="[word-break:break-word] absolute bottom-[76.29%] font-['Afacad_Flux:Regular'] font-normal leading-[normal] left-[calc(50%-76.5px)] not-italic text-[#73787d] text-[16px] top-[21.24%] whitespace-nowrap" data-node-id="258:1392">
+        Oct 20 · 6:30 AM · Draft
+      </p>
+      <div className="absolute inset-[26.76%_66.67%_63.97%_5.09%]" data-node-id="258:1393" data-name="Vector">
+        <div className="absolute inset-[-0.63%_-0.45%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector} />
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[28.52%_77.1%_67.37%_15.78%] leading-[normal] not-italic text-[#0186a8] text-[26px] whitespace-nowrap" data-node-id="258:1394">
+        24
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[32.28%_71.76%_65.26%_11.2%] leading-[normal] not-italic text-[#73787d] text-[16px] whitespace-nowrap" data-node-id="258:1395">
+        Registered
+      </p>
+      <div className="absolute inset-[26.76%_35.88%_63.97%_35.88%]" data-node-id="258:1396" data-name="Vector">
+        <div className="absolute inset-[-0.63%_-0.45%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector1} />
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[28.52%_46.31%_67.37%_46.56%] leading-[normal] not-italic text-[#178b72] text-[26px] whitespace-nowrap" data-node-id="258:1397">
+        18
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[32.28%_40.71%_65.26%_42.24%] leading-[normal] not-italic text-[#73787d] text-[16px] whitespace-nowrap" data-node-id="258:1398">
+        Confirmed
+      </p>
+      <a className="absolute block cursor-pointer inset-[26.76%_5.09%_63.97%_66.67%]" data-node-id="258:1399" data-name="Vector">
+        <div className="absolute inset-[-0.63%_-0.45%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector2} />
+        </div>
+      </a>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[28.52%_15.52%_67.37%_77.35%] leading-[normal] not-italic text-[#fdbd4a] text-[26px] whitespace-nowrap" data-node-id="258:1400">
+        06
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[32.28%_12.47%_65.26%_74.55%] leading-[normal] not-italic text-[#73787d] text-[16px] whitespace-nowrap" data-node-id="258:1401">
+        Pending
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[38.73%_59.29%_58.57%_5.09%] leading-[normal] not-italic text-[#73787d] text-[17px] whitespace-nowrap" data-node-id="258:1402">
+        Preparation progress
+      </p>
+      <div className="absolute inset-[42.84%_5.09%_51.41%_5.09%]" data-node-id="258:1403" data-name="Vector">
+        <div className="absolute inset-[-1.02%_-0.14%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector3} />
+        </div>
+      </div>
+      <div className="absolute inset-[44.6%_8.14%_53.05%_86.77%]" data-node-id="258:1404" data-name="User Interface / Approve(Tick)">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUserInterfaceApproveTick} />
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[43.54%_63.1%_53.99%_8.65%] leading-[normal] not-italic text-[#0186a8] text-[16px] whitespace-nowrap" data-node-id="258:1405">
+        Event information
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[45.77%_77.1%_52%_8.65%] leading-[normal] not-italic text-[#73787d] text-[14px] whitespace-nowrap" data-node-id="258:1406">
+        Complete
+      </p>
+      <div className="absolute inset-[49.88%_5.09%_44.37%_5.09%]" data-node-id="258:1407" data-name="Vector">
+        <div className="absolute inset-[-1.02%_-0.14%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector4} />
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[50.59%_69.21%_46.95%_8.65%] leading-[normal] not-italic text-[#0186a8] text-[16px] whitespace-nowrap" data-node-id="258:1408">
+        Meeting point
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[52.82%_77.1%_44.95%_8.65%] leading-[normal] not-italic text-[#73787d] text-[14px] whitespace-nowrap" data-node-id="258:1409">
+        Complete
+      </p>
+      <div className="absolute inset-[56.92%_5.09%_37.32%_5.09%]" data-node-id="258:1410" data-name="Vector">
+        <div className="absolute inset-[-1.02%_-0.14%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector5} />
+        </div>
+      </div>
+      <div className="absolute left-[343px] size-[15px] top-[502px]" data-node-id="258:1411" data-name="Arrows / right arrow">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgArrowsRightArrow} />
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[57.63%_67.94%_39.91%_8.65%] leading-[normal] not-italic text-[#73787d] text-[16px] whitespace-nowrap" data-node-id="258:1412">
+        Items checklist
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[59.86%_75.83%_37.91%_8.65%] leading-[normal] not-italic text-[#73787d] text-[14px] whitespace-nowrap" data-node-id="258:1413">
+        In progress
+      </p>
+      <div className="absolute inset-[63.97%_5.09%_30.28%_5.09%]" data-node-id="258:1414" data-name="Vector">
+        <div className="absolute inset-[-1.02%_-0.14%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector4} />
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[64.67%_68.96%_32.86%_8.65%] leading-[normal] not-italic text-[#0186a8] text-[16px] whitespace-nowrap" data-node-id="258:1415">
+        Check-in code
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[66.9%_48.35%_30.87%_8.65%] leading-[normal] not-italic text-[#73787d] text-[14px] whitespace-nowrap" data-node-id="258:1416">
+        DaNangMyKheBeachCleanup
+      </p>
+      <div className="absolute inset-[90.14%_5.09%_3.99%_5.09%]" data-node-id="258:1417" data-name="Vector">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector6} />
+      </div>
+      <p className="-translate-x-1/2 [word-break:break-word] absolute bottom-[5.4%] font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%+0.5px)] not-italic text-[#cf3810] text-[18px] text-center top-[91.78%] whitespace-nowrap" data-node-id="258:1418">
+        Delete event
+      </p>
+      <a className="absolute block cursor-pointer inset-[83.45%_5.09%_10.68%_5.09%]" data-node-id="1356:2950" data-name="Vector">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector7} />
+      </a>
+      <p className="-translate-x-1/2 [word-break:break-word] absolute bottom-[12.09%] font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%+0.5px)] not-italic text-[18px] text-center text-white top-[85.09%] whitespace-nowrap" data-node-id="1356:2951">
+        Edit event
+      </p>
+      <div className="absolute contents inset-[8.1%_6.62%_86.85%_5.85%]" data-node-id="258:1419" data-name="TopAppBar">
+        <div className="absolute bg-[#a5e0f2] inset-[8.1%_30.79%_86.85%_30.79%] rounded-[20px]" data-node-id="258:1420" />
+        <a className="absolute block cursor-pointer inset-[8.1%_83.21%_86.85%_5.85%]" data-node-id="258:1421">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10276} />
+        </a>
+        <a className="absolute block cursor-pointer h-[43px] left-[82.44%] right-[6.62%] top-[69px]" data-node-id="258:1424">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10277} />
+        </a>
+        <p className="[word-break:break-word] absolute bottom-[87.91%] font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%-57.5px)] not-italic text-[#3f596b] text-[20px] top-[8.92%] whitespace-nowrap" data-node-id="258:1427">
+          Manage Event
+        </p>
+        <div className="absolute left-[334px] size-[24px] top-[78px]" data-node-id="1356:2716" data-name="Chat / chat">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgChatChat} />
+        </div>
+      </div>
+      <div className="absolute inset-[51.53%_8.14%_46.13%_86.77%]" data-node-id="258:1428" data-name="User Interface / Approve(Tick)">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUserInterfaceApproveTick} />
+      </div>
+      <div className="absolute inset-[65.73%_8.14%_31.92%_86.77%]" data-node-id="258:1429" data-name="User Interface / Approve(Tick)">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUserInterfaceApproveTick} />
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0.8)] content-stretch flex h-[59px] items-center justify-center left-0 overflow-clip right-0 top-0" data-node-id="258:1430" data-name="Status Bar">
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="258:1431" data-name="Time">
+          <div className="h-[13px] relative shrink-0 w-[40px]" data-node-id="258:1432" data-name="Time">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgTime} />
+          </div>
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="258:1434" data-name="Dynamic Island Frame">
+          <div className="bg-black h-[37px] relative rounded-[20px] shrink-0 w-[125px]" data-node-id="258:1435" data-name="Dynamic Island" />
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] gap-[8px] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="258:1436" data-name="Icons">
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="258:1437" data-name="Reception">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgReception} />
+          </div>
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="258:1442" data-name="Wi-fi">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWiFi} />
+          </div>
+          <div className="h-[13px] relative shrink-0 w-[28px]" data-node-id="258:1444" data-name="Battery">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgBattery} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0)] content-stretch flex h-[34px] items-center justify-center left-0 overflow-clip pt-[13px] right-0 top-[818px]" data-node-id="258:1448" data-name="Home Bar">
+        <div className="bg-black h-[5px] relative rounded-[3px] shrink-0 w-[134px]" data-node-id="258:1449" data-name="Rectangle" />
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+The generated code contains image and SVG URL constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

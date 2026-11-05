@@ -1,29 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:go_router/go_router.dart';
+import '../../../core/design/design_screen.dart';
 
-import 'package:blue_citizen/app/router/app_routes.dart';
-import 'package:blue_citizen/core/widgets/placeholder_screen.dart';
-
-/// Temporary entry screen for the Events feature.
-/// Replace this widget with the completed feature UI when implementation starts.
+/// Native implementation of Ocean Project / High-Fidelity / 258:426.
 class EventsScreen extends StatelessWidget {
   const EventsScreen({super.key});
-
   @override
-  Widget build(BuildContext context) {
-    return PlaceholderScreen(
-      title: 'Events',
-      owner: 'Events Team',
-      links: [
-        PlaceholderLink(
-          label: 'Open Map',
-          onTap: () => context.go(AppRoutes.map),
-        ),
-        PlaceholderLink(
-          label: 'Open Community',
-          onTap: () => context.go(AppRoutes.community),
-        ),
-      ],
-    );
-  }
+  Widget build(BuildContext context) =>
+      const DesignScreen(frameId: '258:426', embedded: true);
 }

@@ -1,0 +1,132 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/c1920b85-2c6d-4045-85cf-0f7205de6ad5";
+const imgRadioMoMo = `${assetPathPrefix}/40e97.svg`;
+const imgSelectedDotMoMo = `${assetPathPrefix}/befcd.svg`;
+const imgRadioZaloPay = `${assetPathPrefix}/bfcca.svg`;
+const imgGroup10276 = `${assetPathPrefix}/9e88c.svg`;
+const imgTime = `${assetPathPrefix}/ea77a.svg`;
+const imgReception = `${assetPathPrefix}/50e69.svg`;
+const imgWiFi = `${assetPathPrefix}/0be8d.svg`;
+const imgBattery = `${assetPathPrefix}/55081.svg`;
+
+export default function D2PaymentMethod() {
+  return (
+    <div className="bg-white overflow-clip relative rounded-[24px] size-full" data-node-id="1581:1655" data-name="D2 - Payment Method">
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[22px] leading-[18px] left-[24px] not-italic text-[#3f596b] text-[14px] top-[125px] w-[170px]" data-node-id="1581:1656">
+        Your donation
+      </p>
+      <div className="absolute bg-[#edfbff] border border-[#c9d5de] border-solid h-[76px] left-[24px] rounded-[12px] top-[151px] w-[345px]" data-node-id="1581:1657" data-name="Donation summary" />
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[30px] left-[40px] not-italic text-[#091727] text-[24px] top-[164px] w-[145px]" data-node-id="1581:1658">
+        $20.00
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[22px] leading-[18px] left-[40px] not-italic text-[#3f596b] text-[14px] top-[198px] w-[280px]" data-node-id="1581:1659">
+        Protect Phu Quoc Coral Reef
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[26px] leading-[23px] left-[24px] not-italic text-[#091727] text-[18px] top-[253px] w-[300px]" data-node-id="1581:1660">
+        Choose a payment method
+      </p>
+      <div className="absolute bg-[#edfbff] border-2 border-[#43c4d6] border-solid h-[56px] left-[24px] rounded-[12px] top-[294px] w-[345px]" data-node-id="1581:1661" data-name="Payment card - MoMo" />
+      <div className="absolute left-[40px] size-[22px] top-[311px]" data-node-id="1581:1662" data-name="Radio - MoMo">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgRadioMoMo} />
+      </div>
+      <div className="absolute left-[46px] size-[10px] top-[317px]" data-node-id="1581:1663" data-name="Selected dot - MoMo">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgSelectedDotMoMo} />
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[24px] leading-[20px] left-[78px] not-italic text-[#091727] text-[16px] top-[304px] w-[170px]" data-node-id="1581:1664">
+        MoMo
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[20px] leading-[16px] left-[78px] not-italic text-[#3f596b] text-[12px] top-[326px] w-[240px]" data-node-id="1581:1665">
+        Pay securely with MoMo
+      </p>
+      <div className="absolute bg-white border border-[#c9d5de] border-solid h-[56px] left-[24px] rounded-[12px] top-[364px] w-[345px]" data-node-id="1581:1666" data-name="Payment card - ZaloPay" />
+      <div className="absolute left-[40px] size-[22px] top-[381px]" data-node-id="1581:1667" data-name="Radio - ZaloPay">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgRadioZaloPay} />
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[24px] leading-[20px] left-[78px] not-italic text-[#091727] text-[16px] top-[374px] w-[170px]" data-node-id="1581:1668">
+        ZaloPay
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[20px] leading-[16px] left-[78px] not-italic text-[#3f596b] text-[12px] top-[396px] w-[240px]" data-node-id="1581:1669">
+        Pay securely with ZaloPay
+      </p>
+      <div className="absolute bg-white border border-[#c9d5de] border-solid h-[56px] left-[24px] rounded-[12px] top-[434px] w-[345px]" data-node-id="1581:1670" data-name="Payment card - VNPay" />
+      <div className="absolute left-[40px] size-[22px] top-[451px]" data-node-id="1581:1671" data-name="Radio - VNPay">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgRadioZaloPay} />
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[24px] leading-[20px] left-[78px] not-italic text-[#091727] text-[16px] top-[444px] w-[170px]" data-node-id="1581:1672">
+        VNPay
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[20px] leading-[16px] left-[78px] not-italic text-[#3f596b] text-[12px] top-[466px] w-[240px]" data-node-id="1581:1673">
+        Pay securely with VNPay
+      </p>
+      <div className="absolute bg-white border border-[#c9d5de] border-solid h-[56px] left-[24px] rounded-[12px] top-[504px] w-[345px]" data-node-id="1581:1674" data-name="Payment card - Bank card" />
+      <div className="absolute left-[40px] size-[22px] top-[521px]" data-node-id="1581:1675" data-name="Radio - Bank card">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgRadioZaloPay} />
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[24px] leading-[20px] left-[78px] not-italic text-[#091727] text-[16px] top-[514px] w-[170px]" data-node-id="1581:1676">
+        Bank card
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[20px] leading-[16px] left-[78px] not-italic text-[#3f596b] text-[12px] top-[536px] w-[240px]" data-node-id="1581:1677">
+        Visa, Mastercard or local card
+      </p>
+      <div className="absolute bg-white border border-[#c9d5de] border-solid h-[56px] left-[24px] rounded-[12px] top-[574px] w-[345px]" data-node-id="1581:1678" data-name="Payment card - Bank transfer QR" />
+      <div className="absolute left-[40px] size-[22px] top-[591px]" data-node-id="1581:1679" data-name="Radio - Bank transfer QR">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgRadioZaloPay} />
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[24px] leading-[20px] left-[78px] not-italic text-[#091727] text-[16px] top-[584px] w-[170px]" data-node-id="1581:1680">
+        Bank transfer QR
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[20px] leading-[16px] left-[78px] not-italic text-[#3f596b] text-[12px] top-[606px] w-[240px]" data-node-id="1581:1681">
+        Scan QR to transfer
+      </p>
+      <a className="absolute bg-[#43c4d6] block cursor-pointer h-[48px] left-[24px] rounded-[28px] top-[676px] w-[345px]" data-node-id="1581:1682" data-name="Continue button" />
+      <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[32px] leading-[32px] left-[196.5px] not-italic text-[20px] text-center text-white top-[683px] w-[345px]" data-node-id="1581:1683">
+        Continue
+      </p>
+      <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[20px] leading-[16px] left-[196.5px] not-italic text-[#3f596b] text-[12px] text-center top-[747px] w-[345px]" data-node-id="1581:1684">
+        You can change your payment method later.
+      </p>
+      <div className="absolute contents inset-[8.1%_27.74%_86.85%_5.85%]" data-node-id="1581:1685" data-name="TopAppBar">
+        <div className="absolute bg-[#a5e0f2] inset-[8.1%_27.74%_86.85%_27.74%] rounded-[20px]" data-node-id="1581:1686" />
+        <button className="absolute block cursor-pointer inset-[8.1%_83.21%_86.85%_5.85%]" data-node-id="1581:1687">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10276} />
+        </button>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold inset-[9.15%_32.32%_87.79%_33.08%] leading-[25.4px] not-italic text-[#3f596b] text-[20px] whitespace-nowrap" data-node-id="1581:1690">
+          Payment method
+        </p>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0.8)] content-stretch flex h-[59px] items-center justify-center left-0 overflow-clip right-0 top-0" data-node-id="1581:1691" data-name="Status Bar">
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="1581:1692" data-name="Time">
+          <div className="h-[13px] relative shrink-0 w-[40px]" data-node-id="1581:1693" data-name="Time">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgTime} />
+          </div>
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="1581:1695" data-name="Dynamic Island Frame">
+          <div className="bg-black h-[37px] relative rounded-[20px] shrink-0 w-[125px]" data-node-id="1581:1696" data-name="Dynamic Island" />
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] gap-[8px] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="1581:1697" data-name="Icons">
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="1581:1698" data-name="Reception">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgReception} />
+          </div>
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="1581:1703" data-name="Wi-fi">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWiFi} />
+          </div>
+          <div className="h-[13px] relative shrink-0 w-[28px]" data-node-id="1581:1705" data-name="Battery">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgBattery} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0)] content-stretch flex h-[34px] items-center justify-center left-0 overflow-clip pt-[13px] right-0 top-[818px]" data-node-id="1581:1709" data-name="Home Bar">
+        <div className="bg-black h-[5px] relative rounded-[3px] shrink-0 w-[134px]" data-node-id="1581:1710" data-name="Rectangle" />
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: Report/Heading 2: Font(family: "Afacad Flux", style: SemiBold, size: 20, weight: 600, lineHeight: 25.399999618530273, letterSpacing: 0).
+The generated code contains image and SVG URL constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

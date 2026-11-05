@@ -1,7 +1,7 @@
 import 'package:blue_citizen/features/report/screens/report_screen.dart';
 import 'package:go_router/go_router.dart';
 
-import 'package:blue_citizen/core/widgets/placeholder_screen.dart';
+import 'package:blue_citizen/core/design/design_screen.dart';
 import 'package:blue_citizen/app/router/app_routes.dart';
 
 // ==========================================
@@ -28,11 +28,7 @@ final List<RouteBase> reportRoutes = [
     name: 'pollutionReport',
     parentNavigatorKey: rootNavigatorKey,
     builder: (context, state) {
-      return const PlaceholderScreen(
-        title: 'Pollution & Waste',
-        owner: 'Khanh',
-        links: [],
-      );
+      return const DesignScreen(frameId: '230:1213');
     },
   ),
 
@@ -41,11 +37,7 @@ final List<RouteBase> reportRoutes = [
     name: 'recycleType',
     parentNavigatorKey: rootNavigatorKey,
     builder: (context, state) {
-      return const PlaceholderScreen(
-        title: 'Recycle Type',
-        owner: 'Khanh',
-        links: [],
-      );
+      return const DesignScreen(frameId: '230:1285');
     },
   ),
 
@@ -57,11 +49,7 @@ final List<RouteBase> reportRoutes = [
     name: 'speciesReport',
     parentNavigatorKey: rootNavigatorKey,
     builder: (context, state) {
-      return const PlaceholderScreen(
-        title: 'Rare Marine Species',
-        owner: 'Khanh',
-        links: [],
-      );
+      return const DesignScreen(frameId: '230:1356');
     },
   ),
 
@@ -70,11 +58,7 @@ final List<RouteBase> reportRoutes = [
     name: 'animalType',
     parentNavigatorKey: rootNavigatorKey,
     builder: (context, state) {
-      return const PlaceholderScreen(
-        title: 'Animal Type',
-        owner: 'Khanh',
-        links: [],
-      );
+      return const DesignScreen(frameId: '230:2029');
     },
   ),
 
@@ -86,13 +70,7 @@ final List<RouteBase> reportRoutes = [
     name: 'editReport',
     parentNavigatorKey: rootNavigatorKey,
     builder: (context, state) {
-      final id = state.pathParameters['id']!;
-
-      return PlaceholderScreen(
-        title: 'Edit Report - $id',
-        owner: 'Khanh',
-        links: const [],
-      );
+      return const DesignScreen(frameId: '1253:343');
     },
   ),
 
@@ -105,13 +83,7 @@ final List<RouteBase> reportRoutes = [
     name: 'reportDetail',
     parentNavigatorKey: rootNavigatorKey,
     builder: (context, state) {
-      final id = state.pathParameters['id']!;
-
-      return PlaceholderScreen(
-        title: 'Report Details - $id',
-        owner: 'Khanh',
-        links: const [],
-      );
+      return const DesignScreen(frameId: '1249:216');
     },
   ),
 ];

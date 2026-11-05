@@ -1,0 +1,240 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/0742f90a-0450-4875-aaaa-cb97d960d733";
+const imgRectangle1 = `${assetPathPrefix}/88448.png`;
+const img202610141905511 = `${assetPathPrefix}/39024.png`;
+const img202610212159511 = `${assetPathPrefix}/e7412.png`;
+const img202610212201521 = `${assetPathPrefix}/1e2eb.png`;
+const imgGroup10276 = `${assetPathPrefix}/f012c.svg`;
+const imgVector = `${assetPathPrefix}/2406f.svg`;
+const imgGroup = `${assetPathPrefix}/7e0fa.svg`;
+const imgVector1 = `${assetPathPrefix}/e8d82.svg`;
+const imgVector2 = `${assetPathPrefix}/c2e59.svg`;
+const imgVector3 = `${assetPathPrefix}/4efc2.svg`;
+const imgVector4 = `${assetPathPrefix}/37b50.svg`;
+const imgVector5 = `${assetPathPrefix}/54a87.svg`;
+const imgRectangle = `${assetPathPrefix}/8c01f.svg`;
+const imgVector6 = `${assetPathPrefix}/32490.svg`;
+const imgVector7 = `${assetPathPrefix}/fb7aa.svg`;
+const imgVector8 = `${assetPathPrefix}/a2925.svg`;
+const imgRectangle2 = `${assetPathPrefix}/9221b.svg`;
+const imgGroup1 = `${assetPathPrefix}/56be6.svg`;
+const imgGroup2 = `${assetPathPrefix}/3e62c.svg`;
+const imgTime = `${assetPathPrefix}/ea77a.svg`;
+const imgReception = `${assetPathPrefix}/50e69.svg`;
+const imgWiFi = `${assetPathPrefix}/0be8d.svg`;
+const imgBattery = `${assetPathPrefix}/55081.svg`;
+
+export default function Component23UiSpeciesLibrary() {
+  return (
+    <div className="bg-white overflow-clip relative rounded-[24px] size-full" data-node-id="272:204" data-name="23_UI_Species_Library">
+      <div className="absolute contents left-[23px] top-[69px]" data-node-id="272:205" data-name="TopAppBar">
+        <div className="-translate-x-1/2 absolute contents left-[calc(50%-1.5px)] top-[69px]" data-node-id="1230:547">
+          <div className="-translate-x-1/2 absolute bg-[#a5e0f2] h-[43px] left-[calc(50%-1.5px)] rounded-[20px] top-[69px] w-[172px]" data-node-id="272:206" />
+          <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%-58.5px)] not-italic text-[#3f596b] text-[20px] top-[calc(50%-349px)] whitespace-nowrap" data-node-id="272:271">
+            Species library
+          </p>
+        </div>
+        <a className="absolute block cursor-pointer left-[23px] size-[43px] top-[69px]" data-node-id="272:207">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10276} />
+        </a>
+      </div>
+      <div className="absolute contents left-[5.09%] right-[5.09%] top-[132px]" data-node-id="1230:548">
+        <div className="absolute inset-[15.49%_5.09%_79.58%_5.09%]" data-node-id="272:213" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+        </div>
+        <div className="absolute inset-[17.18%_87.4%_81.16%_8.99%]" data-node-id="272:214" data-name="Group">
+          <div className="absolute inset-[-5.29%]">
+            <img alt="" className="block max-w-none size-full" src={imgGroup} />
+          </div>
+        </div>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal leading-[normal] left-[15.52%] not-italic right-[53.94%] text-[#7b92a1] text-[12px] top-[calc(50%-281px)] whitespace-nowrap" data-node-id="272:217">
+          Search species or habitat
+        </p>
+      </div>
+      <div className="absolute contents left-[20px] top-[184px]" data-node-id="1230:549">
+        <div className="absolute inset-[21.6%_82.7%_75.23%_5.09%]" data-node-id="272:218" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+        </div>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%-152.5px)] not-italic text-[12px] text-center text-white top-[calc(50%-237px)] whitespace-nowrap" data-node-id="272:219">
+          All
+        </p>
+      </div>
+      <div className="absolute contents left-[75px] top-[184px]" data-node-id="1230:550">
+        <div className="absolute inset-[21.6%_62.6%_75.23%_19.08%]" data-node-id="272:220" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector2} />
+        </div>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%-85px)] not-italic text-[#0186a8] text-[12px] text-center top-[calc(50%-237px)] whitespace-nowrap" data-node-id="272:221">
+          Marine
+        </p>
+      </div>
+      <div className="absolute contents left-[154px] top-[184px]" data-node-id="1230:552">
+        <div className="absolute contents left-[154px] top-[184px]" data-node-id="1230:551">
+          <div className="absolute inset-[21.6%_44.78%_75.23%_39.19%]" data-node-id="272:222" data-name="Vector">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector3} />
+          </div>
+          <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%-10.5px)] not-italic text-[#3f596b] text-[12px] text-center top-[calc(50%-237px)] whitespace-nowrap" data-node-id="272:223">
+            Birds
+          </p>
+        </div>
+      </div>
+      <div className="absolute contents left-[224px] top-[184px]" data-node-id="1230:553">
+        <div className="absolute inset-[21.6%_21.88%_75.23%_57%]" data-node-id="272:224" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector4} />
+        </div>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%+69.5px)] not-italic text-[#3f596b] text-[12px] text-center top-[calc(50%-237px)] whitespace-nowrap" data-node-id="272:225">
+          Mammals
+        </p>
+      </div>
+      <div className="absolute contents left-[314px] top-[184px]" data-node-id="1230:554">
+        <div className="absolute inset-[21.6%_5.09%_75.23%_79.9%]" data-node-id="272:226" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector5} />
+        </div>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%+147px)] not-italic text-[#3f596b] text-[12px] text-center top-[calc(50%-237px)] whitespace-nowrap" data-node-id="272:227">
+          Forest
+        </p>
+      </div>
+      <div className="absolute contents inset-[26.29%_5.09%_55.28%_5.09%]" data-node-id="272:228" data-name="Clip path group">
+        <div className="absolute inset-[26.29%_5.09%_55.28%_5.09%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-size-[353px_157px]" data-node-id="272:231" style={{ maskImage: `url("${imgRectangle}")` }} data-name="Rectangle">
+          <div className="absolute inset-0 overflow-hidden pointer-events-none">
+            <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgRectangle1} />
+          </div>
+        </div>
+      </div>
+      <a className="absolute block cursor-pointer inset-[26.29%_5.09%_55.28%_5.09%]" data-node-id="272:232" data-name="Vector">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector6} />
+      </a>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[36.38%_54.2%_59.98%_8.91%] leading-[normal] not-italic text-[23px] text-white whitespace-nowrap" data-node-id="272:235">
+        Green sea turtle
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[40.02%_53.44%_58.1%_8.91%] leading-[normal] not-italic text-[12px] text-white whitespace-nowrap" data-node-id="272:236">
+        A gentle guardian of the ocean
+      </p>
+      <div className="absolute contents left-[258px] top-[338px]" data-node-id="1230:555">
+        <div className="absolute inset-[39.67%_9.16%_57.51%_65.65%]" data-node-id="272:237" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector7} />
+        </div>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%+111.5px)] not-italic text-[12px] text-center text-white top-[calc(50%-84px)] whitespace-nowrap" data-node-id="272:238">
+          ENDANGERED
+        </p>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[46.83%_68.96%_50.47%_5.09%] leading-[normal] not-italic text-[#091727] text-[17px] whitespace-nowrap" data-node-id="272:239">
+        Explore wildlife
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[47.36%_5.09%_50.76%_85.5%] leading-[normal] not-italic text-[#0186a8] text-[12px] text-right whitespace-nowrap" data-node-id="272:240">
+        View all
+      </p>
+      <a className="absolute contents cursor-pointer inset-[50.23%_5.09%_39.08%_5.09%]" data-node-id="759:603">
+        <div className="absolute contents inset-[50.23%_5.09%_39.08%_5.09%]" data-node-id="759:602">
+          <div className="absolute inset-[50.23%_5.09%_39.08%_5.09%]" data-node-id="272:241" data-name="Vector">
+            <div className="absolute inset-[-0.44%_-0.11%]">
+              <img alt="" className="block max-w-none size-full" src={imgVector8} />
+            </div>
+          </div>
+          <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[55.86%_42.75%_42.27%_28.24%] leading-[normal] not-italic text-[#3f596b] text-[12px] whitespace-nowrap" data-node-id="272:248">
+            Protect nesting beaches
+          </p>
+        </div>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[53.76%_46.82%_44.37%_28.24%] leading-[normal] not-italic text-[#fd7b59] text-[12px] whitespace-nowrap" data-node-id="272:247">
+          Marine · Endangered
+        </p>
+        <div className="absolute contents inset-[51.29%_74.55%_40.14%_7.38%]" data-node-id="272:242" data-name="Clip path group">
+          <div className="absolute inset-[51.29%_74.55%_40.14%_7.38%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-size-[71px_73px]" data-node-id="272:245" style={{ maskImage: `url("${imgRectangle2}")` }} data-name="Rectangle">
+            <div className="absolute inset-0 overflow-hidden pointer-events-none">
+              <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgRectangle1} />
+            </div>
+          </div>
+        </div>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[51.5%_49.11%_46.27%_28.24%] leading-[normal] not-italic text-[#091727] text-[14px] whitespace-nowrap" data-node-id="272:246">
+          Green sea turtle
+        </p>
+        <div className="absolute inset-[54.41%_8.82%_44.43%_89.92%]" data-node-id="272:249" data-name="Group">
+          <div className="absolute inset-[-6.43%_-12.86%]">
+            <img alt="" className="block max-w-none size-full" src={imgGroup1} />
+          </div>
+        </div>
+      </a>
+      <div className="absolute inset-[61.97%_5.09%_27.35%_5.09%]" data-node-id="272:251" data-name="Vector">
+        <div className="absolute inset-[-0.44%_-0.11%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector8} />
+        </div>
+      </div>
+      <div className="absolute contents inset-[63.03%_74.55%_28.4%_7.38%]" data-node-id="272:252" data-name="Clip path group">
+        <div className="absolute h-[189px] left-[-56px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[85px_18px] mask-size-[71px_73px] top-[519px] w-[241px]" data-node-id="272:255" style={{ maskImage: `url("${imgRectangle2}")` }} data-name="スクリーンショット 2026-10-14 19.05.51 1">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img202610141905511} />
+        </div>
+      </div>
+      <div className="absolute contents inset-[63.03%_74.55%_28.4%_7.38%]" data-node-id="272:256" data-name="Clip path group">
+        <div className="absolute h-[101px] left-[9px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[20px_11px] mask-size-[71px_73px] top-[526px] w-[120px]" data-node-id="701:484" style={{ maskImage: `url("${imgRectangle2}")` }} data-name="スクリーンショット 2026-10-21 21.59.51 1">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img202610212159511} />
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[63.24%_59.54%_34.53%_28.24%] leading-[normal] not-italic text-[#091727] text-[14px] whitespace-nowrap" data-node-id="272:260">
+        Jelly fish
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[65.49%_46.82%_32.63%_28.24%] leading-[normal] not-italic text-[#fd7b59] text-[12px] whitespace-nowrap" data-node-id="272:261">
+        Marine · Endangered
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[67.59%_41.48%_30.53%_28.24%] leading-[normal] not-italic text-[#3f596b] text-[12px] whitespace-nowrap" data-node-id="272:262">
+        Preserve natural habitats
+      </p>
+      <div className="absolute inset-[66.14%_8.82%_32.69%_89.92%]" data-node-id="272:263" data-name="Group">
+        <div className="absolute inset-[-6.43%_-12.86%]">
+          <img alt="" className="block max-w-none size-full" src={imgGroup2} />
+        </div>
+      </div>
+      <div className="absolute inset-[73.71%_5.09%_15.61%_5.09%]" data-node-id="272:265" data-name="Vector">
+        <div className="absolute inset-[-0.44%_-0.11%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector8} />
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[74.98%_57%_22.79%_28.24%] leading-[normal] not-italic text-[#091727] text-[14px] whitespace-nowrap" data-node-id="272:266">
+        Bluewhale
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[77.29%_35.37%_20.83%_28.24%] leading-[normal] not-italic text-[#fd7b59] text-[12px] whitespace-nowrap" data-node-id="272:267">
+        Marine · Critically endangered
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[79.33%_63.1%_18.79%_28.24%] leading-[normal] not-italic text-[#3f596b] text-[12px] whitespace-nowrap" data-node-id="272:268">
+        Protect
+      </p>
+      <div className="absolute inset-[77.88%_8.82%_20.96%_89.92%]" data-node-id="272:269" data-name="Group">
+        <div className="absolute inset-[-6.43%_-12.86%]">
+          <img alt="" className="block max-w-none size-full" src={imgGroup2} />
+        </div>
+      </div>
+      <div className="absolute contents inset-[74.65%_74.55%_16.78%_7.38%]" data-node-id="272:272" data-name="Clip path group">
+        <div className="absolute h-[81px] left-[10px] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-position-[19px_8px] mask-size-[71px_73px] top-[628px] w-[96px]" data-node-id="701:486" style={{ maskImage: `url("${imgRectangle2}")` }} data-name="スクリーンショット 2026-10-21 22.01.52 1">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={img202610212201521} />
+        </div>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0.8)] content-stretch flex h-[59px] items-center justify-center left-0 overflow-clip right-0 top-0" data-node-id="272:276" data-name="Status Bar">
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="272:277" data-name="Time">
+          <div className="h-[13px] relative shrink-0 w-[40px]" data-node-id="272:278" data-name="Time">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgTime} />
+          </div>
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="272:280" data-name="Dynamic Island Frame">
+          <div className="bg-black h-[37px] relative rounded-[20px] shrink-0 w-[125px]" data-node-id="272:281" data-name="Dynamic Island" />
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] gap-[8px] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="272:282" data-name="Icons">
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="272:283" data-name="Reception">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgReception} />
+          </div>
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="272:288" data-name="Wi-fi">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWiFi} />
+          </div>
+          <div className="h-[13px] relative shrink-0 w-[28px]" data-node-id="272:290" data-name="Battery">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgBattery} />
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+The generated code contains image and SVG URL constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

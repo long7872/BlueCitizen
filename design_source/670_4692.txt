@@ -1,0 +1,175 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/ca3e0ef0-c13f-492a-9304-7964b4b81cf8";
+const imgRectangle1 = `${assetPathPrefix}/a12d9.png`;
+const imgGroup10276 = `${assetPathPrefix}/b0dc5.svg`;
+const imgRectangle = `${assetPathPrefix}/d72ea.svg`;
+const imgVector = `${assetPathPrefix}/ce4ea.svg`;
+const imgVector1 = `${assetPathPrefix}/ac865.svg`;
+const imgGroup = `${assetPathPrefix}/cd51b.svg`;
+const imgVector2 = `${assetPathPrefix}/d82b7.svg`;
+const imgGroup1 = `${assetPathPrefix}/7ec96.svg`;
+const imgVector3 = `${assetPathPrefix}/3d851.svg`;
+const imgVector4 = `${assetPathPrefix}/27c97.svg`;
+const imgGroup2 = `${assetPathPrefix}/7fce2.svg`;
+const imgVector5 = `${assetPathPrefix}/ddef7.svg`;
+const imgTime = `${assetPathPrefix}/ea77a.svg`;
+const imgReception = `${assetPathPrefix}/50e69.svg`;
+const imgWiFi = `${assetPathPrefix}/0be8d.svg`;
+const imgBattery = `${assetPathPrefix}/55081.svg`;
+
+export default function Component17UiRedeemReward() {
+  return (
+    <div className="bg-white overflow-clip relative rounded-[24px] size-full" data-node-id="670:4692" data-name="17_UI_Redeem_Reward">
+      <div className="absolute contents left-[23px] top-[69px]" data-node-id="670:4693" data-name="TopAppBar">
+        <div className="-translate-x-1/2 absolute contents left-1/2 top-[69px]" data-node-id="1230:532">
+          <div className="-translate-x-1/2 absolute bg-[#a5e0f2] h-[43px] left-1/2 rounded-[20px] top-[69px] w-[151px]" data-node-id="670:4694" />
+          <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-1/2 not-italic text-[#3f596b] text-[20px] text-center top-[calc(50%-349px)] whitespace-nowrap" data-node-id="670:4701">
+            Reedem reward
+          </p>
+        </div>
+        <button className="absolute block cursor-pointer left-[23px] size-[43px] top-[69px]" data-node-id="670:4695">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10276} />
+        </button>
+      </div>
+      <div className="absolute contents inset-[15.26%_5.09%_64.55%_5.09%]" data-node-id="670:4702" data-name="Clip path group">
+        <div className="absolute inset-[15.26%_5.09%_64.55%_5.09%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-size-[353px_172px]" data-node-id="670:4705" style={{ maskImage: `url("${imgRectangle}")` }} data-name="Rectangle">
+          <div className="absolute inset-0 overflow-hidden pointer-events-none">
+            <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgRectangle1} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute inset-[16.9%_63.87%_80.52%_8.65%]" data-node-id="670:4706" data-name="Vector">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[17.61%_65.78%_80.52%_10.31%] leading-[normal] not-italic text-[#0186a8] text-[12px] text-center whitespace-nowrap" data-node-id="670:4707">
+        PARTNER VOUCHER
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[37.21%_62.34%_59.62%_5.6%] leading-[normal] not-italic text-[#091727] text-[20px] whitespace-nowrap" data-node-id="670:4708">
+        Partner voucher
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[40.85%_4.58%_54.69%_5.6%] leading-[normal] not-italic text-[#3f596b] text-[14px]" data-node-id="670:4709">
+        A gift voucher worth 50,000 VND to use at any partner store near you.
+      </p>
+      <div className="absolute contents inset-[46.48%_5.09%_43.9%_5.09%]" data-node-id="1230:533">
+        <div className="absolute inset-[46.48%_5.09%_43.9%_5.09%]" data-node-id="670:4710" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+        </div>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[47.66%_74.55%_50.47%_9.67%] leading-[normal] not-italic text-[#7b92a1] text-[12px] whitespace-nowrap" data-node-id="670:4711">
+          Your balance
+        </p>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[49.77%_73.28%_47.42%_9.67%] leading-[normal] not-italic text-[#091727] text-[18px] whitespace-nowrap" data-node-id="670:4712">
+          2,460 pts
+        </p>
+        <div className="absolute inset-[50.76%_51.34%_48.18%_47.52%]" data-node-id="670:4713" data-name="Group">
+          <div className="absolute inset-[-8.33%_-16.67%]">
+            <img alt="" className="block max-w-none size-full" src={imgGroup} />
+          </div>
+        </div>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[47.66%_21.12%_50.47%_59.03%] leading-[normal] not-italic text-[#7b92a1] text-[12px] whitespace-nowrap" data-node-id="670:4715">
+          After redeeming
+        </p>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[49.77%_23.92%_47.42%_59.03%] leading-[normal] not-italic text-[#0186a8] text-[18px] whitespace-nowrap" data-node-id="670:4716">
+          2,160 pts
+        </p>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[53.05%_61.32%_45.07%_9.67%] leading-[normal] not-italic text-[#3f596b] text-[12px] whitespace-nowrap" data-node-id="670:4717">
+          Reward cost: 300 points
+        </p>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[57.75%_82.95%_39.55%_5.09%] leading-[normal] not-italic text-[#091727] text-[17px] whitespace-nowrap" data-node-id="670:4718">
+        Details
+      </p>
+      <div className="absolute inset-[61.27%_89.31%_36.38%_5.6%]" data-node-id="670:4719" data-name="Vector">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector2} />
+      </div>
+      <div className="absolute inset-[62.15%_90.99%_37.31%_7.3%]" data-node-id="670:4720" data-name="Group">
+        <div className="absolute inset-[-11.82%_-8.12%_-11.82%_-8.13%]">
+          <img alt="" className="block max-w-none size-full" src={imgGroup1} />
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[61.74%_39.44%_36.03%_13.23%] leading-[normal] not-italic text-[#3f596b] text-[14px] whitespace-nowrap" data-node-id="670:4722">
+        Valid for 30 days after redeeming
+      </p>
+      <div className="absolute inset-[64.79%_89.31%_32.86%_5.6%]" data-node-id="670:4723" data-name="Vector">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector2} />
+      </div>
+      <div className="absolute inset-[65.67%_90.99%_33.79%_7.3%]" data-node-id="670:4724" data-name="Group">
+        <div className="absolute inset-[-11.82%_-8.12%_-11.82%_-8.13%]">
+          <img alt="" className="block max-w-none size-full" src={imgGroup1} />
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[65.26%_31.81%_32.51%_13.23%] leading-[normal] not-italic text-[#3f596b] text-[14px] whitespace-nowrap" data-node-id="670:4726">
+        Show the QR code at any partner store
+      </p>
+      <div className="absolute inset-[68.31%_89.31%_29.34%_5.6%]" data-node-id="670:4727" data-name="Vector">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector2} />
+      </div>
+      <div className="absolute inset-[69.19%_90.99%_30.27%_7.3%]" data-node-id="670:4728" data-name="Group">
+        <div className="absolute inset-[-11.82%_-8.12%_-11.82%_-8.13%]">
+          <img alt="" className="block max-w-none size-full" src={imgGroup1} />
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[68.78%_34.35%_28.99%_13.23%] leading-[normal] not-italic text-[#3f596b] text-[14px] whitespace-nowrap" data-node-id="670:4730">
+        One voucher per member each week
+      </p>
+      <div className="absolute contents inset-[74.65%_5.09%_17.14%_5.09%]" data-node-id="1230:534">
+        <div className="absolute inset-[74.65%_5.09%_17.14%_5.09%]" data-node-id="670:4731" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector3} />
+        </div>
+        <div className="absolute inset-[76.41%_84.73%_20.31%_8.14%]" data-node-id="670:4732" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector4} />
+        </div>
+        <div className="absolute inset-[77.37%_87.42%_21.27%_10.81%]" data-node-id="670:4733" data-name="Group">
+          <div className="absolute inset-[-5%_-8.33%]">
+            <img alt="" className="block max-w-none size-full" src={imgGroup2} />
+          </div>
+        </div>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[75.47%_62.6%_22.3%_17.81%] leading-[normal] not-italic text-[#091727] text-[14px] whitespace-nowrap" data-node-id="670:4735">
+          Good to know
+        </p>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[78.17%_9.67%_18.08%_17.81%] leading-[normal] not-italic text-[#3f596b] text-[12px]" data-node-id="670:4736">
+          Points are deducted right away and cannot be refunded once redeemed.
+        </p>
+      </div>
+      <div className="absolute contents left-[20px] top-[740px]" data-node-id="1230:535">
+        <a className="absolute block cursor-pointer inset-[86.85%_5.09%_7.04%_5.09%]" data-node-id="670:4737" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector5} />
+        </a>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-1/2 not-italic text-[17px] text-center text-white top-[calc(50%+329px)] whitespace-nowrap" data-node-id="670:4738">
+          Redeem for 300 pts
+        </p>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0.8)] content-stretch flex h-[59px] items-center justify-center left-0 overflow-clip right-0 top-0" data-node-id="670:4739" data-name="Status Bar">
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="670:4740" data-name="Time">
+          <div className="h-[13px] relative shrink-0 w-[40px]" data-node-id="670:4741" data-name="Time">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgTime} />
+          </div>
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="670:4743" data-name="Dynamic Island Frame">
+          <div className="bg-black h-[37px] relative rounded-[20px] shrink-0 w-[125px]" data-node-id="670:4744" data-name="Dynamic Island" />
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] gap-[8px] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="670:4745" data-name="Icons">
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="670:4746" data-name="Reception">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgReception} />
+          </div>
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="670:4751" data-name="Wi-fi">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWiFi} />
+          </div>
+          <div className="h-[13px] relative shrink-0 w-[28px]" data-node-id="670:4753" data-name="Battery">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgBattery} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0)] content-stretch flex h-[34px] items-center justify-center left-0 overflow-clip pt-[13px] right-0 top-[818px]" data-node-id="670:4757" data-name="Home Bar">
+        <div className="bg-black h-[5px] relative rounded-[3px] shrink-0 w-[134px]" data-node-id="670:4758" data-name="Rectangle" />
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+The generated code contains image and SVG URL constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

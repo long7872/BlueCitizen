@@ -34,6 +34,9 @@ class AppRoutes {
   static const String knowledge = '/knowledge';
 
   // ==========================================
+  static const String screenCatalog = '/screens';
+  static String designScreen(String id) => '/design/${Uri.encodeComponent(id)}';
+
   // DYNAMIC ROUTES
 
   static String eventDetail(String id) => '/events/${Uri.encodeComponent(id)}';

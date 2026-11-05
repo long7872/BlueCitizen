@@ -1,0 +1,144 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/b8a3a3d3-1313-4bdc-a41d-179e81ad9963";
+const imgRectangle35 = `${assetPathPrefix}/55e40.png`;
+const imgRectangle38 = `${assetPathPrefix}/6090e.png`;
+const imgRectangle39 = `${assetPathPrefix}/e0e78.png`;
+const img10RareSpeciesPhoto = `${assetPathPrefix}/58c51.svg`;
+const imgIconCamera = `${assetPathPrefix}/73d3b.svg`;
+const imgIconGallery = `${assetPathPrefix}/b0a1b.svg`;
+const imgIconPlus = `${assetPathPrefix}/aaa10.svg`;
+const imgIconLeaf = `${assetPathPrefix}/c4ee8.svg`;
+const imgTime = `${assetPathPrefix}/ea77a.svg`;
+const imgReception = `${assetPathPrefix}/50e69.svg`;
+const imgWiFi = `${assetPathPrefix}/0be8d.svg`;
+const imgBattery = `${assetPathPrefix}/55081.svg`;
+const imgGroup10276 = `${assetPathPrefix}/7330f.svg`;
+const imgGroup10277 = `${assetPathPrefix}/9fd81.svg`;
+const imgUserInterfaceMenu = `${assetPathPrefix}/c9b94.svg`;
+
+export default function Component10RareSpeciesPhoto() {
+  return (
+    <div className="overflow-clip relative rounded-[24px] size-full" data-node-id="230:1356" data-name="10. Rare Species Photo">
+      <img alt="" className="absolute block inset-0 max-w-none size-full" src={img10RareSpeciesPhoto} />
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[20px] leading-[15px] left-[24px] not-italic text-[#3f596b] text-[12px] top-[117px] w-[138px]" data-node-id="255:574">
+        STEP 1 / 4
+      </p>
+      <p className="-translate-x-full [word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[20px] leading-[15px] left-[369px] not-italic text-[#3f596b] text-[12px] text-right top-[117px] w-[140px]" data-node-id="255:576">
+        RARE SPECIES
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[46.95%_85.37%_51.29%_11.83%] leading-[normal] not-italic text-[11px] text-center text-white whitespace-nowrap" data-node-id="230:1358">
+        All
+      </p>
+      <div className="absolute bg-[#e6f3f8] h-[5px] left-[24px] rounded-[3px] top-[143px] w-[345px]" data-node-id="255:578" data-name="Container">
+        <div className="absolute bg-[#43c4d6] h-[5px] left-0 rounded-[3px] top-0 w-[86.25px]" data-node-id="255:580" data-name="Container" />
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold h-[36px] leading-[28.75px] left-[24px] not-italic text-[#091727] text-[23px] top-[163px] w-[205px]" data-node-id="255:582">
+        Capture the sighting
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[35px] leading-[17.5px] left-[24px] not-italic text-[#3f596b] text-[14px] top-[199px] w-[345px]" data-node-id="255:584">
+        Record wildlife without disturbing it.
+      </p>
+      <div className="absolute h-[205px] left-[25px] rounded-[9px] top-[221px] w-[345px]" data-node-id="255:586">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[9px] size-full" src={imgRectangle35} />
+      </div>
+      <div className="absolute bg-[#eaf8fb] border border-[#d8e5ec] border-solid h-[41px] left-[24px] rounded-[22px] top-[442px] w-[165px]" data-node-id="255:593" data-name="Camera">
+        <div className="absolute left-[33px] size-[20px] top-[10px]" data-node-id="255:594" data-name="Icon / camera">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconCamera} />
+        </div>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[30px] leading-[18.75px] left-[68px] not-italic text-[#0186a8] text-[15px] top-[9px] w-[85px]" data-node-id="255:597">
+          Camera
+        </p>
+      </div>
+      <div className="absolute bg-[#eaf8fb] border border-[#d8e5ec] border-solid h-[41px] left-[201px] rounded-[22px] top-[442px] w-[168px]" data-node-id="255:599" data-name="Gallery">
+        <div className="absolute left-[34px] size-[20px] top-[10px]" data-node-id="255:600" data-name="Icon / gallery">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconGallery} />
+        </div>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[30px] leading-[18.75px] left-[68px] not-italic text-[#0186a8] text-[15px] top-[9px] w-[86px]" data-node-id="255:604">
+          Gallery
+        </p>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[30px] leading-[15px] left-[24px] not-italic text-[#3f596b] text-[12px] top-[494px] w-[198px]" data-node-id="255:607">
+        PHOTOS ATTACHED (3)
+      </p>
+      <div className="absolute bg-white border border-[#d8e5ec] border-solid h-[71px] left-[293px] rounded-[10px] top-[519px] w-[81px]" data-node-id="255:669" data-name="UI Card">
+        <div className="absolute left-[29px] size-[22px] top-[23px]" data-node-id="255:670" data-name="Icon / plus">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconPlus} />
+        </div>
+      </div>
+      <div className="absolute h-[71px] left-[113px] rounded-[11px] top-[518px] w-[78px]" data-node-id="255:673">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[11px] size-full" src={imgRectangle38} />
+      </div>
+      <div className="absolute h-[71px] left-[23px] rounded-[11px] top-[519px] w-[78px]" data-node-id="255:676">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[11px] size-full" src={imgRectangle35} />
+      </div>
+      <div className="absolute h-[71px] left-[203px] rounded-[11px] top-[518px] w-[78px]" data-node-id="255:674">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[11px] size-full" src={imgRectangle39} />
+      </div>
+      <div className="absolute bg-[#e8f8f3] h-[72px] left-[24px] rounded-[13px] top-[610px] w-[345px]" data-node-id="255:678" data-name="Container">
+        <div className="absolute bg-[#d2f4e7] left-[12px] rounded-[22px] size-[43px] top-[12px]" data-node-id="255:679" data-name="UI Card">
+          <div className="absolute left-[11px] size-[21px] top-[11px]" data-node-id="255:680" data-name="Icon / leaf">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconLeaf} />
+          </div>
+        </div>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[30px] leading-[18.75px] left-[65px] not-italic text-[#091727] text-[15px] top-[14px] w-[258px]" data-node-id="255:683">
+          Respect marine wildlife
+        </p>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[23px] leading-[15px] left-[65px] not-italic text-[#3f596b] text-[12px] top-[36px] w-[263px]" data-node-id="255:684">
+          Keep a safe distance. Never touch animals.
+        </p>
+      </div>
+      <a className="absolute bg-[#43c4d6] block cursor-pointer h-[46px] left-[24px] rounded-[23px] top-[727px] w-[345px]" data-node-id="255:686" data-name="Component">
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[27px] leading-[20px] left-[172.5px] not-italic text-[16px] text-center text-white top-[11px] w-[335px]" data-node-id="255:687">
+          Continue to species
+        </p>
+      </a>
+      <div className="absolute bg-[rgba(255,255,255,0.8)] content-stretch flex h-[59px] items-center justify-center left-0 overflow-clip right-0 top-0" data-node-id="230:1359" data-name="Status Bar">
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="230:1360" data-name="Time">
+          <div className="h-[13px] relative shrink-0 w-[40px]" data-node-id="230:1361" data-name="Time">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgTime} />
+          </div>
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="230:1363" data-name="Dynamic Island Frame">
+          <div className="bg-black h-[37px] relative rounded-[20px] shrink-0 w-[125px]" data-node-id="230:1364" data-name="Dynamic Island" />
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] gap-[8px] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="230:1365" data-name="Icons">
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="230:1366" data-name="Reception">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgReception} />
+          </div>
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="230:1371" data-name="Wi-fi">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWiFi} />
+          </div>
+          <div className="h-[13px] relative shrink-0 w-[28px]" data-node-id="230:1373" data-name="Battery">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgBattery} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0)] content-stretch flex h-[34px] items-center justify-center left-0 overflow-clip pt-[13px] right-0 top-[818px]" data-node-id="230:1377" data-name="Home Bar">
+        <div className="bg-black h-[5px] relative rounded-[3px] shrink-0 w-[134px]" data-node-id="230:1378" data-name="Rectangle" />
+      </div>
+      <div className="absolute contents left-[23px] top-[66px]" data-node-id="892:3005" data-name="TopAppBar">
+        <div className="-translate-x-1/2 absolute bg-[#a5e0f2] h-[43px] left-[calc(50%-2px)] rounded-[20px] top-[67px] w-[187px]" data-node-id="892:3006" />
+        <button className="absolute block cursor-pointer left-[23px] size-[43.303px] top-[66px]" data-node-id="892:3007">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10276} />
+        </button>
+        <div className="absolute left-[331px] size-[43.303px] top-[66px]" data-node-id="892:3010">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10277} />
+        </div>
+        <div className="absolute h-[24px] left-[340px] top-[77px] w-[26.272px]" data-node-id="892:3012" data-name="User Interface / Menu">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUserInterfaceMenu} />
+        </div>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%-1px)] not-italic text-[#3f596b] text-[20px] text-center top-[calc(50%-351px)] w-[165px]" data-node-id="892:3013">
+          Report Rare Species
+        </p>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+The generated code contains image and SVG URL constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

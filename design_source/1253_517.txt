@@ -1,0 +1,153 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/ce8bf5a5-98d2-4c26-ab4b-69c9faa53ed9";
+const imgRectangle834 = `${assetPathPrefix}/7f758.png`;
+const imgRectangle837 = `${assetPathPrefix}/13615.png`;
+const imgGroup10276 = `${assetPathPrefix}/7330f.svg`;
+const imgGroup10277 = `${assetPathPrefix}/9fd81.svg`;
+const imgUserInterfaceMenu = `${assetPathPrefix}/c9b94.svg`;
+const imgUserInterfaceApproveTick = `${assetPathPrefix}/ce4e6.svg`;
+const imgVector = `${assetPathPrefix}/e08a5.svg`;
+const imgVector1 = `${assetPathPrefix}/e1bf1.svg`;
+const imgUserInterfaceApproveTick1 = `${assetPathPrefix}/eb9e2.svg`;
+const imgTime = `${assetPathPrefix}/ea77a.svg`;
+const imgReception = `${assetPathPrefix}/50e69.svg`;
+const imgWiFi = `${assetPathPrefix}/0be8d.svg`;
+const imgBattery = `${assetPathPrefix}/55081.svg`;
+
+export default function Component20ReportResolvedImpact() {
+  return (
+    <div className="bg-white border-[#dcecf0] border-[1.121px] border-solid overflow-clip relative rounded-[29.147px] size-full" data-node-id="1253:517" data-name="20. Report Resolved / Impact">
+      <div className="absolute bg-[#e7f9f0] h-[69.505px] left-[17.94px] rounded-[14.574px] top-[131.16px] w-[356.495px]" data-node-id="1253:528" data-name="Information card" />
+      <div className="absolute bg-[#ccf1e5] left-[29.15px] rounded-[22.421px] size-[42.6px] top-[144.62px]" data-node-id="1253:529" data-name="Icon background" />
+      <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[22.421px] leading-[normal] left-[44.84px] not-italic text-[#169a7a] text-[17.937px] top-[154.71px] w-[16.816px]" data-node-id="1253:530">
+        ✓
+      </p>
+      <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[22px] leading-[normal] left-[84.88px] not-italic text-[#183044] text-[13.453px] top-[144.88px] w-[149px]" data-node-id="1253:531">
+        Issue resolved!
+      </p>
+      <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[23px] leading-[normal] left-[84.88px] not-italic text-[#637b89] text-[11.211px] top-[166.88px] w-[245px]" data-node-id="1253:532">
+        This report has been cleaned up and closed.
+      </p>
+      <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[22.421px] leading-[normal] left-[276.84px] not-italic text-[33.632px] text-white top-[263.68px] w-[43.721px]" data-node-id="1253:538">
+        ✓
+      </p>
+      <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[22px] leading-[normal] left-[17.88px] not-italic text-[#183044] text-[20.179px] top-[392.88px] w-[174px]" data-node-id="1253:539">
+        Impact summary
+      </p>
+      <div className="absolute bg-white border-[#dcecf0] border-[1.121px] border-solid h-[54.932px] left-[17.88px] rounded-[14.574px] top-[419.88px] w-[356.495px]" data-node-id="1253:540" data-name="Card" />
+      <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[22px] leading-[normal] left-[32.88px] not-italic text-[#637b89] text-[13.453px] top-[437.88px] w-[102px]" data-node-id="1253:541">
+        Waste cleared
+      </p>
+      <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[22px] leading-[normal] left-[177.88px] not-italic text-[#183044] text-[13.453px] top-[437.88px] w-[72px]" data-node-id="1253:542">
+        ≈ 120 kg
+      </p>
+      <div className="absolute bg-white border-[#dcecf0] border-[1.121px] border-solid h-[54.932px] left-[17.88px] rounded-[14.574px] top-[484.9px] w-[356.495px]" data-node-id="1253:543" data-name="Card" />
+      <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[22px] leading-[normal] left-[32.88px] not-italic text-[#637b89] text-[13.453px] top-[502.88px] w-[102px]" data-node-id="1253:544">
+        Action taken
+      </p>
+      <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[22px] leading-[normal] left-[177.88px] not-italic text-[#183044] text-[13.453px] top-[502.88px] w-[149px]" data-node-id="1253:545">
+        Coastal cleanup team
+      </p>
+      <div className="absolute bg-white border-[#dcecf0] border-[1.121px] border-solid h-[54.932px] left-[17.88px] rounded-[14.574px] top-[549.92px] w-[356.495px]" data-node-id="1253:546" data-name="Card" />
+      <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[22px] leading-[normal] left-[32.88px] not-italic text-[#637b89] text-[13.453px] top-[567.88px] w-[90px]" data-node-id="1253:547">
+        Resolved on
+      </p>
+      <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[22px] leading-[normal] left-[177.88px] not-italic text-[#183044] text-[13.453px] top-[567.88px] w-[112px]" data-node-id="1253:548">
+        16 Oct 2026
+      </p>
+      <div className="absolute bg-[#e7f9f0] h-[69.505px] left-[17.88px] rounded-[14.574px] top-[631.76px] w-[356.495px]" data-node-id="1253:549" data-name="Information card" />
+      <div className="absolute bg-[#ccf1e5] left-[29.09px] rounded-[22.421px] size-[42.6px] top-[645.21px]" data-node-id="1253:550" data-name="Icon background" />
+      <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[22.421px] leading-[normal] left-[42.88px] not-italic text-[#169a7a] text-[17.937px] top-[653.88px] w-[16.816px]" data-node-id="1253:551">
+        ✓
+      </p>
+      <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[23px] leading-[normal] left-[84.88px] not-italic text-[#183044] text-[13.453px] top-[644.88px] w-[173px]" data-node-id="1253:552">
+        A cleaner, healthier coast
+      </p>
+      <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[22px] leading-[normal] left-[84.88px] not-italic text-[#637b89] text-[11.211px] top-[667.88px] w-[192px]" data-node-id="1253:553">
+        Thanks for protecting marine life!
+      </p>
+      <div className="absolute bg-[#43c1d0] h-[47.084px] left-[18.88px] rounded-[24.663px] top-[717.88px] w-[354.253px]" data-node-id="1253:554" data-name="Button / Share impact" />
+      <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[23px] leading-[normal] left-[147.88px] not-italic text-[14.574px] text-white top-[731.88px] w-[96px]" data-node-id="1253:555">
+        Share impact
+      </p>
+      <a className="[word-break:break-word] absolute block cursor-pointer font-['Inter:Bold'] font-bold h-[22px] leading-[0] left-[118.88px] not-italic text-[#43c1d0] text-[14.574px] top-[779.88px] w-[153px]" data-node-id="1253:557">
+        <p className="leading-[normal]">Report another issue</p>
+      </a>
+      <div className="absolute contents left-[22.18px] top-[64.88px]" data-node-id="1253:559" data-name="TopAppBar">
+        <div className="-translate-x-1/2 absolute bg-[#a5e0f2] h-[43px] left-[calc(50%+1.19px)] rounded-[20px] top-[67px] w-[139px]" data-node-id="1253:560" />
+        <button className="absolute block cursor-pointer left-[23.31px] size-[43.303px] top-[66px]" data-node-id="1253:561">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10276} />
+        </button>
+        <div className="absolute left-[332.31px] size-[43.303px] top-[66px]" data-node-id="1253:564">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10277} />
+        </div>
+        <div className="absolute h-[24px] left-[340.31px] top-[75px] w-[26.272px]" data-node-id="1253:566" data-name="User Interface / Menu">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUserInterfaceMenu} />
+        </div>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%+1.5px)] not-italic text-[#3f596b] text-[20px] text-center top-[calc(50%-351px)] w-[139px]" data-node-id="1253:567">
+          Report Impact
+        </p>
+      </div>
+      <div className="absolute left-[205.82px] rounded-[10px] size-[165px] top-[215.88px]" data-node-id="1253:591">
+        <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[10px]">
+          <img alt="" className="absolute h-[123.35%] left-[-19.94%] max-w-none top-[-19.06%] w-[127.13%]" src={imgRectangle834} />
+        </div>
+      </div>
+      <div className="absolute left-[26.82px] rounded-[10px] size-[165px] top-[216.88px]" data-node-id="1253:593">
+        <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[10px] size-full" src={imgRectangle837} />
+      </div>
+      <div className="absolute inset-[calc(12.85%-0.83px)_calc(-3.52%-1.2px)_calc(84.8%+0.78px)_calc(98.45%+1.09px)]" data-node-id="1253:3013" data-name="User Interface / Approve(Tick)">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUserInterfaceApproveTick} />
+      </div>
+      <div className="absolute inset-[calc(25.94%-0.54px)_calc(6.76%-0.97px)_calc(70.77%+0.47px)_calc(86.15%+0.81px)]" data-node-id="1253:3014" data-name="Vector">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+      </div>
+      <div className="absolute inset-[calc(26.41%-0.53px)_calc(7.77%-0.95px)_calc(71.24%+0.48px)_calc(87.16%+0.83px)]" data-node-id="1253:3015" data-name="Vector">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+      </div>
+      <div className="absolute inset-[calc(26.69%-0.52px)_calc(8.18%-0.94px)_calc(71.43%+0.48px)_calc(87.77%+0.85px)]" data-node-id="1253:3016" data-name="User Interface / Approve(Tick)">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUserInterfaceApproveTick1} />
+      </div>
+      <div className="absolute bg-[#cff3fb] h-[27px] left-[249.82px] rounded-[20px] top-[343.88px] w-[77px]" data-node-id="1253:3021" />
+      <div className="absolute bg-[#efefef] h-[27px] left-[70.82px] rounded-[20px] top-[343.88px] w-[77px]" data-node-id="1253:3024" />
+      <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Inter:Bold'] font-bold h-[22px] justify-center leading-[0] left-[288.82px] not-italic text-[#183044] text-[11.45px] text-center top-[357.88px] w-[34px]" data-node-id="1253:534">
+        <p className="leading-[normal]">After</p>
+      </div>
+      <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[22px] leading-[normal] left-[109.32px] not-italic text-[#183044] text-[11.45px] text-center top-[349.88px] w-[51px]" data-node-id="1253:533">
+        Before
+      </p>
+      <div className="absolute bg-[rgba(255,255,255,0.8)] content-stretch flex h-[59px] items-center justify-center left-[-1.12px] overflow-clip right-[calc(0.41%-1.11px)] top-[-1.12px]" data-node-id="1253:572" data-name="Status Bar">
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="1253:573" data-name="Time">
+          <div className="h-[13px] relative shrink-0 w-[40px]" data-node-id="1253:574" data-name="Time">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgTime} />
+          </div>
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="1253:576" data-name="Dynamic Island Frame">
+          <div className="bg-black h-[37px] relative rounded-[20px] shrink-0 w-[125px]" data-node-id="1253:577" data-name="Dynamic Island" />
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] gap-[8px] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="1253:578" data-name="Icons">
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="1253:579" data-name="Reception">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgReception} />
+          </div>
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="1253:584" data-name="Wi-fi">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWiFi} />
+          </div>
+          <div className="h-[13px] relative shrink-0 w-[28px]" data-node-id="1253:586" data-name="Battery">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgBattery} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0)] content-stretch flex h-[34px] items-center justify-center left-[-1.12px] overflow-clip pt-[13px] right-[calc(0.41%-1.11px)] top-[816.88px]" data-node-id="1253:3029" data-name="Home Bar">
+        <div className="bg-black h-[5px] relative rounded-[3px] shrink-0 w-[134px]" data-node-id="1253:3030" data-name="Rectangle" />
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+The generated code contains image and SVG URL constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

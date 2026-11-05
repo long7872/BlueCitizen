@@ -1,0 +1,165 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/745c707c-a653-44da-8f71-e084ec222b7b";
+const imgRectangle41 = `${assetPathPrefix}/ebf16.png`;
+const imgRectangle42 = `${assetPathPrefix}/ad719.png`;
+const imgRectangle43 = `${assetPathPrefix}/aec38.png`;
+const img11RareSpeciesType = `${assetPathPrefix}/58c51.svg`;
+const imgIcon = `${assetPathPrefix}/1bf9d.svg`;
+const imgIconQuestion = `${assetPathPrefix}/4c6dd.svg`;
+const imgIconShield = `${assetPathPrefix}/dc501.svg`;
+const imgGroup10276 = `${assetPathPrefix}/7330f.svg`;
+const imgGroup10277 = `${assetPathPrefix}/9fd81.svg`;
+const imgUserInterfaceMenu = `${assetPathPrefix}/c9b94.svg`;
+const imgTime = `${assetPathPrefix}/ea77a.svg`;
+const imgReception = `${assetPathPrefix}/50e69.svg`;
+const imgWiFi = `${assetPathPrefix}/0be8d.svg`;
+const imgBattery = `${assetPathPrefix}/55081.svg`;
+
+export default function Component11RareSpeciesType() {
+  return (
+    <div className="overflow-clip relative rounded-[24px] size-full" data-node-id="230:2029" data-name="11. Rare Species Type">
+      <img alt="" className="absolute block inset-0 max-w-none size-full" src={img11RareSpeciesType} />
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold h-[36px] leading-[28.75px] left-[24px] not-italic text-[#091727] text-[23px] top-[163px] w-[345px]" data-node-id="255:710">
+        Which species was it?
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[46.95%_85.37%_51.29%_11.83%] leading-[normal] not-italic text-[11px] text-center text-white whitespace-nowrap" data-node-id="230:2031">
+        All
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[20px] leading-[15px] left-[24px] not-italic text-[#3f596b] text-[12px] top-[117px] w-[107px]" data-node-id="255:705">
+        STEP 2 / 4
+      </p>
+      <p className="-translate-x-full [word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[20px] leading-[15px] left-[369px] not-italic text-[#3f596b] text-[12px] text-right top-[117px] w-[134px]" data-node-id="255:706">
+        RARE SPECIES
+      </p>
+      <div className="absolute bg-[#e6f3f8] h-[5px] left-[24px] rounded-[3px] top-[143px] w-[345px]" data-node-id="255:707" data-name="Container" />
+      <div className="absolute bg-[#43c4d6] h-[5px] left-[24px] rounded-[3px] top-[143px] w-[172.5px]" data-node-id="255:708" data-name="Container" />
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[35px] leading-[17.5px] left-[24px] not-italic text-[#3f596b] text-[14px] top-[199px] w-[220px]" data-node-id="255:712">
+        Select a species or choose Not sure.
+      </p>
+      <div className="absolute bg-white border border-[#d8e5ec] border-solid h-[43px] left-[24px] rounded-[11px] top-[235px] w-[345px]" data-node-id="255:714" data-name="Species search">
+        <div className="absolute left-[11px] size-[20px] top-[9px]" data-node-id="255:715" data-name="Icon">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIcon} />
+        </div>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[30px] leading-[17.5px] left-[43px] not-italic text-[#3f596b] text-[14px] top-[10px] w-[276px]" data-node-id="255:718">
+          Sea turtle
+        </p>
+      </div>
+      <div className="absolute bg-[#eaf8fb] border border-[#43c4d6] border-solid h-[69px] left-[24px] rounded-[12px] top-[288px] w-[345px]" data-node-id="255:720" data-name="Species choice">
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[30px] leading-[18.75px] left-[82px] not-italic text-[#091727] text-[15px] top-[13px] w-[211px]" data-node-id="255:742">
+          Green sea turtle
+        </p>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[30px] leading-[15px] left-[82px] not-italic text-[#3f596b] text-[12px] top-[34px] w-[220px]" data-node-id="255:743">
+          Chelonia mydas
+        </p>
+        <div className="absolute bg-[#0186a8] left-[308px] rounded-[10px] size-[19px] top-[24px]" data-node-id="255:744" data-name="UI Card">
+          <div className="absolute bg-white left-[6px] rounded-[4px] size-[7px] top-[6px]" data-node-id="255:745" data-name="UI Card" />
+        </div>
+        <div className="absolute h-[55px] left-[10px] rounded-[12px] top-[6px] w-[63px]" data-node-id="255:805">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[12px] size-full" src={imgRectangle41} />
+        </div>
+      </div>
+      <div className="absolute bg-white border border-[#d8e5ec] border-solid h-[69px] left-[24px] rounded-[12px] top-[366px] w-[345px]" data-node-id="255:746" data-name="Species choice">
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[30px] leading-[18.75px] left-[82px] not-italic text-[#091727] text-[15px] top-[14px] w-[211px]" data-node-id="255:768">
+          Hawksbill sea turtle
+        </p>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal leading-[15px] left-[82px] not-italic text-[#3f596b] text-[12px] top-[34px] w-[220px]" data-node-id="255:769">
+          Eretmochelys imbricata
+        </p>
+        <div className="absolute bg-white border border-[#d8e5ec] border-solid left-[308px] rounded-[10px] size-[19px] top-[24px]" data-node-id="255:770" data-name="UI Card" />
+        <div className="absolute h-[55px] left-[10px] rounded-[12px] top-[6px] w-[63px]" data-node-id="255:806">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[12px] size-full" src={imgRectangle42} />
+        </div>
+      </div>
+      <div className="absolute bg-white border border-[#d8e5ec] border-solid h-[69px] left-[24px] rounded-[12px] top-[444px] w-[345px]" data-node-id="255:771" data-name="Species choice">
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[30px] leading-[18.75px] left-[82px] not-italic text-[#091727] text-[15px] top-[13px] w-[211px]" data-node-id="255:772">
+          Dugong
+        </p>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[30px] leading-[15px] left-[82px] not-italic text-[#3f596b] text-[12px] top-[34px] w-[220px]" data-node-id="255:773">
+          Dugong dugon
+        </p>
+        <div className="absolute bg-white border border-[#d8e5ec] border-solid left-[308px] rounded-[10px] size-[19px] top-[24px]" data-node-id="255:774" data-name="UI Card" />
+        <div className="absolute h-[55px] left-[10px] rounded-[12px] top-[6px] w-[63px]" data-node-id="255:808">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[12px] size-full" src={imgRectangle43} />
+        </div>
+      </div>
+      <div className="absolute bg-white border border-[#d8e5ec] border-solid h-[69px] left-[24px] rounded-[12px] top-[522px] w-[345px]" data-node-id="255:785" data-name="Species choice">
+        <div className="absolute bg-[#eaf8fb] h-[55px] left-[7px] rounded-[10px] top-[6px] w-[63px]" data-node-id="255:786" data-name="UI Card" />
+        <div className="absolute left-[26px] size-[22px] top-[20px]" data-node-id="255:787" data-name="Icon / question">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconQuestion} />
+        </div>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[30px] leading-[18.75px] left-[82px] not-italic text-[#091727] text-[15px] top-[14px] w-[211px]" data-node-id="255:789">
+          Not sure
+        </p>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[30px] leading-[15px] left-[82px] not-italic text-[#3f596b] text-[12px] top-[37px] w-[220px]" data-node-id="255:790">
+          A reviewer can help identify
+        </p>
+        <div className="absolute bg-white border border-[#d8e5ec] border-solid left-[308px] rounded-[10px] size-[19px] top-[24px]" data-node-id="255:791" data-name="UI Card" />
+      </div>
+      <div className="absolute bg-[#eaf8fb] h-[65px] left-[24px] rounded-[13px] top-[613px] w-[345px]" data-node-id="255:792" data-name="Notice / Identification tip">
+        <div className="absolute bg-[#cff4fa] left-[12px] rounded-[22px] size-[43px] top-[12px]" data-node-id="255:793" data-name="UI Card">
+          <div className="absolute left-[11px] size-[21px] top-[11px]" data-node-id="255:794" data-name="Icon / shield">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgIconShield} />
+          </div>
+        </div>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[30px] leading-[18.75px] left-[65px] not-italic text-[#091727] text-[15px] top-[9px] w-[258px]" data-node-id="255:797">
+          Identification tip
+        </p>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[31px] leading-[15px] left-[65px] not-italic text-[#3f596b] text-[12px] top-[32px] w-[263px]" data-node-id="255:798">
+          Use a photo when identification is uncertain.
+        </p>
+      </div>
+      <a className="absolute bg-[#43c4d6] block cursor-pointer h-[46px] left-[24px] rounded-[23px] top-[725px] w-[345px]" data-node-id="255:799" data-name="Component">
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[27px] leading-[20px] left-[172.5px] not-italic text-[16px] text-center text-white top-[11px] w-[335px]" data-node-id="255:800">
+          Continue
+        </p>
+      </a>
+      <div className="absolute contents left-[23px] top-[66px]" data-node-id="892:2901" data-name="TopAppBar">
+        <div className="-translate-x-1/2 absolute bg-[#a5e0f2] h-[43px] left-[calc(50%-2px)] rounded-[20px] top-[67px] w-[187px]" data-node-id="892:2902" />
+        <button className="absolute block cursor-pointer left-[23px] size-[43.303px] top-[66px]" data-node-id="892:2903">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10276} />
+        </button>
+        <div className="absolute left-[331px] size-[43.303px] top-[66px]" data-node-id="892:2906">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10277} />
+        </div>
+        <div className="absolute h-[24px] left-[340px] top-[77px] w-[26.272px]" data-node-id="892:2908" data-name="User Interface / Menu">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUserInterfaceMenu} />
+        </div>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%-1px)] not-italic text-[#3f596b] text-[20px] text-center top-[calc(50%-351px)] w-[165px]" data-node-id="892:2909">
+          Report Rare Species
+        </p>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0.8)] content-stretch flex h-[59px] items-center justify-center left-0 overflow-clip right-0 top-0" data-node-id="230:2032" data-name="Status Bar">
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="230:2033" data-name="Time">
+          <div className="h-[13px] relative shrink-0 w-[40px]" data-node-id="230:2034" data-name="Time">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgTime} />
+          </div>
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="230:2036" data-name="Dynamic Island Frame">
+          <div className="bg-black h-[37px] relative rounded-[20px] shrink-0 w-[125px]" data-node-id="230:2037" data-name="Dynamic Island" />
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] gap-[8px] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="230:2038" data-name="Icons">
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="230:2039" data-name="Reception">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgReception} />
+          </div>
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="230:2044" data-name="Wi-fi">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWiFi} />
+          </div>
+          <div className="h-[13px] relative shrink-0 w-[28px]" data-node-id="230:2046" data-name="Battery">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgBattery} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0)] content-stretch flex h-[34px] items-center justify-center left-0 overflow-clip pt-[13px] right-0 top-[818px]" data-node-id="230:2050" data-name="Home Bar">
+        <div className="bg-black h-[5px] relative rounded-[3px] shrink-0 w-[134px]" data-node-id="230:2051" data-name="Rectangle" />
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+The generated code contains image and SVG URL constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

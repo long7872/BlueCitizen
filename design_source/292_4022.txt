@@ -1,0 +1,183 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/a7d0e8c1-fd98-4489-8a57-6582b5e987e0";
+const imgRectangle43 = `${assetPathPrefix}/6e400.png`;
+const imgRectangle44 = `${assetPathPrefix}/eaded.png`;
+const imgRectangle45 = `${assetPathPrefix}/c3431.png`;
+const imgEllipse15 = `${assetPathPrefix}/c5f97.svg`;
+const imgGroup10596 = `${assetPathPrefix}/e7b4c.svg`;
+const imgUserInterfaceResearch = `${assetPathPrefix}/73047.svg`;
+const imgGroup10276 = `${assetPathPrefix}/a3c75.svg`;
+const imgTime = `${assetPathPrefix}/ea77a.svg`;
+const imgReception = `${assetPathPrefix}/50e69.svg`;
+const imgWiFi = `${assetPathPrefix}/0be8d.svg`;
+const imgBattery = `${assetPathPrefix}/55081.svg`;
+
+export default function Q10() {
+  return (
+    <div className="bg-white overflow-clip relative rounded-[24px] size-full" data-node-id="292:4022" data-name="Q - 10">
+      <div className="absolute contents left-[22px] top-[274px]" data-node-id="436:277">
+        <div className="absolute bg-white border-[0.5px] border-[rgba(0,0,0,0.2)] border-solid h-[140px] left-[22px] rounded-[16px] top-[274px] w-[350px]" data-node-id="292:4040" />
+        <div className="absolute border border-[rgba(0,0,0,0.6)] border-solid h-[109px] left-[38px] rounded-[5px] top-[289px] w-[96px]" data-node-id="292:4042">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle43} />
+        </div>
+        <div className="[word-break:break-word] absolute contents leading-[0] left-[150px] not-italic top-[286px] whitespace-nowrap" data-node-id="292:4045">
+          <div className="-translate-y-1/2 absolute flex flex-col font-['Afacad_Flux:Bold'] font-bold justify-center left-[150px] text-[#0f172a] text-[15px] top-[303px]" data-node-id="292:4046">
+            <p className="leading-[17px] mb-0 whitespace-pre">{`Illegal Chemical Barrel `}</p>
+            <p className="leading-[17px] whitespace-pre">Dumping</p>
+          </div>
+          <div className="-translate-y-1/2 absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center left-[150px] text-[#2b2b2b] text-[13px] top-[335.5px]" data-node-id="292:4047">
+            <p className="leading-[22.8px]">Hai Chau District • 10m ago</p>
+          </div>
+          <div className="-translate-y-1/2 absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center left-[150px] text-[#2b2b2b] text-[13px] top-[358.5px]" data-node-id="292:4048">
+            <p className="leading-[22.8px]">GPS: 16.0544° N, 108.2022° E</p>
+          </div>
+        </div>
+        <div className="absolute contents left-[150px] top-[376px]" data-node-id="292:4050">
+          <div className="absolute bg-white border-[0.5px] border-[rgba(0,0,0,0.6)] border-solid h-[20px] left-[150px] rounded-[18px] top-[378px] w-[62px]" data-node-id="292:4051" />
+          <div className="absolute left-[157px] size-[13px] top-[381px]" data-node-id="292:4052">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse15} />
+          </div>
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[176px] not-italic text-[10px] text-black top-[387.5px] whitespace-nowrap" data-node-id="292:4053">
+            <p className="leading-[22.8px]">Urgent</p>
+          </div>
+        </div>
+        <a className="absolute block cursor-pointer left-[325px] size-[30px] top-[320px]" data-node-id="436:276">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10596} />
+        </a>
+      </div>
+      <div className="absolute contents left-[22px] top-[433px]" data-node-id="749:1136">
+        <div className="absolute bg-white border-[0.5px] border-[rgba(0,0,0,0.2)] border-solid h-[140px] left-[22px] rounded-[16px] top-[433px] w-[350px]" data-node-id="749:1137" />
+        <div className="absolute border border-[rgba(0,0,0,0.6)] border-solid h-[109px] left-[38px] rounded-[5px] top-[448px] w-[96px]" data-node-id="749:1138">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle44} />
+        </div>
+        <div className="[word-break:break-word] absolute contents leading-[0] left-[150px] not-italic top-[445px] whitespace-nowrap" data-node-id="749:1139">
+          <div className="-translate-y-1/2 absolute flex flex-col font-['Afacad_Flux:Bold'] font-bold justify-center left-[150px] text-[#0f172a] text-[15px] top-[462px]" data-node-id="749:1140">
+            <p className="leading-[17px] mb-0 whitespace-pre">{`Illegal Chemical Barrel `}</p>
+            <p className="leading-[17px] whitespace-pre">Dumping</p>
+          </div>
+          <div className="-translate-y-1/2 absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center left-[150px] text-[#2b2b2b] text-[13px] top-[494.5px]" data-node-id="749:1141">
+            <p className="leading-[22.8px]">Hai Chau District • 10m ago</p>
+          </div>
+          <div className="-translate-y-1/2 absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center left-[150px] text-[#2b2b2b] text-[13px] top-[517.5px]" data-node-id="749:1142">
+            <p className="leading-[22.8px]">GPS: 16.0544° N, 108.2022° E</p>
+          </div>
+        </div>
+        <div className="absolute contents left-[150px] top-[535px]" data-node-id="749:1143">
+          <div className="absolute bg-white border-[0.5px] border-[rgba(0,0,0,0.6)] border-solid h-[20px] left-[150px] rounded-[18px] top-[537px] w-[59px]" data-node-id="749:1144" />
+          <div className="absolute left-[157px] size-[13px] top-[540px]" data-node-id="749:1145">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse15} />
+          </div>
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[176px] not-italic text-[10px] text-black top-[546.5px] whitespace-nowrap" data-node-id="749:1146">
+            <p className="leading-[22.8px]">Urgent</p>
+          </div>
+        </div>
+        <a className="absolute block cursor-pointer left-[325px] size-[30px] top-[479px]" data-node-id="749:1147">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10596} />
+        </a>
+      </div>
+      <div className="absolute contents left-[22px] top-[592px]" data-node-id="749:1152">
+        <div className="absolute bg-white border-[0.5px] border-[rgba(0,0,0,0.2)] border-solid h-[140px] left-[22px] rounded-[16px] top-[592px] w-[350px]" data-node-id="749:1153" />
+        <div className="absolute border border-[rgba(0,0,0,0.6)] border-solid h-[109px] left-[38px] rounded-[5px] top-[607px] w-[96px]" data-node-id="749:1154">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle45} />
+        </div>
+        <div className="[word-break:break-word] absolute contents leading-[0] left-[150px] not-italic top-[604px] whitespace-nowrap" data-node-id="749:1155">
+          <div className="-translate-y-1/2 absolute flex flex-col font-['Afacad_Flux:Bold'] font-bold justify-center left-[150px] text-[#0f172a] text-[15px] top-[621px]" data-node-id="749:1156">
+            <p className="leading-[17px] mb-0 whitespace-pre">{`Illegal Chemical Barrel `}</p>
+            <p className="leading-[17px] whitespace-pre">Dumping</p>
+          </div>
+          <div className="-translate-y-1/2 absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center left-[150px] text-[#2b2b2b] text-[13px] top-[653.5px]" data-node-id="749:1157">
+            <p className="leading-[22.8px]">Hai Chau District • 10m ago</p>
+          </div>
+          <div className="-translate-y-1/2 absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center left-[150px] text-[#2b2b2b] text-[13px] top-[676.5px]" data-node-id="749:1158">
+            <p className="leading-[22.8px]">GPS: 16.0544° N, 108.2022° E</p>
+          </div>
+        </div>
+        <div className="absolute contents left-[150px] top-[694px]" data-node-id="749:1159">
+          <div className="absolute bg-white border-[0.5px] border-[rgba(0,0,0,0.6)] border-solid h-[20px] left-[150px] rounded-[18px] top-[696px] w-[65px]" data-node-id="749:1160" />
+          <div className="absolute left-[157px] size-[13px] top-[699px]" data-node-id="749:1161">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse15} />
+          </div>
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[176px] not-italic text-[10px] text-black top-[705.5px] whitespace-nowrap" data-node-id="749:1162">
+            <p className="leading-[22.8px]">Urgent</p>
+          </div>
+        </div>
+        <a className="absolute block cursor-pointer left-[325px] size-[30px] top-[638px]" data-node-id="749:1163">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10596} />
+        </a>
+      </div>
+      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[23px] not-italic text-[#666] text-[12px] top-[253px] w-[245px]" data-node-id="292:4039">
+        <p className="leading-[normal]">{`Showing 4 pending reports `}</p>
+      </div>
+      <div className="absolute contents left-[22px] top-[145px]" data-node-id="436:275" data-name="Head">
+        <div className="absolute contents left-[22px] top-[145px]" data-node-id="436:271">
+          <div className="absolute bg-white border-[0.5px] border-[rgba(0,0,0,0.2)] border-solid h-[43px] left-[22px] rounded-[20px] top-[145px] w-[342px]" data-node-id="292:4023" />
+          <div className="absolute left-[44px] size-[20px] top-[158px]" data-node-id="292:4024" data-name="User Interface / Research">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUserInterfaceResearch} />
+          </div>
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[72px] not-italic text-[#666] text-[14px] top-[166.5px] w-[245px]" data-node-id="292:4025">
+            <p className="leading-[normal]">Search report title, ID, or area ...</p>
+          </div>
+        </div>
+        <div className="absolute contents left-[23px] top-[200px]" data-node-id="436:274">
+          <div className="absolute bg-[rgba(67,196,214,0.7)] border-[0.5px] border-[rgba(0,0,0,0.6)] border-solid h-[27px] left-[23px] rounded-[18px] top-[200px] w-[89px]" data-node-id="292:4026" />
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[36px] not-italic text-[#2b2b2b] text-[14px] top-[213.5px] whitespace-nowrap" data-node-id="292:4029">
+            <p className="leading-[22.8px]">All Severity</p>
+          </div>
+        </div>
+        <div className="absolute contents left-[123px] top-[200px]" data-node-id="436:273">
+          <div className="absolute bg-[rgba(255,255,255,0.7)] border-[0.5px] border-[rgba(0,0,0,0.2)] border-solid h-[28px] left-[123px] rounded-[18px] top-[200px] w-[82px]" data-node-id="292:4027" />
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[145px] not-italic text-[#2b2b2b] text-[14px] top-[213.5px] whitespace-nowrap" data-node-id="292:4030">
+            <p className="leading-[22.8px]">Urgent</p>
+          </div>
+        </div>
+        <div className="absolute contents left-[217px] top-[199px]" data-node-id="436:272">
+          <div className="absolute border-[0.5px] border-[rgba(0,0,0,0.2)] border-solid h-[28px] left-[217px] rounded-[18px] top-[199px] w-[89px]" data-node-id="292:4028" />
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[235px] not-italic text-[#2b2b2b] text-[14px] top-[212.5px] whitespace-nowrap" data-node-id="292:4031">
+            <p className="leading-[22.8px]">Moderate</p>
+          </div>
+        </div>
+      </div>
+      <div className="absolute contents inset-[7.98%_24.43%_86.85%_5.85%]" data-node-id="292:4033" data-name="TopAppBar">
+        <div className="absolute bg-[#a5e0f2] inset-[7.98%_24.43%_86.97%_24.68%] rounded-[20px]" data-node-id="292:4034" />
+        <a className="absolute block cursor-pointer inset-[8.1%_83.21%_86.85%_5.85%]" data-node-id="292:4035">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10276} />
+        </a>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[8.8%_29.01%_88.03%_32.32%] leading-[normal] not-italic text-[#3f596b] text-[20px]" data-node-id="292:4038">
+          Report Moderation
+        </p>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0.8)] content-stretch flex h-[59px] items-center justify-center left-0 overflow-clip right-0 top-0" data-node-id="292:4105" data-name="Status Bar">
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="292:4106" data-name="Time">
+          <div className="h-[13px] relative shrink-0 w-[40px]" data-node-id="292:4107" data-name="Time">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgTime} />
+          </div>
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="292:4109" data-name="Dynamic Island Frame">
+          <div className="bg-black h-[37px] relative rounded-[20px] shrink-0 w-[125px]" data-node-id="292:4110" data-name="Dynamic Island" />
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] gap-[8px] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="292:4111" data-name="Icons">
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="292:4112" data-name="Reception">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgReception} />
+          </div>
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="292:4117" data-name="Wi-fi">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWiFi} />
+          </div>
+          <div className="h-[13px] relative shrink-0 w-[28px]" data-node-id="292:4119" data-name="Battery">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgBattery} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0)] content-stretch flex h-[34px] items-center justify-center left-0 overflow-clip pt-[13px] right-0 top-[818px]" data-node-id="436:268" data-name="Home Bar">
+        <div className="bg-black h-[5px] relative rounded-[3px] shrink-0 w-[134px]" data-node-id="436:269" data-name="Rectangle" />
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+The generated code contains image and SVG URL constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

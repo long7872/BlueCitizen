@@ -1,0 +1,119 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/8b69297c-f253-4bf1-9bd7-9bec348b5bf1";
+const imgGroup10276 = `${assetPathPrefix}/9e88c.svg`;
+const imgTime = `${assetPathPrefix}/ea77a.svg`;
+const imgReception = `${assetPathPrefix}/50e69.svg`;
+const imgWiFi = `${assetPathPrefix}/0be8d.svg`;
+const imgBattery = `${assetPathPrefix}/55081.svg`;
+
+export default function D5CampaignUpdates() {
+  return (
+    <div className="bg-white overflow-clip relative rounded-[24px] size-full" data-node-id="1581:1806" data-name="D5 - Campaign Updates">
+      <a className="absolute contents cursor-pointer left-[24px] top-[119px]" data-node-id="1581:1807">
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[25px] leading-[22px] left-[24px] not-italic text-[#3f596b] text-[17px] top-[119px] w-[345px]" data-node-id="1581:1808">
+          Protect Phu Quoc Coral Reef
+        </p>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[22px] leading-[18px] left-[24px] not-italic text-[#3f596b] text-[14px] top-[151px] w-[250px]" data-node-id="1581:1809">
+          $14,400 raised of $20,000
+        </p>
+        <div className="absolute contents left-[24px] top-[177px]" data-node-id="1581:1810">
+          <div className="absolute bg-[#a5e0f2] h-[12px] left-[24px] rounded-[6px] top-[180px] w-[345px]" data-node-id="1581:1811" data-name="Progress track" />
+          <div className="absolute bg-[#43c4d6] h-[12px] left-[24px] rounded-[6px] top-[180px] w-[248px]" data-node-id="1581:1812" data-name="Progress fill" />
+          <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold h-[20px] leading-[15px] left-[320px] not-italic text-[#3f596b] text-[12px] top-[177px] w-[40px]" data-node-id="1581:1813">
+            72%
+          </p>
+        </div>
+      </a>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[26px] leading-[23px] left-[24px] not-italic text-[#091727] text-[18px] top-[227px] w-[345px]" data-node-id="1581:1814">
+        Updates from the organization
+      </p>
+      <div className="absolute bg-[#edfbff] border border-[#c9d5de] border-solid h-[146px] left-[24px] rounded-[12px] top-[270px] w-[345px]" data-node-id="1581:1815" data-name="Update card 1" />
+      <div className="absolute bg-[#a5e0f2] border border-[#c9d5de] border-solid h-[82px] left-[40px] rounded-[8px] top-[286px] w-[88px]" data-node-id="1581:1816" data-name="Update image 1" />
+      <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold h-[20px] leading-[16px] left-[84px] not-italic text-[#3f596b] text-[12px] text-center top-[318px] w-[88px]" data-node-id="1581:1817">
+        PHOTO
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[20px] leading-[16px] left-[144px] not-italic text-[#3f596b] text-[12px] top-[286px] w-[205px]" data-node-id="1581:1818">
+        12 Oct 2026
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[24px] leading-[20px] left-[144px] not-italic text-[#091727] text-[16px] top-[309px] w-[205px]" data-node-id="1581:1819">
+        Coral reef cleanup completed
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[20px] leading-[16px] left-[144px] not-italic text-[#3f596b] text-[12px] top-[337px] w-[205px]" data-node-id="1581:1820">
+        We removed 320 kg of waste from the reef with our local volunteers.
+      </p>
+      <div className="absolute bg-[#edfbff] border border-[#c9d5de] border-solid h-[146px] left-[24px] rounded-[12px] top-[440px] w-[345px]" data-node-id="1581:1821" data-name="Update card 2" />
+      <div className="absolute bg-[#a5e0f2] border border-[#c9d5de] border-solid h-[82px] left-[40px] rounded-[8px] top-[456px] w-[88px]" data-node-id="1581:1822" data-name="Update image 2" />
+      <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold h-[20px] leading-[16px] left-[84px] not-italic text-[#3f596b] text-[12px] text-center top-[488px] w-[88px]" data-node-id="1581:1823">
+        PHOTO
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[20px] leading-[16px] left-[144px] not-italic text-[#3f596b] text-[12px] top-[456px] w-[205px]" data-node-id="1581:1824">
+        28 Sep 2026
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[24px] leading-[20px] left-[144px] not-italic text-[#091727] text-[16px] top-[479px] w-[205px]" data-node-id="1581:1825">
+        New cleanup area mapped
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[20px] leading-[16px] left-[144px] not-italic text-[#3f596b] text-[12px] top-[507px] w-[205px]" data-node-id="1581:1826">
+        Our team identified a new high-priority area for the next cleanup.
+      </p>
+      <div className="absolute bg-[#edfbff] border border-[#c9d5de] border-solid h-[146px] left-[24px] rounded-[12px] top-[610px] w-[345px]" data-node-id="1581:1827" data-name="Update card 3" />
+      <div className="absolute bg-[#a5e0f2] border border-[#c9d5de] border-solid h-[82px] left-[40px] rounded-[8px] top-[626px] w-[88px]" data-node-id="1581:1828" data-name="Update image 3" />
+      <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold h-[20px] leading-[16px] left-[84px] not-italic text-[#3f596b] text-[12px] text-center top-[658px] w-[88px]" data-node-id="1581:1829">
+        PHOTO
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[20px] leading-[16px] left-[144px] not-italic text-[#3f596b] text-[12px] top-[626px] w-[205px]" data-node-id="1581:1830">
+        15 Sep 2026
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[24px] leading-[20px] left-[144px] not-italic text-[#091727] text-[16px] top-[649px] w-[205px]" data-node-id="1581:1831">
+        Thank you to our supporters
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[20px] leading-[16px] left-[144px] not-italic text-[#3f596b] text-[12px] top-[677px] w-[205px]" data-node-id="1581:1832">
+        Your donations help protect marine life and restore coastal habitats.
+      </p>
+      <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[20px] leading-[16px] left-[196.5px] not-italic text-[#3f596b] text-[12px] text-center top-[790px] w-[345px]" data-node-id="1581:1833">
+        More updates will appear here.
+      </p>
+      <div className="absolute contents inset-[7.98%_26.72%_86.85%_5.85%]" data-node-id="1581:1834" data-name="TopAppBar">
+        <div className="absolute bg-[#a5e0f2] inset-[7.98%_26.72%_86.97%_26.72%] rounded-[20px]" data-node-id="1581:1835" />
+        <button className="absolute block cursor-pointer inset-[8.1%_83.21%_86.85%_5.85%]" data-node-id="1581:1836">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10276} />
+        </button>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold inset-[9.04%_30.79%_87.91%_30.79%] leading-[25.4px] not-italic text-[#3f596b] text-[20px] whitespace-nowrap" data-node-id="1581:1839">
+          Campaign updates
+        </p>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0.8)] content-stretch flex h-[59px] items-center justify-center left-0 overflow-clip right-0 top-0" data-node-id="1581:1840" data-name="Status Bar">
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="1581:1841" data-name="Time">
+          <div className="h-[13px] relative shrink-0 w-[40px]" data-node-id="1581:1842" data-name="Time">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgTime} />
+          </div>
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="1581:1844" data-name="Dynamic Island Frame">
+          <div className="bg-black h-[37px] relative rounded-[20px] shrink-0 w-[125px]" data-node-id="1581:1845" data-name="Dynamic Island" />
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] gap-[8px] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="1581:1846" data-name="Icons">
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="1581:1847" data-name="Reception">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgReception} />
+          </div>
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="1581:1852" data-name="Wi-fi">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWiFi} />
+          </div>
+          <div className="h-[13px] relative shrink-0 w-[28px]" data-node-id="1581:1854" data-name="Battery">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgBattery} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0)] content-stretch flex h-[34px] items-center justify-center left-0 overflow-clip pt-[13px] right-0 top-[818px]" data-node-id="1581:1858" data-name="Home Bar">
+        <div className="bg-black h-[5px] relative rounded-[3px] shrink-0 w-[134px]" data-node-id="1581:1859" data-name="Rectangle" />
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: Report/Heading 2: Font(family: "Afacad Flux", style: SemiBold, size: 20, weight: 600, lineHeight: 25.399999618530273, letterSpacing: 0).
+The generated code contains image and SVG URL constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

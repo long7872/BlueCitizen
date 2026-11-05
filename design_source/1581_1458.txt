@@ -1,0 +1,134 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/d361f408-a1b5-4e27-beec-ae2163baabd5";
+const imgRectangle43 = `${assetPathPrefix}/e29c9.png`;
+const imgEllipse57 = `${assetPathPrefix}/38a84.svg`;
+const imgVector = `${assetPathPrefix}/806b3.svg`;
+const imgVector1 = `${assetPathPrefix}/ccb32.svg`;
+const imgGroup10276 = `${assetPathPrefix}/9e88c.svg`;
+const imgTime = `${assetPathPrefix}/ea77a.svg`;
+const imgReception = `${assetPathPrefix}/50e69.svg`;
+const imgWiFi = `${assetPathPrefix}/0be8d.svg`;
+const imgBattery = `${assetPathPrefix}/55081.svg`;
+
+export default function Frame2CampaignDetail() {
+  return (
+    <div className="bg-white overflow-clip relative rounded-[24px] size-full" data-node-id="1581:1458" data-name="Frame 2 - Campaign Detail">
+      <a className="absolute contents cursor-pointer left-[36px] top-[599px]" data-node-id="1581:1459" data-name="Donate Button">
+        <div className="absolute bg-[#43c4d6] h-[43px] left-[36px] rounded-[24px] top-[599px] w-[315px]" data-node-id="1581:1460" />
+        <div className="-translate-x-1/2 -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Bold'] font-bold justify-center leading-[0] left-[calc(50%-3px)] not-italic text-[24px] text-center text-white top-[calc(50%+195px)] whitespace-nowrap" data-node-id="1581:1461">
+          <p className="leading-[normal]">Donate Now</p>
+        </div>
+      </a>
+      <div className="absolute contents left-[23px] top-[463px]" data-node-id="1581:1462" data-name="item">
+        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal h-[22.237px] justify-center leading-[0] left-[32.31px] not-italic text-[#3f596b] text-[15px] top-[481.2px] w-[167.062px]" data-node-id="1581:1463">
+          <p className="leading-[normal]">About Campaign</p>
+        </div>
+        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[32px] not-italic text-[#3f596b] text-[12px] top-[517px] w-[319px]" data-node-id="1581:1464">
+          <p className="leading-[normal]">{`Phu Quoc's coral reefs are facing severe threats from marine debris and discarded nets. Funds will go directly to dive teams clearing debris and replanting coral nurseries...`}</p>
+        </div>
+        <div className="absolute border border-[#c9d5de] border-solid h-[106px] left-[23px] rounded-[10px] top-[463px] w-[349px]" data-node-id="1581:1465" />
+        <a className="[word-break:break-word] absolute block cursor-pointer font-['Afacad_Flux:Regular'] font-normal leading-[0] left-[260px] not-italic text-[#3f596b] text-[14px] top-[473px] whitespace-nowrap" data-node-id="1581:1466">
+          <p className="[text-underline-position:from-font] decoration-from-font decoration-solid leading-[normal] underline">List of supporters</p>
+        </a>
+      </div>
+      <div className="absolute contents left-[23px] top-[383px]" data-node-id="1581:1467" data-name="Slogan">
+        <div className="absolute bg-[#c9d5de] h-[32px] left-[97px] top-[396px] w-px" data-node-id="1581:1468" />
+        <div className="absolute border border-[#c9d5de] border-solid h-[60px] left-[23px] rounded-[10px] top-[383px] w-[349px]" data-node-id="1581:1469" />
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal leading-[15px] left-[106px] not-italic text-[#3f596b] text-[19px] top-[387px] w-[259px]" data-node-id="1581:1470">{`Every $2 removes kg of waste & restores coral`}</p>
+        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[106px] not-italic text-[#3f596b] text-[14px] top-[429.5px] whitespace-nowrap" data-node-id="1581:1471">
+          <p className="leading-[normal] whitespace-pre">{`$2.00               5kg Trash Removal `}</p>
+        </div>
+        <div className="absolute left-[38px] size-[50px] top-[387px]" data-node-id="1581:1472">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse57} />
+        </div>
+        <div className="-translate-y-1/2 absolute aspect-[22.0000057220459/22.000003814697266] left-[11.96%] right-[79.9%] top-[calc(50%-13px)]" data-node-id="1581:1473" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+        </div>
+        <div className="-translate-y-1/2 absolute aspect-[15.995013236999512/10.009889602661133] left-[37.15%] right-[56.74%] top-[calc(50%+3.5px)]" data-node-id="1581:1474" data-name="Vector">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+        </div>
+      </div>
+      <a className="absolute contents cursor-pointer left-[23px] top-[306px]" data-node-id="1581:1475" data-name="Progress">
+        <div className="absolute contents left-[41px] top-[325px]" data-node-id="1581:1476" data-name="Progress Bar">
+          <div className="absolute bg-[#76d0c1] h-[15px] left-[41px] rounded-[25px] top-[326px] w-[309px]" data-node-id="1581:1477" />
+          <div className="absolute bg-[#178b72] h-[15px] left-[41px] rounded-[25px] top-[326px] w-[229px]" data-node-id="1581:1478" />
+          <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Bold'] font-bold justify-center leading-[0] left-[244px] not-italic text-[#a5e0f2] text-[12px] top-[333px] whitespace-nowrap" data-node-id="1581:1479">
+            <p className="leading-[normal]">72%</p>
+          </div>
+        </div>
+        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Bold'] font-bold justify-center leading-[0] left-[40px] not-italic text-[#091727] text-[14px] top-[315.5px] whitespace-nowrap" data-node-id="1581:1480">
+          <p>
+            <span className="leading-[normal]">{`72% `}</span>
+            <span className="[word-break:break-word] font-['Afacad_Flux:Regular'] font-normal leading-[normal] not-italic">Raised /</span>
+            <span className="leading-[normal]">{` $14,400 `}</span>
+            <span className="[word-break:break-word] font-['Afacad_Flux:Regular'] font-normal leading-[normal] not-italic">of $20,000 Goal</span>
+          </p>
+        </div>
+        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[41px] not-italic text-[#3f596b] text-[14px] top-[352.5px] whitespace-nowrap" data-node-id="1581:1481">
+          <p className="leading-[normal]">542 Supporters</p>
+        </div>
+        <div className="-translate-x-full -translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[350px] not-italic text-[#3f596b] text-[14px] text-right top-[352.5px] whitespace-nowrap" data-node-id="1581:1482">
+          <p className="leading-[normal]">12 days left</p>
+        </div>
+        <div className="absolute border border-[#c9d5de] border-solid h-[60px] left-[23px] rounded-[10px] top-[306px] w-[349px]" data-node-id="1581:1483" />
+      </a>
+      <div className="absolute contents left-[23px] top-[130px]" data-node-id="1581:1484" data-name="item">
+        <div className="absolute bg-[#edfbff] border border-[#c9d5de] border-solid h-[158px] left-[23px] rounded-[10px] top-[130px] w-[349px]" data-node-id="1581:1485" />
+        <div className="absolute border border-[rgba(0,0,0,0.3)] border-solid h-[121px] left-[41px] rounded-[5px] top-[148px] w-[89px]" data-node-id="1581:1486">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[5px] size-full" src={imgRectangle43} />
+        </div>
+        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[147px] not-italic text-[#3f596b] text-[15px] top-[160px] whitespace-nowrap" data-node-id="1581:1487">
+          <p className="leading-[normal]">{`Reefs & Urgent`}</p>
+        </div>
+        <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Afacad_Flux:Regular'] font-normal justify-center leading-[0] left-[147px] not-italic text-[#3f596b] text-[18px] top-[226px] whitespace-nowrap" data-node-id="1581:1488">
+          <p className="leading-[normal]">by XXX Vietnam</p>
+        </div>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[20px] left-[148px] not-italic text-[#091727] text-[20px] top-[174px] w-[202px]" data-node-id="1581:1489">
+          Protect Phu Quoc Coral Reef
+        </p>
+      </div>
+      <div className="absolute contents inset-[7.98%_27.74%_86.85%_5.85%]" data-node-id="1581:1490" data-name="TopAppBar">
+        <div className="absolute bg-[#a5e0f2] inset-[7.98%_27.74%_86.97%_27.74%] rounded-[20px]" data-node-id="1581:1491" />
+        <button className="absolute block cursor-pointer inset-[8.1%_83.21%_86.85%_5.85%]" data-node-id="1581:1492">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10276} />
+        </button>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold inset-[9.04%_32.57%_87.91%_33.08%] leading-[25.4px] not-italic text-[#3f596b] text-[20px] whitespace-nowrap" data-node-id="1581:1495">
+          Campaign Detail
+        </p>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0.8)] content-stretch flex h-[59px] items-center justify-center left-0 overflow-clip right-0 top-0" data-node-id="1581:1496" data-name="Status Bar">
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="1581:1497" data-name="Time">
+          <div className="h-[13px] relative shrink-0 w-[40px]" data-node-id="1581:1498" data-name="Time">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgTime} />
+          </div>
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="1581:1500" data-name="Dynamic Island Frame">
+          <div className="bg-black h-[37px] relative rounded-[20px] shrink-0 w-[125px]" data-node-id="1581:1501" data-name="Dynamic Island" />
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] gap-[8px] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="1581:1502" data-name="Icons">
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="1581:1503" data-name="Reception">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgReception} />
+          </div>
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="1581:1508" data-name="Wi-fi">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWiFi} />
+          </div>
+          <div className="h-[13px] relative shrink-0 w-[28px]" data-node-id="1581:1510" data-name="Battery">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgBattery} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0)] content-stretch flex h-[34px] items-center justify-center left-0 overflow-clip pt-[13px] right-0 top-[818px]" data-node-id="1581:1514" data-name="Home Bar">
+        <div className="bg-black h-[5px] relative rounded-[3px] shrink-0 w-[134px]" data-node-id="1581:1515" data-name="Rectangle" />
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: Long/Heading 2: Font(family: "Afacad Flux", style: Bold, size: 24, weight: 700, lineHeight: 100, letterSpacing: 0), Long/Normal: Font(family: "Afacad Flux", style: Regular, size: 15, weight: 400, lineHeight: 100, letterSpacing: 0), Long/Small: Font(family: "Afacad Flux", style: Regular, size: 12, weight: 400, lineHeight: 100, letterSpacing: 0), Report/Heading 2: Font(family: "Afacad Flux", style: SemiBold, size: 20, weight: 600, lineHeight: 25.399999618530273, letterSpacing: 0).
+The generated code contains image and SVG URL constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

@@ -1,7 +1,7 @@
 import 'package:blue_citizen/features/events/screens/events_screen.dart';
 import 'package:go_router/go_router.dart';
 
-import 'package:blue_citizen/core/widgets/placeholder_screen.dart';
+import 'package:blue_citizen/core/design/design_screen.dart';
 import 'package:blue_citizen/app/router/app_routes.dart';
 
 final GoRoute eventsTabRoute = GoRoute(
@@ -16,13 +16,7 @@ final List<RouteBase> eventsRoutes = [
     name: 'eventDetail',
     parentNavigatorKey: rootNavigatorKey,
     builder: (context, state) {
-      final id = state.pathParameters['id']!;
-
-      return PlaceholderScreen(
-        title: 'Event Details - $id',
-        owner: 'Hoa',
-        links: const [],
-      );
+      return const DesignScreen(frameId: '258:735');
     },
   ),
 ];

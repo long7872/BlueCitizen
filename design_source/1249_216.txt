@@ -1,0 +1,153 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/24a7455d-5218-49d6-8f89-9651251a0a50";
+const imgRectangle829 = `${assetPathPrefix}/13615.png`;
+const imgGroup10276 = `${assetPathPrefix}/7330f.svg`;
+const imgGroup10277 = `${assetPathPrefix}/9fd81.svg`;
+const imgUserInterfaceMenu = `${assetPathPrefix}/c9b94.svg`;
+const imgEllipse102 = `${assetPathPrefix}/804f1.svg`;
+const imgTime = `${assetPathPrefix}/ea77a.svg`;
+const imgReception = `${assetPathPrefix}/50e69.svg`;
+const imgWiFi = `${assetPathPrefix}/0be8d.svg`;
+const imgBattery = `${assetPathPrefix}/55081.svg`;
+
+export default function Component16ReportStatusTracker() {
+  return (
+    <div className="bg-white border-[#dcecf0] border-[1.121px] border-solid overflow-clip relative rounded-[29.147px] size-full" data-node-id="1249:216" data-name="16. Report Status Tracker">
+      <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[22.421px] leading-[normal] left-[19.06px] not-italic text-[#183044] text-[22.421px] top-[132.28px] w-[347.526px]" data-node-id="1249:227">
+        Track your report
+      </p>
+      <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[22.421px] leading-[normal] left-[19.06px] not-italic text-[#637b89] text-[13.453px] top-[163.67px] w-[341.921px]" data-node-id="1249:228">
+        See the latest status and progress.
+      </p>
+      <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[21.664px] leading-[normal] left-[26.88px] not-italic text-[#20adb9] text-[24.913px] top-[326.88px] w-[30.329px]" data-node-id="1249:235">
+        ✓
+      </p>
+      <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[21.257px] leading-[normal] left-[69.6px] not-italic text-[#183044] text-[15.165px] top-[327.89px] w-[113.048px]" data-node-id="1249:236">
+        Submitted
+      </p>
+      <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[21.257px] leading-[normal] left-[69.6px] not-italic text-[#637b89] text-[11.915px] top-[353.01px] w-[169.089px]" data-node-id="1249:237">
+        Your report was received.
+      </p>
+      <div className="absolute bg-[#43c1d0] h-[43.327px] left-[39.88px] top-[358.29px] w-[2.166px]" data-node-id="1249:238" data-name="Timeline connector" />
+      <div className="absolute bg-[#e7f8fb] h-[68.241px] left-[57.21px] overflow-clip rounded-[10.832px] top-[394.04px] w-[307.625px]" data-node-id="1249:239" data-name="Current state">
+        <div className="absolute left-[220.97px] size-[108.319px] top-[8.67px]" data-node-id="1249:240" />
+      </div>
+      <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[22.223px] leading-[normal] left-[69.6px] not-italic text-[#183044] text-[15.165px] top-[402.29px] w-[123.677px]" data-node-id="1249:242">
+        Under Review
+      </p>
+      <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[22.223px] leading-[normal] left-[69.6px] not-italic text-[#637b89] text-[11.915px] top-[427.41px] w-[195.177px]" data-node-id="1249:243">
+        Our team is checking evidence.
+      </p>
+      <div className="absolute bg-[#dcecf0] h-[41.33px] left-[39.88px] top-[433.03px] w-[2.166px]" data-node-id="1249:244" data-name="Timeline connector" />
+      <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[21.664px] leading-[normal] left-[26.88px] not-italic text-[#aabbc5] text-[24.913px] top-[476.36px] w-[30.329px]" data-node-id="1249:245">
+        ○
+      </p>
+      <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[21.257px] leading-[normal] left-[69.88px] not-italic text-[#183044] text-[15.165px] top-[474.88px] w-[86.96px]" data-node-id="1249:246">
+        Verified
+      </p>
+      <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[21.257px] leading-[normal] left-[69.88px] not-italic text-[#637b89] text-[11.915px] top-[500px] w-[176.819px]" data-node-id="1249:247">
+        The issue will be confirmed.
+      </p>
+      <div className="absolute bg-[#dcecf0] h-[41.33px] left-[39.88px] top-[507.77px] w-[2.166px]" data-node-id="1249:248" data-name="Timeline connector" />
+      <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[21.664px] leading-[normal] left-[27.88px] not-italic text-[#aabbc5] text-[24.913px] top-[548.88px] w-[30.329px]" data-node-id="1249:249">
+        ○
+      </p>
+      <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[22.223px] leading-[normal] left-[70.16px] not-italic text-[#183044] text-[15.165px] top-[540.88px] w-[217.4px]" data-node-id="1249:250">
+        Assigned to Cleanup Team
+      </p>
+      <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[21.257px] leading-[normal] left-[69.88px] not-italic text-[#637b89] text-[11.915px] top-[565.78px] w-[214.502px]" data-node-id="1249:251">
+        A cleanup team will be scheduled.
+      </p>
+      <div className="absolute bg-[#dcecf0] h-[41.33px] left-[40.88px] top-[575.88px] w-[2.166px]" data-node-id="1249:252" data-name="Timeline connector" />
+      <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[21.664px] leading-[normal] left-[27.88px] not-italic text-[#aabbc5] text-[24.913px] top-[619.88px] w-[30.329px]" data-node-id="1249:253">
+        ○
+      </p>
+      <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[22.223px] leading-[normal] left-[69.88px] not-italic text-[#183044] text-[15.165px] top-[611.88px] w-[102.42px]" data-node-id="1249:254">
+        Resolved
+      </p>
+      <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[22.223px] leading-[normal] left-[69.88px] not-italic text-[#637b89] text-[11.915px] top-[637px] w-[185.515px]" data-node-id="1249:255">
+        Issue cleaned up and closed.
+      </p>
+      <div className="absolute bg-[#e7f9f0] h-[69.505px] left-[15.88px] rounded-[14.574px] top-[674.88px] w-[356.495px]" data-node-id="1249:256" data-name="Information card" />
+      <div className="absolute bg-[#ccf1e5] left-[27.09px] rounded-[22.421px] size-[42.6px] top-[688.33px]" data-node-id="1249:257" data-name="Icon background" />
+      <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[22.421px] leading-[normal] left-[40.82px] not-italic text-[#169a7a] text-[17.937px] top-[698.35px] w-[16.816px]" data-node-id="1249:258">
+        ✓
+      </p>
+      <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[22px] leading-[normal] left-[82.82px] not-italic text-[#183044] text-[13.453px] top-[688.35px] w-[167px]" data-node-id="1249:259">
+        Estimated next update
+      </p>
+      <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[23px] leading-[normal] left-[82.82px] not-italic text-[#637b89] text-[11.211px] top-[710.35px] w-[90px]" data-node-id="1249:260">
+        Within 1–2 days
+      </p>
+      <div className="absolute contents left-[22.18px] top-[64.88px]" data-node-id="1249:288" data-name="TopAppBar">
+        <div className="-translate-x-1/2 absolute bg-[#a5e0f2] h-[43px] left-[calc(50%+1.19px)] rounded-[20px] top-[67px] w-[139px]" data-node-id="1249:289" />
+        <button className="absolute block cursor-pointer left-[23.31px] size-[43.303px] top-[66px]" data-node-id="1249:290">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10276} />
+        </button>
+        <div className="absolute left-[332.31px] size-[43.303px] top-[66px]" data-node-id="1249:293">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10277} />
+        </div>
+        <div className="absolute h-[24px] left-[340.31px] top-[75px] w-[26.272px]" data-node-id="1249:295" data-name="User Interface / Menu">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgUserInterfaceMenu} />
+        </div>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold leading-[normal] left-[calc(50%+1.5px)] not-italic text-[#3f596b] text-[20px] text-center top-[calc(50%-351px)] w-[139px]" data-node-id="1249:296">
+          Report Status
+        </p>
+      </div>
+      <div className="absolute left-[27.09px] size-[18.358px] top-[409.05px]" data-node-id="1249:340">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgEllipse102} />
+      </div>
+      <div className="absolute border border-[#5d5f78] border-solid h-[114px] left-[17.88px] overflow-clip rounded-[20px] top-[194.88px] w-[357px]" data-node-id="1249:342">
+        <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[22px] leading-[normal] left-[162px] not-italic text-[#637b89] text-[12.332px] top-[20px] w-[91px]" data-node-id="1249:232">
+          Report ID
+        </p>
+        <p className="[word-break:break-word] absolute font-['Inter:Bold'] font-bold h-[23px] leading-[normal] left-[162px] not-italic text-[#183044] text-[16.816px] top-[41px] w-[147px]" data-node-id="1249:233">
+          POL-2026-0487
+        </p>
+        <p className="[word-break:break-word] absolute font-['Inter:Regular'] font-normal h-[22px] leading-[normal] left-[162px] not-italic text-[#637b89] text-[11.211px] top-[69px] w-[180px]" data-node-id="1249:234">
+          Submitted 13 Oct 2026 • 09:45
+        </p>
+        <div className="absolute h-[82px] left-[16px] rounded-[12px] top-[16px] w-[130px]" data-node-id="1249:335">
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[12px] size-full" src={imgRectangle829} />
+        </div>
+      </div>
+      <a className="absolute bg-[#43c4d6] block cursor-pointer h-[46px] left-[18.88px] rounded-[23px] top-[763.88px] w-[345px]" data-node-id="1253:3043" data-name="CTA / Track this report">
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[27px] leading-[20px] left-[173px] not-italic text-[16px] text-center text-white top-[12px] w-[114px]" data-node-id="1253:3044">
+          Edit Report
+        </p>
+      </a>
+      <div className="absolute bg-[rgba(255,255,255,0)] content-stretch flex h-[34px] items-center justify-center left-[-1.12px] overflow-clip pt-[13px] right-[calc(0.41%-1.11px)] top-[816.88px]" data-node-id="1249:304" data-name="Home Bar">
+        <div className="bg-black h-[5px] relative rounded-[3px] shrink-0 w-[134px]" data-node-id="1249:305" data-name="Rectangle" />
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0.8)] content-stretch flex h-[59px] items-center justify-center left-[-1.12px] overflow-clip right-[calc(0.41%-1.11px)] top-[-1.12px]" data-node-id="1249:307" data-name="Status Bar">
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="1249:308" data-name="Time">
+          <div className="h-[13px] relative shrink-0 w-[40px]" data-node-id="1249:309" data-name="Time">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgTime} />
+          </div>
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="1249:311" data-name="Dynamic Island Frame">
+          <div className="bg-black h-[37px] relative rounded-[20px] shrink-0 w-[125px]" data-node-id="1249:312" data-name="Dynamic Island" />
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] gap-[8px] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="1249:313" data-name="Icons">
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="1249:314" data-name="Reception">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgReception} />
+          </div>
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="1249:319" data-name="Wi-fi">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWiFi} />
+          </div>
+          <div className="h-[13px] relative shrink-0 w-[28px]" data-node-id="1249:321" data-name="Battery">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgBattery} />
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+The generated code contains image and SVG URL constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

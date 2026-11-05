@@ -1,0 +1,155 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/230e0316-2013-493a-afe8-5232b4f49bf7";
+const imgImg15141 = `${assetPathPrefix}/19457.png`;
+const imgCreateEventStep3 = `${assetPathPrefix}/58c51.svg`;
+const imgVector = `${assetPathPrefix}/52a43.svg`;
+const imgVector1 = `${assetPathPrefix}/d56f3.svg`;
+const imgVector2 = `${assetPathPrefix}/cda7d.svg`;
+const imgVector3 = `${assetPathPrefix}/60526.svg`;
+const imgGroup10390 = `${assetPathPrefix}/affa0.svg`;
+const imgGroup10276 = `${assetPathPrefix}/ecd92.svg`;
+const imgVector4 = `${assetPathPrefix}/a6a33.svg`;
+const imgVector5 = `${assetPathPrefix}/c31e0.svg`;
+const imgGroup10389 = `${assetPathPrefix}/1b1a8.svg`;
+const imgTime = `${assetPathPrefix}/ea77a.svg`;
+const imgReception = `${assetPathPrefix}/50e69.svg`;
+const imgWiFi = `${assetPathPrefix}/0be8d.svg`;
+const imgBattery = `${assetPathPrefix}/55081.svg`;
+
+export default function CreateEventStep3() {
+  return (
+    <div className="relative size-full" data-node-id="708:684" data-name="Create Event - Step 3">
+      <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgCreateEventStep3} />
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[19.01%_17.56%_76.88%_5.6%] leading-[normal] not-italic text-[#25282b] text-[26px] whitespace-nowrap" data-node-id="708:686">
+        Create a Donation Campaign
+      </p>
+      <div className="absolute inset-[23.59%_4.33%_17.49%_4.33%]" data-node-id="708:688" data-name="Vector">
+        <div className="absolute inset-[0_-0.14%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector} />
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[25.23%_75.32%_72.3%_7.89%] leading-[normal] not-italic text-[#73787d] text-[16px] whitespace-nowrap" data-node-id="708:689">
+        Bank code
+      </p>
+      <div className="absolute inset-[28.17%_7.89%_66.9%_7.89%]" data-node-id="708:690" data-name="Vector">
+        <div className="absolute inset-[-1.19%_-0.15%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector1} />
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[29.58%_72.77%_68.19%_10.94%] leading-[normal] not-italic text-[#9aa0a5] text-[14px] whitespace-nowrap" data-node-id="708:691">
+        eg. 970422
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[34.04%_66.16%_63.5%_7.89%] leading-[normal] not-italic text-[#73787d] text-[16px] whitespace-nowrap" data-node-id="708:692">
+        Account number
+      </p>
+      <div className="absolute inset-[36.97%_7.89%_58.1%_7.89%]" data-node-id="708:693" data-name="Vector">
+        <div className="absolute inset-[-1.19%_-0.15%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector1} />
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[38.38%_65.39%_59.39%_10.94%] leading-[normal] not-italic text-[#9aa0a5] text-[14px] whitespace-nowrap" data-node-id="708:694">
+        eg. 1234567890
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[42.84%_58.27%_54.69%_7.89%] leading-[normal] not-italic text-[#73787d] text-[16px] whitespace-nowrap" data-node-id="708:695">
+        Account holder name
+      </p>
+      <div className="absolute inset-[45.77%_7.89%_49.3%_7.89%]" data-node-id="708:696" data-name="Vector">
+        <div className="absolute inset-[-1.19%_-0.15%]">
+          <img alt="" className="block max-w-none size-full" src={imgVector1} />
+        </div>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[47.18%_61.83%_50.59%_10.94%] leading-[normal] not-italic text-[#9aa0a5] text-[14px] whitespace-nowrap" data-node-id="708:697">
+        eg. NGUYEN VAN A
+      </p>
+      <div className="absolute inset-[53.17%_7.12%_24.53%_7.12%]" data-node-id="708:698" data-name="Vector">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector2} />
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[54.11%_26.97%_43.43%_27.48%] leading-[normal] not-italic text-[#262626] text-[16px] text-center whitespace-nowrap" data-node-id="708:699">
+        Generated QR code preview
+      </p>
+      <div className="absolute contents inset-[76.64%_9.92%_18.9%_8.14%]" data-node-id="712:745">
+        <div className="absolute contents inset-[77.11%_88.3%_21.24%_8.14%]" data-node-id="708:743">
+          <div className="absolute inset-[77.11%_88.3%_21.24%_8.14%]" data-node-id="708:700" data-name="Vector">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector3} />
+          </div>
+          <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[77.23%_89.82%_21.36%_9.67%] leading-[normal] not-italic text-[9px] text-center text-white whitespace-nowrap" data-node-id="708:701">
+            i
+          </p>
+        </div>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[76.64%_9.92%_18.9%_12.98%] leading-[normal] not-italic text-[#73797e] text-[14px]" data-node-id="708:702">
+          No QR upload needed. The app generates it from your bank code, account number and name.
+        </p>
+      </div>
+      <a className="absolute block cursor-pointer inset-[90.61%_4.33%_3.76%_4.33%]" data-node-id="708:705">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10390} />
+      </a>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal inset-[86.85%_25.7%_11.74%_28.75%] leading-[normal] not-italic text-[#92989d] text-[9px] text-center whitespace-nowrap" data-node-id="708:707">
+        You can review donation details before publishing.
+      </p>
+      <div className="absolute contents inset-[8.1%_30.53%_86.85%_5.85%]" data-node-id="708:708" data-name="TopAppBar">
+        <div className="absolute bg-[#a5e0f2] inset-[8.1%_30.53%_86.85%_30.79%] rounded-[20px]" data-node-id="708:709" />
+        <button className="absolute block cursor-pointer inset-[8.1%_83.21%_86.85%_5.85%]" data-node-id="708:710">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10276} />
+        </button>
+        <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[9.04%_37.15%_87.79%_37.15%] leading-[normal] not-italic text-[#3f596b] text-[20px] whitespace-nowrap" data-node-id="708:713">
+          Create Event
+        </p>
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[14.32%_77.61%_83.22%_5.09%] leading-[normal] not-italic text-[#73787d] text-[16px] whitespace-nowrap" data-node-id="708:714">
+        Step 3 of 4
+      </p>
+      <div className="absolute inset-[17.25%_5.09%_82.28%_5.09%]" data-node-id="708:715" data-name="Vector">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector4} />
+      </div>
+      <div className="absolute inset-[17.25%_35.03%_82.28%_5.09%]" data-node-id="708:716" data-name="Vector">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector5} />
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[92.02%_45.8%_5.16%_46.56%] leading-[normal] not-italic text-[#43c4d6] text-[18px] text-center whitespace-nowrap" data-node-id="708:718">
+        Skip
+      </p>
+      <div className="absolute h-[150px] left-[37px] rounded-[25px] top-[485px] w-[320px]" data-node-id="712:744" data-name="IMG_1514 1">
+        <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[25px]">
+          <img alt="" className="absolute h-[529.27%] left-[-7.31%] max-w-none top-[-50.41%] w-[114.61%]" src={imgImg15141} />
+        </div>
+      </div>
+      <a className="absolute block cursor-pointer inset-[84.15%_4.33%_10.21%_4.33%]" data-node-id="708:703">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10389} />
+      </a>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold inset-[85.56%_41.48%_11.62%_41.98%] leading-[normal] not-italic text-[18px] text-center text-white whitespace-nowrap" data-node-id="708:717">
+        Continue
+      </p>
+      <div className="absolute bg-[rgba(255,255,255,0.8)] content-stretch flex h-[59px] items-center justify-center left-0 overflow-clip right-0 top-0" data-node-id="708:719" data-name="Status Bar">
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="708:720" data-name="Time">
+          <div className="h-[13px] relative shrink-0 w-[40px]" data-node-id="708:721" data-name="Time">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgTime} />
+          </div>
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="708:723" data-name="Dynamic Island Frame">
+          <div className="bg-black h-[37px] relative rounded-[20px] shrink-0 w-[125px]" data-node-id="708:724" data-name="Dynamic Island" />
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] gap-[8px] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="708:725" data-name="Icons">
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="708:726" data-name="Reception">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgReception} />
+          </div>
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="708:731" data-name="Wi-fi">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWiFi} />
+          </div>
+          <div className="h-[13px] relative shrink-0 w-[28px]" data-node-id="708:733" data-name="Battery">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgBattery} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0)] content-stretch flex h-[34px] items-center justify-center left-0 overflow-clip pt-[13px] right-0 top-[818px]" data-node-id="708:737" data-name="Home Bar">
+        <div className="bg-black h-[5px] relative rounded-[3px] shrink-0 w-[134px]" data-node-id="708:738" data-name="Rectangle" />
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+The generated code contains image and SVG URL constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.

@@ -1,0 +1,116 @@
+const assetPathPrefix = "https://www.figma.com/api/mcp/asset/44a758f1-9664-44db-93cc-2a2b6c28231c";
+const imgToggleKnob = `${assetPathPrefix}/afbee.svg`;
+const imgGroup10276 = `${assetPathPrefix}/9e88c.svg`;
+const imgTime = `${assetPathPrefix}/ea77a.svg`;
+const imgReception = `${assetPathPrefix}/50e69.svg`;
+const imgWiFi = `${assetPathPrefix}/0be8d.svg`;
+const imgBattery = `${assetPathPrefix}/55081.svg`;
+
+export default function D1Donate() {
+  return (
+    <div className="bg-white overflow-clip relative rounded-[24px] size-full" data-node-id="1581:1601" data-name="D1 - Donate">
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold h-[28px] leading-[24px] left-[24px] not-italic text-[#091727] text-[20px] top-[122px] w-[345px]" data-node-id="1581:1602">
+        Protect Phu Quoc Coral Reef
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[22px] leading-[18px] left-[24px] not-italic text-[#3f596b] text-[14px] top-[151px] w-[345px] whitespace-pre-wrap" data-node-id="1581:1603">{`72% raised  •  $14,400 of $20,000`}</p>
+      <div className="absolute bg-[#a5e0f2] h-[12px] left-[24px] rounded-[6px] top-[180px] w-[345px]" data-node-id="1581:1604" data-name="Progress track" />
+      <div className="absolute bg-[#43c4d6] h-[12px] left-[24px] rounded-[6px] top-[180px] w-[248px]" data-node-id="1581:1605" data-name="Progress fill" />
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Bold'] font-bold h-[20px] leading-[15px] left-[320px] not-italic text-[#3f596b] text-[12px] top-[177px] w-[40px]" data-node-id="1581:1606">
+        72%
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[23px] leading-[20px] left-[24px] not-italic text-[#091727] text-[15px] top-[218px] w-[250px]" data-node-id="1581:1607">
+        Choose an amount
+      </p>
+      <div className="absolute bg-white border border-[#c9d5de] border-solid h-[40px] left-[24px] rounded-[20px] top-[250px] w-[70px]" data-node-id="1581:1608" data-name="Amount chip $2" />
+      <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[23px] leading-[20px] left-[59px] not-italic text-[#3f596b] text-[15px] text-center top-[259px] w-[70px]" data-node-id="1581:1609">
+        $2
+      </p>
+      <div className="absolute bg-white border border-[#c9d5de] border-solid h-[40px] left-[106px] rounded-[20px] top-[250px] w-[70px]" data-node-id="1581:1610" data-name="Amount chip $5" />
+      <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[23px] leading-[20px] left-[141px] not-italic text-[#3f596b] text-[15px] text-center top-[259px] w-[70px]" data-node-id="1581:1611">
+        $5
+      </p>
+      <div className="absolute bg-white border border-[#c9d5de] border-solid h-[40px] left-[188px] rounded-[20px] top-[250px] w-[70px]" data-node-id="1581:1612" data-name="Amount chip $10" />
+      <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[23px] leading-[20px] left-[223px] not-italic text-[#3f596b] text-[15px] text-center top-[259px] w-[70px]" data-node-id="1581:1613">
+        $10
+      </p>
+      <div className="absolute bg-white border border-[#c9d5de] border-solid h-[40px] left-[270px] rounded-[20px] top-[250px] w-[70px]" data-node-id="1581:1614" data-name="Amount chip $20" />
+      <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[23px] leading-[20px] left-[305px] not-italic text-[#3f596b] text-[15px] text-center top-[259px] w-[70px]" data-node-id="1581:1615">
+        $20
+      </p>
+      <div className="absolute bg-white border border-[#c9d5de] border-solid h-[48px] left-[24px] rounded-[12px] top-[304px] w-[345px]" data-node-id="1581:1616" data-name="Other amount input" />
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[23px] leading-[20px] left-[40px] not-italic text-[#3f596b] text-[15px] top-[317px] w-[220px]" data-node-id="1581:1617">
+        Other amount
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[23px] leading-[20px] left-[335px] not-italic text-[#3f596b] text-[15px] top-[317px] w-[18px]" data-node-id="1581:1618">
+        $
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[24px] leading-[21px] left-[24px] not-italic text-[#3f596b] text-[16px] top-[374px] w-[345px]" data-node-id="1581:1619">
+        $2 = 5 kg of waste removed
+      </p>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[24px] leading-[21px] left-[24px] not-italic text-[#091727] text-[16px] top-[430px] w-[210px]" data-node-id="1581:1620">
+        Donate anonymously
+      </p>
+      <div className="absolute bg-[#a5e0f2] h-[28px] left-[319px] rounded-[14px] top-[426px] w-[50px]" data-node-id="1581:1621" data-name="Anonymous toggle" />
+      <div className="absolute left-[322px] size-[22px] top-[429px]" data-node-id="1581:1622" data-name="Toggle knob">
+        <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgToggleKnob} />
+      </div>
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[24px] leading-[21px] left-[24px] not-italic text-[#091727] text-[16px] top-[484px] w-[250px]" data-node-id="1581:1623">
+        Message (optional)
+      </p>
+      <div className="absolute bg-white border border-[#c9d5de] border-solid h-[92px] left-[24px] rounded-[12px] top-[514px] w-[345px]" data-node-id="1581:1624" data-name="Message input" />
+      <p className="[word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[22px] leading-[19px] left-[40px] not-italic text-[#3f596b] text-[14px] top-[531px] w-[310px]" data-node-id="1581:1625">
+        Leave a note for the campaign organizer...
+      </p>
+      <a className="absolute bg-[#43c4d6] block cursor-pointer h-[48px] left-[24px] rounded-[28px] top-[650px] w-[345px]" data-node-id="1581:1626" data-name="Continue button" />
+      <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:SemiBold'] font-semibold h-[32px] leading-[32px] left-[196.5px] not-italic text-[20px] text-center text-white top-[657px] w-[345px]" data-node-id="1581:1627">
+        Continue
+      </p>
+      <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Afacad_Flux:Regular'] font-normal h-[20px] leading-[16px] left-[196.5px] not-italic text-[#3f596b] text-[12px] text-center top-[720px] w-[345px]" data-node-id="1581:1628">
+        You can review your donation before confirming.
+      </p>
+      <div className="absolute contents inset-[7.98%_36.9%_86.85%_5.85%]" data-node-id="1581:1629" data-name="TopAppBar">
+        <div className="absolute bg-[#a5e0f2] inset-[7.98%_36.9%_86.97%_36.9%] rounded-[20px]" data-node-id="1581:1630" />
+        <button className="absolute block cursor-pointer inset-[8.1%_83.21%_86.85%_5.85%]" data-node-id="1581:1631">
+          <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup10276} />
+        </button>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute bottom-[87.91%] font-['Afacad_Flux:SemiBold'] font-semibold leading-[25.4px] left-1/2 not-italic text-[#3f596b] text-[20px] text-center top-[9.04%] whitespace-nowrap" data-node-id="1581:1634">
+          Donate
+        </p>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0.8)] content-stretch flex h-[59px] items-center justify-center left-0 overflow-clip right-0 top-0" data-node-id="1581:1635" data-name="Status Bar">
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="1581:1636" data-name="Time">
+          <div className="h-[13px] relative shrink-0 w-[40px]" data-node-id="1581:1637" data-name="Time">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgTime} />
+          </div>
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="1581:1639" data-name="Dynamic Island Frame">
+          <div className="bg-black h-[37px] relative rounded-[20px] shrink-0 w-[125px]" data-node-id="1581:1640" data-name="Dynamic Island" />
+        </div>
+        <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] gap-[8px] h-[59px] items-center justify-center min-w-px overflow-clip relative" data-node-id="1581:1641" data-name="Icons">
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="1581:1642" data-name="Reception">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgReception} />
+          </div>
+          <div className="h-[12px] relative shrink-0 w-[18px]" data-node-id="1581:1647" data-name="Wi-fi">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgWiFi} />
+          </div>
+          <div className="h-[13px] relative shrink-0 w-[28px]" data-node-id="1581:1649" data-name="Battery">
+            <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgBattery} />
+          </div>
+        </div>
+      </div>
+      <div className="absolute bg-[rgba(255,255,255,0)] content-stretch flex h-[34px] items-center justify-center left-0 overflow-clip pt-[13px] right-0 top-[818px]" data-node-id="1581:1653" data-name="Home Bar">
+        <div className="bg-black h-[5px] relative rounded-[3px] shrink-0 w-[134px]" data-node-id="1581:1654" data-name="Rectangle" />
+      </div>
+    </div>
+  );
+}
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+These styles are contained in the design: Report/Heading 2: Font(family: "Afacad Flux", style: SemiBold, size: 20, weight: 600, lineHeight: 25.399999618530273, letterSpacing: 0).
+The generated code contains image and SVG URL constants, e.g. const image = `${assetPathPrefix}/<asset file name>`, where assetPathPrefix is declared once at the top of the code and every asset URL interpolates it. These URLs are temporary download sources and expire after 7 days. Download each asset into the project with curl -L, then replace its URL in the generated code with a reference to the downloaded asset. Never use the temporary URLs as runtime image sources.
